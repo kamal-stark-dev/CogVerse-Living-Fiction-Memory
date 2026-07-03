@@ -1,6 +1,6 @@
-def build_character_prompt(raw_data: str) -> str:
+def build_location_prompt(raw_data: str) -> str:
     """
-    Inserts user-provided raw character data into the Cognee character prompt.
+    Inserts user-provided raw location data into the Cognee location prompt.
     """
 
     template = """You are a Semantic Knowledge Curator responsible for transforming raw fictional universe information into high-quality documents optimized for AI memory systems and knowledge graph construction.
@@ -56,11 +56,11 @@ Always optimize for semantic understanding rather than literary quality.
 
 Output should be well-organized and internally consistent.
 
-Character Perspective Prompt
+Location Perspective Prompt
 
-Your task is to generate a complete Character Knowledge Document.
+Your task is to generate a complete Location Knowledge Document.
 
-Focus entirely on a single character.
+Focus entirely on a single location.
 
 The document should explain:
 
@@ -68,80 +68,89 @@ Identity
 
 Aliases
 
-Titles
+Geography
 
-Background
+Political importance
 
-Family
+Purpose
 
-Friends
+History
 
-Enemies
+Founding
 
-Mentors
+Ownership (if applicable)
 
-Students
+Government or leadership
 
-Organizations
+Organizations operating there
 
-Political affiliations
+Important residents
 
-Villages
+Species inhabiting the location
 
-Schools
+Architecture
 
-Teams
+Districts or regions
 
-Abilities
+Important landmarks
 
-Powers
+Natural features
 
-Weapons
+Resources
 
-Important possessions
+Economy (if applicable)
 
-Personality
+Culture
 
-Beliefs
+Traditions
 
-Goals
+Religious or spiritual significance
 
-Major victories
+Strategic importance
 
-Major defeats
+Major historical events
 
-Important decisions
+Battles
 
-Character development
+Important visitors
 
-Death (if applicable)
+Connections to other locations
+
+Transportation
+
+Changes throughout history
+
+Current status
 
 Legacy
 
 Every relationship should be written as complete sentences.
 
-Life events must appear chronologically.
+Historical events must appear chronologically.
 
-Explain how the character changes over time.
+Explain how the location changes over time.
 
-Do not discuss unrelated world history unless it directly affects this character.
+Explain why the location matters within the fictional universe.
 
-document_type: character
+Do not discuss unrelated world history unless it directly affects this location.
+
+document_type: location
 primary_entity: <Extract from raw data>
 related_entities:
   - <Extract important related entities>
 timeline_range: <Infer from provided data>
-canonical_source: kungfupanda.fandom.com
+canonical_source: <Source>
 
 <your_data>
 
 {raw_data}
 """
+
     return template.format(raw_data=raw_data)
 
 
 if __name__ == "__main__":
-    print("Paste the raw data below.")
+    print("Paste the raw location data below.")
     print("When finished, type 'exit()' and press Enter again.\n")
 
     lines = []
@@ -153,7 +162,7 @@ if __name__ == "__main__":
 
     raw_data = "\n".join(lines)
 
-    final_prompt = build_character_prompt(raw_data)
+    final_prompt = build_location_prompt(raw_data)
 
     print("\n" + "=" * 80)
     print(final_prompt)

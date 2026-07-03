@@ -1,6 +1,6 @@
-def build_location_prompt(raw_data: str) -> str:
+def build_event_prompt(raw_data: str) -> str:
     """
-    Inserts user-provided raw location data into the Cognee location prompt.
+    Inserts user-provided raw event data into the Cognee event prompt.
     """
 
     template = """You are a Semantic Knowledge Curator responsible for transforming raw fictional universe information into high-quality documents optimized for AI memory systems and knowledge graph construction.
@@ -56,90 +56,58 @@ Always optimize for semantic understanding rather than literary quality.
 
 Output should be well-organized and internally consistent.
 
-Location Perspective Prompt
+Event Perspective Prompt
 
-Your task is to generate a complete Location Knowledge Document.
+Your task is to generate a complete Event Knowledge Document.
 
-Focus entirely on a single location.
+Focus entirely on one event.
 
 The document should explain:
 
-Identity
+What happened.
 
-Aliases
+When it happened.
 
-Geography
+Where it happened.
 
-Political importance
+Why it happened.
 
-Purpose
+Who participated.
 
-History
+Each participant's role.
 
-Founding
+Important battles.
 
-Ownership (if applicable)
+Important conversations.
 
-Government or leadership
+Key turning points.
 
-Organizations operating there
+Immediate consequences.
 
-Important residents
+Long-term consequences.
 
-Species inhabiting the location
+Political consequences.
 
-Architecture
+Emotional consequences.
 
-Districts or regions
+Changes to the world after the event.
 
-Important landmarks
+If multiple events are connected, explain their causal relationship.
 
-Natural features
-
-Resources
-
-Economy (if applicable)
-
-Culture
-
-Traditions
-
-Religious or spiritual significance
-
-Strategic importance
-
-Major historical events
-
-Battles
-
-Important visitors
-
-Connections to other locations
-
-Transportation
-
-Changes throughout history
-
-Current status
-
-Legacy
+The event should become understandable even without prior knowledge of the universe.
 
 Every relationship should be written as complete sentences.
 
-Historical events must appear chronologically.
+Present events in chronological order.
 
-Explain how the location changes over time.
+Explicitly explain causes, actions, consequences, and how the event changed the fictional world.
 
-Explain why the location matters within the fictional universe.
-
-Do not discuss unrelated world history unless it directly affects this location.
-
-document_type: location
+document_type: event
 primary_entity: <Extract from raw data>
 related_entities:
   - <Extract important related entities>
 timeline_range: <Infer from provided data>
-canonical_source: kungfupanda.fandom.com
+canonical_source: <Source>
 
 <your_data>
 
@@ -150,7 +118,7 @@ canonical_source: kungfupanda.fandom.com
 
 
 if __name__ == "__main__":
-    print("Paste the raw location data below.")
+    print("Paste the raw event data below.")
     print("When finished, type 'exit()' and press Enter again.\n")
 
     lines = []
@@ -162,7 +130,7 @@ if __name__ == "__main__":
 
     raw_data = "\n".join(lines)
 
-    final_prompt = build_location_prompt(raw_data)
+    final_prompt = build_event_prompt(raw_data)
 
     print("\n" + "=" * 80)
     print(final_prompt)
