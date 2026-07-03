@@ -1,0 +1,16 @@
+document_type: location
+primary_entity: New York City
+related_entities:
+  - Avengers
+  - Tony Stark
+  - Spider-Man
+  - Doctor Strange
+  - Loki
+  - Chitauri
+  - S.H.I.E.L.D.
+timeline_range: MCU present day
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+New York City is one of the most important locations in the Marvel Cinematic Universe and a central home base for many of its heroes. The city functions as a densely populated urban battlefield, a place of ordinary human life, and a recurring site of major superhuman conflict. New York City is closely tied to the Avengers, Spider-Man, Doctor Strange, S.H.I.E.L.D., and multiple alien or magical invasions.
+
+The Battle of New York made the city the symbolic birthplace of the Avengers as a public team. Later conflicts involving Spider-Man, Doctor Strange, the multiverse, and street-level crime continue to make the city one of the MCU's most important settings. New York City matters because it shows how superhuman events constantly intersect with ordinary civic life.
