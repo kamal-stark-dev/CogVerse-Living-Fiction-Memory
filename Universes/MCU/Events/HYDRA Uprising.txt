@@ -1,0 +1,18 @@
+document_type: event
+primary_entity: HYDRA Uprising
+related_entities:
+  - Hydra
+  - S.H.I.E.L.D.
+  - Steve Rogers
+  - Natasha Romanoff
+  - Nick Fury
+  - Bucky Barnes
+  - Winter Soldier
+timeline_range: 2014
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+The HYDRA Uprising was the revelation and collapse of Hydra's long-term infiltration of S.H.I.E.L.D. The event occurred when Steve Rogers, Natasha Romanoff, and their allies uncovered that Hydra had secretly nested inside S.H.I.E.L.D. for years. The uprising exposed a hidden war inside the world's most important security organization and shattered trust in the institution.
+
+The main figures in the uprising included Steve Rogers, Natasha Romanoff, Nick Fury, and Bucky Barnes, whose Winter Soldier identity was tied to Hydra's history of control and assassination. The conflict showed that Hydra was not simply a surviving villain group but a systemic threat embedded inside public power. The revelation forced Steve Rogers to reject blind institutional trust and act independently.
+
+The immediate consequence was the collapse of S.H.I.E.L.D. as a trusted global authority. The long-term consequence was political chaos, the scattering of surviving agents, and the reshaping of the MCU's intelligence landscape. The uprising is one of the clearest examples of hidden corruption being more dangerous than open war.
