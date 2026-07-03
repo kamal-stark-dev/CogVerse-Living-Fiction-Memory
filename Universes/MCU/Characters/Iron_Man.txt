@@ -1,0 +1,27 @@
+document_type: character
+primary_entity: Tony Stark / Iron Man
+related_entities:
+  - Pepper Potts
+  - Howard Stark
+  - James Rhodes
+  - Avengers
+  - S.H.I.E.L.D.
+  - Loki
+  - Ultron
+  - Thanos
+  - Doctor Strange
+  - Peter Parker
+  - Arc Reactor
+  - New York City
+timeline_range: Iron Man through Endgame
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+Tony Stark, commonly known as Iron Man, is a genius inventor, industrialist, and superhero who becomes one of the central figures of the Marvel Cinematic Universe. Tony Stark is the son of Howard Stark and Maria Stark, and he inherits Stark Industries before transforming it from a weapons company into a force for advanced technology and global defense. Tony Stark is closely connected to Pepper Potts and James Rhodes, both of whom become key allies in his life and work. Tony Stark creates the Iron Man armor after his capture by the Ten Rings and uses the first Arc Reactor to keep himself alive after shrapnel from the attack threatens his heart.
+
+Tony Stark's life changes when he turns his technology against the weapons trade that once defined his company. He publicly reveals himself as Iron Man and then becomes a founding member of the Avengers. Tony Stark plays major roles in the Battle of New York, the Ultron crisis, the fight against Thanos, and the final battle in Endgame. Tony Stark is often impulsive, witty, and self-assured, but those traits are paired with strong protectiveness, guilt over his past mistakes, and a constant drive to improve his armor and his judgment.
+
+Tony Stark's relationship with the Avengers shapes much of his character growth. He begins as an isolated billionaire inventor and gradually becomes a team player who accepts responsibility for larger-scale threats. Tony Stark helps build defensive systems for Earth, develops the suits that define his identity, and repeatedly places himself in danger to protect others. His relationship with Peter Parker shows that Tony Stark eventually becomes a mentor figure as well as a warrior.
+
+Tony Stark's greatest strengths are his intelligence, creativity, and willingness to improvise under pressure. He often solves problems through engineering rather than brute force, and he uses his suits, the Arc Reactor, and advanced Stark technology to counter enemies far stronger than himself. Tony Stark's greatest weakness is his tendency to act from fear and overcompensation, which contributes to the creation of Ultron and to many of his conflicts with allies.
+
+Tony Stark's final act in the MCU is his sacrifice during the battle against Thanos. He steals the Infinity Stones, uses the Nano Gauntlet, and snaps Thanos and his army out of existence at the cost of his own life. Tony Stark's death completes his arc from a self-focused weapons manufacturer to a hero who saves the universe through self-sacrifice. His legacy lives on through Pepper Potts, Peter Parker, the Avengers, and the technology he leaves behind.
