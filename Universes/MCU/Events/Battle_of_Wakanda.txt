@@ -1,0 +1,21 @@
+document_type: event
+primary_entity: Battle of Wakanda
+related_entities:
+  - Avengers
+  - Wakanda
+  - T'Challa
+  - Okoye
+  - Shuri
+  - Thanos
+  - Infinity Stones
+  - Bruce Banner
+  - Steve Rogers
+  - Thor
+timeline_range: 2018
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+The Battle of Wakanda was the decisive ground conflict in the war against Thanos before the Snap. The battle took place in Wakanda after the Avengers and their allies brought Vision there in an attempt to remove the Mind Stone safely. Thanos's forces attacked Wakanda because he wanted the Mind Stone, and Wakanda became the final defensive stand for Earth before the universe-wide catastrophe.
+
+The Wakandan forces fought alongside the Avengers, with T'Challa, Okoye, Shuri, Steve Rogers, Thor, Bruce Banner, and others defending the country. The battle showed Wakanda's technological strength, military discipline, and willingness to stand openly against a cosmic threat. The defense was heroic but ultimately insufficient because Thanos personally arrived and completed his plan.
+
+The immediate consequence of the battle was the death of Vision and the successful completion of the Snap. The long-term consequence was the transformation of Wakanda into one of the MCU's most important global powers and emotional centers. The battle also demonstrated that even the strongest alliance on Earth could not defeat Thanos without a larger strategy.
