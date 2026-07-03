@@ -1,0 +1,121 @@
+document_type: character
+primary_entity: Tom Marvolo Riddle
+related_entities:
+  - Lord Voldemort
+  - Harry Potter
+  - Albus Dumbledore
+  - Merope Gaunt
+  - Tom Riddle Senior
+  - Salazar Slytherin
+  - House of Gaunt
+  - Death Eaters
+  - Bellatrix Lestrange
+  - Delphini
+  - Hogwarts School of Witchcraft and Wizardry
+  - Slytherin House
+  - Borgin and Burkes
+  - British Ministry of Magic
+  - Myrtle Warren
+  - Basilisk
+  - Nagini
+  - Wool's Orphanage
+  - Chamber of Secrets
+  - Horcruxes
+  - Gellert Grindelwald
+  - Severus Snape
+  - Regulus Black
+  - Kreacher
+  - Dobby
+  - Minerva McGonagall
+  - Kingsley Shacklebolt
+  - Horace Slughorn
+  - Fenrir Greyback
+  - Charity Burbage
+  - Scorpius Malfoy
+  - Albus Potter
+  - Draco Malfoy
+  - Sirius Black
+  - Remus Lupin
+  - Rubeus Hagrid
+  - Cornelius Fudge
+  - Lee Jordan
+timeline_range: 1926–1998 (legacy continues beyond death)
+canonical_source: Harry Potter series
+
+Tom Marvolo Riddle was an English half-blood wizard who later abandoned his birth name and became Lord Voldemort. Throughout his life he was also known as the Dark Lord, the Heir of Slytherin, You-Know-Who, He-Who-Must-Not-Be-Named, and Chief Death Eater. He became the leader of the Death Eaters and was widely regarded as the most powerful and dangerous Dark wizard in history. His magical ability was considered extraordinary even among the greatest witches and wizards, and he was commonly regarded as second only to Albus Dumbledore in magical power. Voldemort devoted his entire life to acquiring absolute power and immortality, ultimately transforming both his body and soul through repeated use of the Dark Arts.
+
+Tom Marvolo Riddle was born on 31 December 1926 at Wool's Orphanage in London, England. His mother was Merope Gaunt, the final descendant of the ancient House of Gaunt and a direct descendant of Salazar Slytherin through her family line. His father was Tom Riddle Senior, a wealthy Muggle from Little Hangleton. Tom Riddle was therefore a half-blood wizard despite later promoting pure-blood supremacy.
+
+Tom Riddle's conception occurred while Tom Riddle Senior was under the influence of a love potion administered by Merope Gaunt. When the magical effects ended, Tom Riddle Senior abandoned his pregnant wife after discovering she was a witch and returned to his family in Little Hangleton. Merope gave birth to her son shortly before dying approximately one hour later. Before her death she requested that her son be named Tom after his father and Marvolo after her own father, Marvolo Gaunt. Consequently the child received the name Tom Marvolo Riddle and was raised without either parent.
+
+Tom Riddle grew up at Wool's Orphanage under Muggle care. His childhood was marked by isolation, emotional detachment, manipulation, theft, cruelty, and deliberate intimidation of other children. Even before learning about the wizarding world, he possessed exceptional unconscious control over accidental magic. He demonstrated wandless magical abilities by moving objects with his mind, influencing animals, and terrorising fellow orphans. These early behaviours established patterns that continued throughout his entire life, including his desire for dominance, emotional coldness, and enjoyment of controlling others.
+
+In 1938, Tom Riddle entered Hogwarts School of Witchcraft and Wizardry and was sorted into Slytherin House. He quickly established himself as the school's most brilliant student. Albus Dumbledore later described Tom Riddle as the most brilliant student ever to attend Hogwarts. Tom combined exceptional intelligence with remarkable charm, politeness, and academic excellence. Teachers admired him, students respected him, and he successfully cultivated the public image of an exemplary orphan who was intelligent, courageous, and hardworking. Behind this carefully maintained façade, however, Tom secretly committed numerous harmful acts that were rarely connected to him.
+
+While attending Hogwarts, Tom Riddle gradually uncovered his ancestry through the Gaunt family. He discovered that he descended directly from Salazar Slytherin and became obsessed with this bloodline. After learning that his father had been a Muggle who abandoned his mother, Tom developed profound hatred toward his paternal heritage. He embraced pure-blood supremacist ideology, publicly presenting himself as the champion of wizarding blood purity despite secretly being half-blood himself. His claims of blood purity were therefore politically motivated rather than sincere expressions of personal identity. He concealed his Muggle ancestry while glorifying his descent from Salazar Slytherin.
+
+Tom Riddle became Prefect in 1942 and later Head Boy before graduating in 1945. These positions increased his influence within Hogwarts and further reinforced the false perception that he was an ideal student. During this period he also surrounded himself with a close circle of loyal followers who would later become the original Death Eaters.
+
+While still a Hogwarts student, Tom Riddle discovered the Chamber of Secrets created by Salazar Slytherin. As the Heir of Slytherin, he possessed the ability to open the Chamber through Parseltongue. He released the Basilisk hidden within the Chamber and ordered it to attack Muggle-born students. These attacks culminated in the death of Myrtle Warren. The murder of Myrtle Warren became historically significant because Tom Riddle used it to create his first Horcrux at sixteen years of age. This event marked the beginning of his lifelong pursuit of immortality through repeated fragmentation of his own soul.
+
+Tom Riddle became fascinated with immortality and sought knowledge about Horcruxes. Between 1943 and 1998 he deliberately split his soul multiple times through murder. Ultimately his soul existed in eight fragments. He intentionally created seven Horcruxes, an unprecedented achievement in Dark magic, while an eighth soul fragment attached itself unintentionally to Harry Potter after Voldemort's failed attempt to kill the infant. His intentional Horcruxes consisted of his school diary, Marvolo Gaunt's Ring, Salazar Slytherin's Locket, Helga Hufflepuff's Cup, Rowena Ravenclaw's Diadem, Nagini, and his primary body. Harry Potter became an accidental Horcrux without Voldemort's knowledge. As long as at least one Horcrux remained intact, Voldemort could not permanently die.
+
+After graduating from Hogwarts in 1945, Tom Riddle worked as a purchasing agent for Borgin and Burkes, a shop specialising in Dark magical artefacts. His intelligence, charm, and reputation as a model student enabled him to gain the trust of wealthy clients while secretly searching for historically significant magical objects connected to Hogwarts' founders. His employment provided opportunities to acquire artefacts that later became Horcruxes.
+
+After leaving Borgin and Burkes, Tom Riddle disappeared from public view for several years. During this period he immersed himself in advanced Dark magic, created additional Horcruxes, underwent dangerous magical transformations, and gradually abandoned his human identity. He permanently rejected the name Tom Riddle because it reminded him of his Muggle father. He rearranged the letters of "Tom Marvolo Riddle" into the anagram "I am Lord Voldemort" and adopted Lord Voldemort as his chosen identity. He believed the new name would become feared throughout the wizarding world and symbolise his transformation into the greatest sorcerer alive.
+
+Voldemort deliberately erased nearly all public knowledge linking him to Tom Marvolo Riddle. Very few individuals knew his birth name. As his reputation for terror increased, most witches and wizards became unwilling to pronounce "Voldemort" aloud. Instead they referred to him as You-Know-Who or He-Who-Must-Not-Be-Named. His followers addressed him as the Dark Lord or Master. The widespread fear surrounding his name became an important psychological weapon that enhanced his influence.
+
+Albus Dumbledore deliberately refused to participate in this culture of fear. Dumbledore regularly referred to him as Voldemort in conversation and addressed him personally as Tom. Dumbledore believed that fearing a name only strengthened fear of the individual behind it. Harry Potter later adopted the same approach during his final confrontation by calling Voldemort "Riddle" to reject the mythological image that Voldemort had carefully constructed.
+
+Voldemort founded and commanded the Death Eaters, an organisation composed primarily of pure-blood supremacists, ambitious aristocratic families, criminals, and loyal followers. Although Voldemort publicly promoted blood purity, his primary objective was never ideological equality for pure-bloods. Instead, he manipulated existing prejudice to secure loyal followers and establish personal dictatorship over the wizarding world. His alliance with the Death Eaters resulted from his Slytherin heritage, his direct descent from Salazar Slytherin, and his promise to advance pure-blood political interests while actually pursuing only his own absolute authority.
+
+Voldemort's greatest ambition was complete immortality combined with unlimited magical power. He valued no individual except himself and viewed every person, magical object, organisation, and creature according to its usefulness in achieving his goals. He rejected conventional ideas of morality, believing only power had genuine value and that weakness deserved destruction. His inability to understand love, loyalty, innocence, sacrifice, friendship, and compassion became one of the defining limitations of his character.
+
+Albus Dumbledore repeatedly observed that Voldemort fundamentally failed to understand forms of magic rooted in love, loyalty, and self-sacrifice. Voldemort considered such emotions meaningless because they possessed no obvious military or political value. This intellectual blind spot repeatedly contributed to his failures and eventually caused his downfall.
+
+Voldemort remained incapable of remorse throughout his life. He murdered countless witches, wizards, Muggles, and magical creatures without guilt. His complete absence of empathy distinguished him even from many other Dark wizards. Dumbledore stated that Voldemort had progressed beyond ordinary evil, while Rubeus Hagrid described him as becoming "worse than worse." Voldemort's crimes included mass murder, torture, political oppression, creation of Inferi from the bodies of his victims, persecution of Muggle-borns, and repeated violations of fundamental magical ethics.
+
+Despite his overwhelming magical intelligence, Voldemort possessed significant psychological weaknesses. He consistently underestimated people whom he regarded as socially inferior. He dismissed house-elves because he believed they possessed insignificant magic. This prejudice directly enabled Kreacher to escape the cave with Salazar Slytherin's Locket after Regulus Black sacrificed himself, preserving evidence that ultimately contributed to Voldemort's defeat. Later, Dobby bypassed magical protections at Voldemort's headquarters because Voldemort never considered defending against house-elf magic. Dobby's rescue of Harry Potter prevented Voldemort from killing Harry during that encounter.
+
+Voldemort preferred killing opponents personally during direct confrontation. He regarded assassination from behind or assistance from others as unsatisfactory when confronting significant enemies. During the graveyard duel, he intentionally prevented Death Eaters from interfering because he wanted personally to witness Harry Potter's death. Even while obsessed with destroying Harry, Voldemort insisted on facing him directly.
+
+Although Voldemort publicly championed blood purity, his policies revealed political opportunism rather than ideological consistency. He accepted the werewolf Fenrir Greyback as an ally without granting him formal Death Eater status. During his control of Hogwarts, half-blood students continued attending despite reduced social standing. Voldemort murdered Charity Burbage because she publicly defended Muggles, Muggle-borns, and intermarriage, demonstrating his willingness to eliminate ideological opposition regardless of educational or humanitarian motives.
+
+Voldemort eventually launched the First Wizarding War, leading the Death Eaters against the Ministry of Magic and opponents throughout Britain. His campaign consisted of widespread murder, terror, torture, political intimidation, and systematic persecution. His influence became so overwhelming that many witches and wizards feared even speaking his name.
+
+In 1981, Voldemort attempted to murder the infant Harry Potter. Instead of killing Harry, Voldemort's Killing Curse rebounded and destroyed his physical body. Because multiple Horcruxes still existed, Voldemort survived as a mutilated, bodiless soul. For approximately fourteen years he existed as what he later described as a shell, less substantial than the meanest ghost, incapable of true life yet unable to die.
+
+During this disembodied period Voldemort remained dependent upon loyal followers and Dark magic while searching for a method to regain physical form. His continued survival demonstrated the effectiveness of his Horcruxes and justified his lifelong pursuit of soul fragmentation from his own perspective.
+
+In 1995, Voldemort successfully regained a permanent physical body. His restored appearance reflected decades of Dark magical corruption. The handsome young Tom Riddle had transformed into a skeletal figure with chalk-white skin, scarlet eyes possessing slit pupils, snake-like nostrils, no hair, no lips, unnaturally long fingers, and an overall resemblance to a skull. His transformation was widely believed to result primarily from repeatedly dividing his soul through Horcrux creation, although Albus Dumbledore also speculated that additional Dark magical experiments contributed to his appearance.
+
+Following his return, Voldemort initiated the Second Wizarding War. He rebuilt the Death Eaters, recruited Dark creatures including giants and werewolves, manipulated the Ministry of Magic, infiltrated Hogwarts, and ultimately succeeded in taking control of the British Ministry of Magic. Under his regime, the Ministry implemented policies persecuting Muggle-born witches and wizards while institutionalising pure-blood supremacy as official government doctrine. These policies primarily served Voldemort's personal dictatorship rather than genuine concern for aristocratic interests.
+
+During the period between the Battle of the Department of Mysteries in 1996 and the Battle of Hogwarts in 1998, Voldemort conceived a daughter, Delphini, with Bellatrix Lestrange. Bellatrix Lestrange remained one of Voldemort's most devoted followers throughout both Wizarding Wars. The existence of Delphini remained unknown to almost everyone during Voldemort's lifetime.
+
+Voldemort's magical abilities were exceptional across nearly every recognised discipline. He possessed extraordinary natural magical talent from childhood and demonstrated conscious control over accidental magic long before formal education. His mastery included advanced wandless magic, manipulation of living creatures, telekinetic abilities, unparalleled knowledge of the Dark Arts, and exceptional magical theory.
+
+Voldemort became recognised as the greatest Dark Arts practitioner of his era. His understanding of forbidden magic surpassed nearly every other known wizard. He developed magical techniques that even he claimed Albus Dumbledore had never imagined.
+
+As a duellist, Voldemort was considered nearly unbeatable. Only Albus Dumbledore consistently matched him in magical combat. During the Battle of Hogwarts he simultaneously overwhelmed Minerva McGonagall, Kingsley Shacklebolt, and Horace Slughorn despite magical protection preventing him from delivering fatal attacks. His offensive power, magical speed, precision, and adaptability placed him among history's greatest duelists.
+
+Voldemort carried a thirteen-and-one-half-inch yew wand containing a phoenix feather core as his primary wand. He temporarily possessed an elm wand with a dragon heartstring core. He later obtained the Elder Wand, measuring fifteen inches with a Thestral tail hair core. Although he physically possessed the Elder Wand, he never truly mastered its allegiance in the primary timeline. In an alternate timeline created through the actions of Scorpius Malfoy and Albus Potter, Voldemort successfully mastered the Elder Wand.
+
+Voldemort never possessed a Patronus because his personality lacked the positive emotional foundation necessary to produce the Patronus Charm. His overwhelming evil, absence of compassion, and fragmented soul rendered him incapable of generating the benevolent magical energy required for the spell.
+
+Voldemort's boggart took the form of his own corpse. This fear reflected the central obsession governing his entire existence: the terror of death. His pursuit of Horcruxes, immortality, political domination, and ultimate magical power all originated from his refusal to accept mortality.
+
+Throughout his life Voldemort underwent profound physical and psychological transformation. As Tom Riddle he appeared handsome, charismatic, intelligent, polite, and academically brilliant. His appearance resembled his father almost entirely, showing little resemblance to the Gaunt family. As his involvement with Dark magic intensified, his appearance gradually became increasingly reptilian and inhuman. His humanity deteriorated alongside repeated fragmentation of his soul until his final body physically reflected his moral corruption.
+
+The destruction of Voldemort's Horcruxes became the central strategy employed by Albus Dumbledore and Harry Potter. One by one, every Horcrux was eliminated, removing the magical anchors that prevented his permanent death. Harry Potter unknowingly carried one fragment until it was destroyed, allowing the final confrontation to occur.
+
+On 2 May 1998, during the Battle of Hogwarts inside the Great Hall of Hogwarts Castle, Harry Potter confronted Voldemort in their final duel. Voldemort attempted to kill Harry with the Killing Curse using the Elder Wand. Because the Elder Wand's true allegiance belonged elsewhere, the curse rebounded. Voldemort was struck by his own Killing Curse and died permanently after every Horcrux had already been destroyed. His death ended both the Second Wizarding War and his dictatorship over magical Britain.
+
+Following Voldemort's death, his mutilated soul did not proceed to the afterlife. Instead, the damaged remnants of his soul became permanently trapped in limbo, unable either to move onward or return as a disembodied spirit. This eternal state represented the ultimate consequence of repeatedly violating the natural integrity of the human soul through Horcrux creation.
+
+Although Voldemort died without legitimate succession, his bloodline continued through his daughter Delphini. Delphini therefore became the sole known surviving direct descendant of Tom Marvolo Riddle.
+
+Voldemort's legacy extended beyond his biological descendants. His reign permanently transformed British magical history through two Wizarding Wars, institutional persecution, widespread political terror, and unprecedented use of Horcruxes. His fear-driven reputation became so influential that simply speaking his chosen name once summoned Death Eaters, Ministry officials, or Snatchers through the Taboo enchantment after the Ministry fell in 1997. This magical surveillance system allowed Voldemort's government to identify political opponents because only those resisting his rule dared pronounce his name.
+
+After Voldemort's defeat, fear surrounding his name gradually disappeared. Survivors such as Draco Malfoy openly referred to him by name, and books including *Marvolo: The Truth* revealed his origins and connection to the impoverished Gaunt family. Public knowledge of Tom Marvolo Riddle's true identity dismantled much of the myth and mystery that Voldemort had deliberately cultivated throughout his life. His carefully constructed image of invincible terror ultimately collapsed alongside the permanent destruction of his body, his Horcruxes, and his fragmented soul.
