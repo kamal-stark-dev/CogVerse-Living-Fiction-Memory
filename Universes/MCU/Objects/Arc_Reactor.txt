@@ -1,0 +1,14 @@
+document_type: object
+primary_entity: Arc Reactor
+related_entities:
+  - Tony Stark
+  - Iron Man
+  - Stark Industries
+  - Pepper Potts
+  - Howard Stark
+timeline_range: Iron Man through Endgame
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+The Arc Reactor is Tony Stark's compact clean-energy device and one of the most important technological objects in the Marvel Cinematic Universe. Tony Stark first uses an early version of the Arc Reactor to keep shrapnel from reaching his heart after his capture in Afghanistan. The reactor then becomes the power source that enables the first Iron Man armor and the later evolution of Stark's suits.
+
+The Arc Reactor matters because it represents Tony Stark's transformation from weapons manufacturer to life-saving inventor. It is both a literal life-support device and a symbolic source of the Iron Man identity. The reactor's influence continues long after its original purpose is no longer needed, because the technology it inspired shapes Stark's later armor and energy systems.

@@ -1,0 +1,16 @@
+document_type: object
+primary_entity: Infinity Stones
+related_entities:
+  - Thanos
+  - Infinity Gauntlet
+  - Tesseract
+  - Loki
+  - Doctor Strange
+  - Vision
+  - Wanda Maximoff
+timeline_range: Ancient cosmic history through Endgame
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+The Infinity Stones are six primordial objects of immense cosmic power that represent different aspects of existence. In the MCU they include the Space Stone, Mind Stone, Reality Stone, Power Stone, Time Stone, and Soul Stone. The Stones are among the most important objects in the entire franchise because they connect multiple storylines and define the Infinity Saga.
+
+The Infinity Stones matter because nearly every major MCU phase eventually leads back to them. They empower or corrupt whoever holds them, and they become the central goal of Thanos's campaign. In the end, the Stones are gathered, used, and then relinquished as part of the Avengers' attempt to restore the universe after the Snap.
