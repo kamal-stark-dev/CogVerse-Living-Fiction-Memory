@@ -2,3 +2,6 @@
 .venv
 
 generated_prompt.txt
+
+.cognee_data/
+.cognee_system/
