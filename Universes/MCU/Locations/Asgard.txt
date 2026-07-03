@@ -1,0 +1,16 @@
+document_type: location
+primary_entity: Asgard
+related_entities:
+  - Odin
+  - Thor
+  - Loki
+  - Frigga
+  - Bifrost
+  - Heimdall
+  - New Asgard
+timeline_range: Ancient era through Ragnarok and beyond
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+Asgard is the realm of the Asgardian royal family and one of the most important locations in the MCU's cosmic mythology. Asgard is home to Odin, Thor, Loki, Frigga, and many other Asgardians, and it is connected to other realms through the Bifrost. The realm combines royal authority, warrior culture, and divine symbolism.
+
+Asgard is destroyed during Ragnarok, but its legacy survives in the people who escape and later establish New Asgard on Earth. Asgard matters because it shows the collapse of a great civilization and the transfer of responsibility from empire to survival and adaptation.

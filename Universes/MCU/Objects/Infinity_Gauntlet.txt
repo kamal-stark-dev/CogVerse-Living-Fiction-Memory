@@ -1,0 +1,14 @@
+document_type: object
+primary_entity: Infinity Gauntlet
+related_entities:
+  - Thanos
+  - Infinity Stones
+  - Avengers
+  - Nano Gauntlet
+  - Eitri
+timeline_range: Infinity War through Endgame
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+The Infinity Gauntlet is the device Thanos uses to harness the six Infinity Stones at once. The gauntlet is designed to channel cosmic power through a single wielder, making it one of the most dangerous objects in the MCU. Its use turns the Stones from separate artifacts into a unified weapon of universal scale.
+
+The Infinity Gauntlet matters because it is the tool that makes the Snap possible. It also becomes the central object that the Avengers must counter in Endgame, when Tony Stark eventually creates and uses the Nano Gauntlet to reverse Thanos's victory. The gauntlet is therefore the physical embodiment of Thanos's plan and the target of the heroes' final resistance.

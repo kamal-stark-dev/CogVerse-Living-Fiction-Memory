@@ -1,0 +1,19 @@
+document_type: character
+primary_entity: Nick Fury
+related_entities:
+  - S.H.I.E.L.D.
+  - Avengers
+  - Maria Hill
+  - Captain Marvel
+  - Tony Stark
+  - Natasha Romanoff
+  - Clint Barton
+  - Tesseract
+timeline_range: Captain Marvel era through The Marvels era
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+Nick Fury is the former director of S.H.I.E.L.D. and the architect of the Avengers Initiative. Nick Fury is one of the MCU's most important human strategists, connecting heroes, organizations, and world events into a coherent defense network. He is known for secrecy, pragmatism, patience, and a willingness to manipulate situations to achieve a larger protective goal.
+
+Nick Fury is closely associated with Maria Hill, Tony Stark, Natasha Romanoff, Clint Barton, and Captain Marvel. His work with these figures helps establish the early structure of the MCU's hero network. Nick Fury identifies exceptional individuals, gathers intelligence, and often operates behind the scenes rather than in direct combat.
+
+Nick Fury's story includes the collapse of S.H.I.E.L.D., the formation of the Avengers, the aftermath of the Battle of New York, and later efforts to manage cosmic threats. Nick Fury is less of a frontline fighter than a coordinator, but his influence shapes nearly every major phase of the MCU. His legacy is the idea that the right people, brought together at the right time, can become a defense strong enough to face almost anything.

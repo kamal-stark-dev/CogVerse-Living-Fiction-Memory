@@ -1,0 +1,22 @@
+document_type: event
+primary_entity: Battle of New York
+related_entities:
+  - Loki
+  - Chitauri
+  - Avengers
+  - S.H.I.E.L.D.
+  - Tony Stark
+  - Steve Rogers
+  - Thor
+  - Natasha Romanoff
+  - Clint Barton
+  - New York City
+  - Tesseract
+timeline_range: 2012
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+The Battle of New York was the first major public superhero battle in the Marvel Cinematic Universe and one of the most important events in the formation of the Avengers. The battle took place in New York City after Loki used the Tesseract to open a portal and bring the Chitauri army to Earth. Loki's attack was both an invasion and a test of Earth's defenses, and it forced the world's first great hero team to assemble under extreme pressure.
+
+The Avengers participated directly in the battle, with Tony Stark, Steve Rogers, Thor, Natasha Romanoff, Bruce Banner, and Clint Barton each playing essential roles. S.H.I.E.L.D. helped coordinate the response, but the battle was ultimately won by the Avengers acting together rather than by any single institution. The destruction spread across the city as the Chitauri attacked civilians, buildings, and military targets.
+
+The battle ended when Tony Stark flew a nuclear missile through the portal and into the Chitauri fleet, disabling the invasion force. The immediate consequence was the defense of Earth, but the larger consequence was the public emergence of the Avengers as a global force. The Battle of New York also convinced many people that alien threats were real and that Earth required a new level of defense and cooperation.
