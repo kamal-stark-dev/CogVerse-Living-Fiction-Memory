@@ -1,0 +1,33 @@
+document_type: character
+primary_entity: Saul Goodman / Jimmy McGill
+related_entities:
+  - Walter White
+  - Jesse Pinkman
+  - Mike Ehrmantraut
+  - Skyler White
+  - Hank Schrader
+  - Kim Wexler
+  - Chuck McGill
+  - Huell Babineaux
+  - Patrick Kuby
+  - Francesca Liddy
+  - Ed Galbraith
+  - Lalo Salamanca
+  - Nacho Varga
+  - Howard Hamlin
+  - Saul Goodman's Office
+  - A1A Car Wash
+timeline_range: 2002–2010 (Better Call Saul / Breaking Bad); fugitive era 2010
+canonical_source: breakingbad.fandom.com
+
+Saul Goodman, born James Morgan McGill on November 12, 1960, in Cicero, Illinois, is a criminal defense lawyer, former con artist, and the legal architect of Walter White's drug empire. The name Saul Goodman is a deliberate persona — a play on "s'all good, man" — designed to present as a fast-talking, street-connected lawyer who would do for criminals what conventional attorneys would not. In reality, Saul Goodman was Jimmy McGill, the younger brother of the brilliant and deeply resentful attorney Chuck McGill, a man whose entire career was shaped by a need to escape the shadow of a brother who despised him.
+
+Saul Goodman operated a flamboyant, low-budget law practice from a strip mall office across from the Albuquerque courthouse, advertising through campy late-night TV commercials and building a client base almost entirely from the criminal underworld. Despite the gaudy exterior, Saul was a genuinely effective lawyer — resourceful, creative, capable of finding loopholes and engineering improbable victories. He was also deeply enmeshed in extralegal operations: he employed Huell Babineaux as his bodyguard, Patrick Kuby as his fixer, and maintained a back-channel relationship with Mike Ehrmantraut as his private investigator and cleaner. He could arrange for dead drops, evidence disappearance, fake identities, and introductions to the most dangerous figures in Albuquerque's criminal hierarchy.
+
+Saul Goodman's involvement with Walt and Jesse began when Jesse convinced a reluctant Walt to hire a "criminal lawyer" — meaning a lawyer who is also a criminal — to handle their legal complications. After Walt and Jesse kidnapped Saul in the desert at gunpoint and threatened him, Saul recognized Walt as the Heisenberg behind the blue meth and immediately saw the business opportunity. He became Walt's consigliere: laundering money through Walt Jr.'s SaveWalterWhite.com website, purchasing the A1A Car Wash as a money laundering front, connecting Walt to Gus Fring, dispatching Mike to handle crime scene cleanup after Jane's death, orchestrating the Badger decoy operation, and advising Walt through every escalating crisis for two years.
+
+Saul Goodman was not without ethical limits — he genuinely did not know that Walt had poisoned Brock when he facilitated Huell's pickpocketing of Jesse's ricin cigarette, and he was genuinely horrified when he learned the truth. He repeatedly suggested to Walt that Jesse be "handled," and was equally repeatedly overruled. His relationship with Walt was ultimately one of a man more intelligent than his employer operating in constant fear of him: by the end, Saul knew he was complicit in the murder of at least ten men and the destruction of a dozen lives, but was too afraid and too enmeshed to escape.
+
+After Heisenberg's identity was exposed, Saul used Ed Galbraith to disappear to Omaha, Nebraska, where he lived under the alias Gene Takavic, managing a Cinnabon. Years later, when his identity was exposed again by a cab driver who recognized him from his old TV commercials, Jimmy eventually returned to Albuquerque, was arrested, and — in his most important act of his life — discarded both the Saul Goodman and Gene Takavic personas in open court to confess fully as James McGill. He credited Kim Wexler with having the courage to leave the life and said he had run away instead. He was sentenced to 86 years in federal prison, but the sentence was the first time in his life that Jimmy McGill had fully told the truth about who he was and what he had done. He accepted himself — and his consequences — as Jimmy McGill.
+
+Saul Goodman's personality was a performance layered over Jimmy McGill's genuine cleverness, loneliness, and suppressed guilt. The flamboyant suits, the catchphrases, the outrageous ads — all of it was armor. Underneath was a man who deeply loved Kim Wexler, who was permanently wounded by Chuck's rejection, and who used humor and hustle to avoid sitting with the weight of his choices. His most famous line — "Better Call Saul!" — was simultaneously his best con and his truest offer.

@@ -1,0 +1,42 @@
+document_type: character
+primary_entity: Walter Hartwell White / Heisenberg
+related_entities:
+  - Jesse Pinkman
+  - Skyler White
+  - Walter White Jr.
+  - Holly White
+  - Hank Schrader
+  - Marie Schrader
+  - Gustavo Fring
+  - Saul Goodman
+  - Mike Ehrmantraut
+  - Tuco Salamanca
+  - Jane Margolis
+  - Gale Boetticher
+  - Todd Alquist
+  - Jack Welker
+  - Lydia Rodarte-Quayle
+  - Gray Matter Technologies
+  - Elliott Schwartz
+  - Gretchen Schwartz
+  - Blue Sky
+  - Ricin
+  - The Superlab
+  - Los Pollos Hermanos
+  - White Residence
+  - A1A Car Wash
+  - Heisenberg
+timeline_range: September 7, 2008 – September 7, 2010
+canonical_source: breakingbad.fandom.com
+
+Walter Hartwell White, born September 7, 1958, is an American chemist, former high school chemistry teacher, and the most notorious methamphetamine kingpin in United States history. Walter White is best known by his criminal alias Heisenberg, a name borrowed from the physicist Werner Heisenberg whose uncertainty principle Walt saw as a reflection of his own unpredictable power. Before entering the drug trade, Walter White co-founded Gray Matter Technologies with his friend Elliott Schwartz, but sold his share for $5,000 — a decision that haunted him as the company grew into a multi-billion dollar enterprise without him. Walter White went on to teach chemistry at J. P. Wynne High School in Albuquerque, New Mexico, and worked a second job at the A1A Car Wash to support his wife Skyler, his son Walter White Jr., and his infant daughter Holly.
+
+Walter White's transformation into Heisenberg was triggered by a terminal Stage 3A lung cancer diagnosis the day after his 50th birthday. Framing it initially as a noble act to secure his family's financial future before his death, Walter White blackmailed his former student Jesse Pinkman into partnering with him to cook and distribute methamphetamine. From the first cook in a rolling RV in the New Mexico desert, Walter White brought a genius-level understanding of organic chemistry to bear, producing a product of extraordinary purity by abandoning the standard pseudoephedrine method and instead using reductive amination of phenylacetone with methylamine. This innovation gave Blue Sky its characteristic color and made it incomparably superior to any competitor's product.
+
+Walter White's criminal career progressed through a series of escalating confrontations and power plays. He first distributed through the volatile Tuco Salamanca, then entered a deeply unequal partnership with the sophisticated drug kingpin Gustavo Fring, operating out of Gus's industrial superlab beneath the Lavandería Brillante laundry. Walter White's relationship with Gus was defined by mutual recognition of genius, deep mutual distrust, and a cold war for control that ended when Walt engineered Gus's assassination using a pipe bomb attached to Hector Salamanca's wheelchair. After Gus's death, Walter White formed his own operation using Vamonos Pest fumigation tents as mobile meth labs, partnering with Mike Ehrmantraut and distributing through Lydia Rodarte-Quayle to the Czech Republic.
+
+The character of Heisenberg emerged gradually from Walt's suppressed identity. Walter White's greatest strength — his analytical genius and capacity for meticulous planning — was inseparable from his greatest weakness: catastrophic ego and the inability to recognize when pride was overriding judgment. He poisoned a child, Brock Cantillo, to manipulate Jesse. He watched Jane Margolis die rather than save her, calculating that her death served his interests. He ordered the simultaneous execution of ten men in prison. He shot Mike Ehrmantraut in a fit of rage. Each act removed another layer of the justification that he was doing all of this for his family, until, in his final conversation with Skyler in the series finale, Walter White admitted the truth he had hidden from himself for two years: "I did it for me. I liked it. I was good at it. And I was really... alive."
+
+Walter White's final acts were driven by a combination of vengeance, ego, and a last desire to make things right. He returned to Albuquerque from his New Hampshire exile, forced Elliott and Gretchen Schwartz to funnel his drug money to his children, poisoned Lydia Rodarte-Quayle with ricin, and used a remote-activated M60 machine gun to massacre Jack Welker's gang. In his last act, he tackled Jesse to the floor to shield him from the bullets, taking a wound that would kill him. Walter White died alone in the superlab, blissful in the place where he felt most alive, surrounded by equipment that had been both his masterpiece and his damnation. He was 52 years old, dead exactly two years after his diagnosis.
+
+Walter White's personality was defined by intelligence, pride, resentment, and an extraordinary capacity for self-deception. Vince Gilligan described the creative goal as "turning Mr. Chips into Scarface." Walter White was a man who believed the world owed him recognition for his brilliance, and who found in the criminal underworld the power, respect, and sense of aliveness that his ordinary life had denied him. His true motivation was never his family. It was himself.

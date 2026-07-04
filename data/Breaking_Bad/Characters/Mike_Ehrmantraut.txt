@@ -1,0 +1,32 @@
+document_type: character
+primary_entity: Michael "Mike" Ehrmantraut
+related_entities:
+  - Walter White
+  - Jesse Pinkman
+  - Gustavo Fring
+  - Saul Goodman
+  - Nacho Varga
+  - Hector Salamanca
+  - Lydia Rodarte-Quayle
+  - Victor
+  - Tyrus Kitt
+  - Kaylee Ehrmantraut
+  - Stacey Ehrmantraut
+  - Matt Ehrmantraut
+  - Werner Ziegler
+  - The Superlab
+  - Los Pollos Hermanos
+timeline_range: 2002–2009 (Better Call Saul); 2008–2009 (Breaking Bad)
+canonical_source: breakingbad.fandom.com
+
+Michael Ehrmantraut, known universally as Mike, was born between 1940 and 1944 in Philadelphia, Pennsylvania, and served as a Marine Corps sniper before joining the Philadelphia Police Department. Mike spent thirty years as a beat cop before becoming enmeshed in the department's institutional corruption. When his son Matt joined the force and was murdered by two crooked officers — Hoffman and Fensky — who feared Matt's integrity would expose them, Mike avenged his son by executing both men in a staged alleyway confrontation. He then fled to Albuquerque, New Mexico, where Matt's widow Stacey and granddaughter Kaylee had settled. Everything Mike did for the rest of his life — every crime, every murder, every risk — was in service of providing for and protecting those two people.
+
+Mike Ehrmantraut worked initially as a parking booth attendant at the Bernalillo County Courthouse before using his criminal contacts to moonlight as a fixer, cleaner, and enforcer. He came to Gus Fring's attention while pursuing his own vendetta against Hector Salamanca, and Gus recruited him as his head of security and chief enforcer. In this role, Mike oversaw the construction of the superlab under Werner Ziegler's engineering, managed the distribution network through Los Pollos Hermanos, handled the security of Gus's entire operation, and acted as Gus's most trusted operative throughout the cartel war.
+
+Mike's most important character quality was his professional ethos: he had a code. He did not kill innocents. He did not use half measures. He vetted every man he hired with precision and paid them enough to ensure their silence. When Gus had his chemist Werner Ziegler shot to protect the superlab's secret, Mike was devastated — Werner was someone Mike had genuinely liked and respected. He accepted the order, but drank to excess afterward and shut himself away from his family. His grief over Werner was one of the rare moments when Mike's carefully maintained emotional armor failed.
+
+Mike's relationship with Jesse Pinkman was unexpectedly meaningful. Mike initially dismissed Jesse as an amateur liability, but came to genuinely respect him over the course of their work together — particularly after Jesse's quick thinking saved Mike's life during the cartel ambush. In a flashback in El Camino, Mike told Jesse that if he were Jesse's age and starting fresh, he would go to Alaska, that it was the last frontier, a place where a person could be anything. It was this conversation that gave Jesse his destination after escaping Jack Welker's compound.
+
+Mike's relationship with Walter White was one of mutual utility and mutual contempt. Mike recognized from their first serious interaction that Walt was a "time bomb, tick tick ticking," and refused to become a full partner in Walt's operation for as long as he could. He eventually joined when the DEA seized his granddaughter's offshore account, removing his most important reason for maintaining any separation from the drug business. In their final confrontation, after Walt demanded the names of his imprisoned men and Mike refused, Mike unleashed one of the series' most devastating speeches: blaming Walt's ego for everything that had gone wrong since Gus's death, telling Walt that if he had "done his job and known his place," they would all have been fine. Walt, enraged, shot Mike with his own revolver. Mike managed to drive to a river before losing consciousness. Walt arrived as Mike lay dying. Mike's last words were: "Shut the fuck up, and let me die in peace."
+
+Mike Ehrmantraut was a man who knew exactly what he had lost of himself — he described it as losing "a good chunk of his soul" — and went on anyway because the people waiting for him required it. He was not tormented by his choices. He was clear-eyed about them. His tragedy was that all the money he earned for Kaylee's future was eventually seized by the DEA, and he died broke, beside a river, shot by the one man he most clearly understood to be dangerous.

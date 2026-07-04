@@ -1,0 +1,28 @@
+document_type: event
+primary_entity: Wayfarer 515 Mid-Air Collision
+related_entities:
+  - Walter White
+  - Jane Margolis
+  - Donald Margolis
+  - Jesse Pinkman
+  - Saul Goodman
+  - White Residence
+  - Albuquerque
+timeline_range: March 4–12, 2009
+canonical_source: breakingbad.fandom.com
+
+The Wayfarer 515 disaster was a mid-air collision over Albuquerque, New Mexico, between Wayfarer Flight 515, a Boeing 737 commercial airliner, and JM21, a Beechcraft Super King Air charter plane. The collision killed all 167 people aboard both aircraft. Debris and human remains rained down across Albuquerque, including over the White family's swimming pool, where a scorched pink teddy bear became a recurring visual symbol of collateral damage throughout Season 2.
+
+The direct cause of the crash was Donald Margolis, the father of Jane Margolis, an air traffic controller who was working while consumed by grief over his daughter's recent death. Distracted and emotionally devastated, Donald gave incorrect separation instructions that caused the two planes to collide.
+
+The indirect cause was Walter White. Walt had visited Jesse's apartment intending to help him break his heroin addiction, and accidentally knocked Jane onto her back while trying to wake Jesse. Jane began choking on her own vomit from an overdose. Walt stood over her and chose not to intervene. He calculated that Jane was a dangerous influence on Jesse, that she had blackmailed him for Jesse's share of the drug money, and that her death would sever Jesse's most destructive emotional anchor. He watched her die.
+
+Jane's death destroyed her father. Donald attended a support group meeting and appeared to be coping, but was far too grief-stricken and psychologically fragmented to maintain the focus required of air traffic control. Days later, he gave incorrect instructions. 167 people died.
+
+Walt became aware of the causal chain eventually, and was visibly shaken. The pink teddy bear that fell into his pool — its one glass eye staring up from the bottom — became a season-long symbol of his role as the origin point of a catastrophe he could never fully see. Vince Gilligan described the crash as "an attempt to visualize all the terrible grief that Walt has brought upon his loved ones" and "the judgment of God."
+
+The crash became one of Breaking Bad's most devastating demonstrations of its central thesis: that a man who insists he is only hurting himself and criminals inadvertently triggers the deaths of 167 complete strangers. No one connects Walt to the crash. He faces no legal consequences. But the scorched teddy bear stares at him from his swimming pool, and somewhere across Albuquerque, people are wearing memorial ribbons.
+
+Donald Margolis attempted suicide in the aftermath. He presumably did not survive.
+
+Saul Goodman, characteristically, organized personal injury lawsuits on behalf of crash victims.
