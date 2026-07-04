@@ -5,3 +5,8 @@ generated_prompt.txt
 
 .cognee_data/
 .cognee_system/
+
+node_modules/
+dist/
+
+__pycache__
