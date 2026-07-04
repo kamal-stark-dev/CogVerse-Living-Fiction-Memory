@@ -1,0 +1,14 @@
+document_type: location
+primary_entity: Vormir
+related_entities:
+  - Natasha Romanoff
+  - Clint Barton
+  - Red Skull
+  - Soul Stone
+  - Thanos
+timeline_range: Infinity War through Endgame
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+Vormir is a remote and deadly world associated with the Soul Stone and with sacrifice. The location is isolated, eerie, and spiritually significant, and it serves as the place where the Soul Stone can be obtained only through a painful loss. Vormir is guarded by Red Skull, who explains the cost attached to the stone.
+
+Vormir matters because it turns acquisition into moral judgment. Natasha Romanoff dies there so Clint Barton can recover the Soul Stone, making the location one of the MCU's most emotionally important sites.

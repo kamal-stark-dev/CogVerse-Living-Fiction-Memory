@@ -1,0 +1,19 @@
+document_type: event
+primary_entity: The Blip
+related_entities:
+  - Thanos
+  - Avengers
+  - Bruce Banner
+  - Scott Lang
+  - Wanda Maximoff
+  - Spider-Man
+  - Nick Fury
+  - Infinity Stones
+timeline_range: 2018 to 2023
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+The Blip is the period of global disruption caused by Thanos's Snap and the years that followed until the heroes reversed the event. In common MCU usage, the term covers both the mass disappearance caused by the Snap and the later return of those who were lost. The Blip reshaped everyday life, politics, transportation, relationships, and the entire emotional structure of the MCU world.
+
+During the Blip, half of all life vanished, leaving survivors to rebuild in a world marked by grief, scarcity, and instability. Bruce Banner later used the Infinity Stones to reverse the Snap, bringing back the vanished population. The return created a second shockwave of its own because entire lives, relationships, and institutions had to reassemble after five years of absence.
+
+The Blip's importance lies in the fact that it changed the MCU more than any single battle. It affected heroes, villains, governments, and ordinary people alike, and it forced the Avengers to think in terms of time, loss, and restoration rather than simple victory.

@@ -1,0 +1,15 @@
+document_type: object
+primary_entity: Mjolnir
+related_entities:
+  - Thor
+  - Odin
+  - Jane Foster
+  - Steve Rogers
+  - Asgard
+  - Stormbreaker
+timeline_range: Ancient Asgard through Love and Thunder era
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+Mjolnir is Thor's enchanted hammer and one of the most iconic weapons in the Marvel Cinematic Universe. Odin places an enchantment on Mjolnir that allows only the worthy to lift it, turning the hammer into a test of character as much as a weapon. Thor uses Mjolnir in his early life as an Asgardian warrior and later regains worthy status through personal growth.
+
+Mjolnir matters because it embodies the MCU idea that worthiness is moral rather than physical. Steve Rogers briefly proves worthy of the hammer, and Jane Foster later becomes the Mighty Thor by wielding it. Mjolnir remains a symbol of Thor's lineage, power, and transformation.

@@ -1,0 +1,14 @@
+document_type: object
+primary_entity: Nano Gauntlet
+related_entities:
+  - Tony Stark
+  - Bruce Banner
+  - Avengers
+  - Infinity Stones
+  - Thanos
+timeline_range: Endgame era
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+The Nano Gauntlet is the Avengers' emergency device for safely holding and using the Infinity Stones during Endgame. The gauntlet is built using Stark nanotechnology and is designed to contain the Stones long enough for a wielder to reverse the Snap. It becomes one of the most important pieces of equipment in the final battle against Thanos.
+
+The Nano Gauntlet matters because it is the object that makes the universe's restoration possible. Bruce Banner initially uses it to bring back the vanished population, and Tony Stark later uses it to erase Thanos and his army. The gauntlet represents the fusion of science, sacrifice, and teamwork at the climax of the MCU.

@@ -1,0 +1,14 @@
+document_type: object
+primary_entity: Loki's Scepter
+related_entities:
+  - Loki
+  - Mind Stone
+  - Ultron
+  - Avengers
+  - S.H.I.E.L.D.
+timeline_range: The Avengers through Age of Ultron era
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+Loki's Scepter is the staff Loki uses during the invasion of Earth and one of the MCU's most important control-based weapons. The scepter contains the Mind Stone in its headpiece, which makes it capable of influencing minds, empowering artificial intelligence research, and enabling major plot developments across the franchise. Its appearance connects Loki's early villainy to later events involving Ultron and Vision.
+
+Loki's Scepter matters because it is a source of coercion and corruption rather than simple force. It is used to manipulate people, intensify conflict, and eventually help create Ultron when Stark and Banner study its power. The scepter's role shows how the MCU's artifacts can outlive their original owner and continue causing harm in new forms.

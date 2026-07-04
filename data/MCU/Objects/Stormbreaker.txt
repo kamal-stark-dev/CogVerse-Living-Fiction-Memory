@@ -1,0 +1,15 @@
+document_type: object
+primary_entity: Stormbreaker
+related_entities:
+  - Thor
+  - Groot
+  - Eitri
+  - Nidavellir
+  - Avengers
+  - Thanos
+timeline_range: Infinity War through Love and Thunder era
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+Stormbreaker is Thor's later weapon and one of the most powerful artifacts in the MCU. It is forged at Nidavellir with the help of Eitri and powered by uru and the energy of a dying star. Thor receives Stormbreaker after losing Mjolnir, and the weapon becomes the symbol of his renewed warrior identity.
+
+Stormbreaker matters because it allows Thor to continue fighting Thanos after Mjolnir is gone. The weapon also functions as a bridge tool for travel through the Bifrost, making it both a battlefield weapon and a strategic instrument. Its creation shows that Thor's power evolves rather than disappearing when his original hammer is destroyed.
