@@ -3,27 +3,35 @@ import json
 import time
 from pathlib import Path
 from datetime import datetime
+import argparse
 import sys
 
 import cognee
-from cognee import SearchType
+from dotenv import load_dotenv
 
-# sys.path.append(str(Path(__file__).resolve().parents[1] / "app" / "backend"))
+# -----------------------------------------------------------------------------
+# Project Paths
+# -----------------------------------------------------------------------------
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+# Allow importing from app/backend
+sys.path.append(str(PROJECT_ROOT / "app" / "backend"))
+
+load_dotenv(PROJECT_ROOT / ".env")
+
 from cognee_bootstrap import configure_cognee, shutdown_cognee
 
-# ------------------------------------------
-# Configuration
-# ------------------------------------------
+DATA_ROOT = PROJECT_ROOT / "data"
+STATE_FILE = PROJECT_ROOT / "state" / "ingest_state.json"
 
-STATE_FILE = Path("state/ingest_state.json")
-
-RATE_LIMIT_DELAY = 2        # seconds between remember() calls
+RATE_LIMIT_DELAY = 2
 MAX_RETRIES = 3
 
 
-# ------------------------------------------
+# -----------------------------------------------------------------------------
 # State Helpers
-# ------------------------------------------
+# -----------------------------------------------------------------------------
 
 def load_state():
     if not STATE_FILE.exists():
@@ -40,27 +48,24 @@ def save_state(state):
         json.dump(state, f, indent=4)
 
 
-# ------------------------------------------
+# -----------------------------------------------------------------------------
 # Retry Wrapper
-# ------------------------------------------
+# -----------------------------------------------------------------------------
 
-async def remember_document(text, dataset_name):
+async def remember_document(text: str, dataset_name: str):
 
     for attempt in range(MAX_RETRIES):
 
         try:
-
             await cognee.remember(
                 text,
                 dataset_name=dataset_name,
             )
-
             return True
 
         except Exception as e:
 
             print(f"\nRetry {attempt + 1}/{MAX_RETRIES}")
-
             print(e)
 
             if attempt == MAX_RETRIES - 1:
@@ -69,16 +74,26 @@ async def remember_document(text, dataset_name):
             await asyncio.sleep(10)
 
 
-# ------------------------------------------
-# Ingestion
-# ------------------------------------------
+# -----------------------------------------------------------------------------
+# Ingest
+# -----------------------------------------------------------------------------
 
-async def ingest_universe(
-    universe_name: str,
-    data_dir: str,
-):
+async def ingest_universe(universe_name: str):
 
-    root = Path(data_dir)
+    root = DATA_ROOT / universe_name
+
+    print("\n")
+    print("=" * 70)
+    print("PROJECT ROOT :", PROJECT_ROOT)
+    print("DATA ROOT    :", DATA_ROOT)
+    print("UNIVERSE PATH:", root)
+    print("Exists       :", root.exists())
+    print("=" * 70)
+    print()
+
+    if not root.exists():
+        print("Universe folder does not exist.")
+        return
 
     files = sorted(root.rglob("*.txt"))
 
@@ -87,7 +102,6 @@ async def ingest_universe(
         return
 
     state = load_state()
-
     universe_state = state.setdefault(universe_name, {})
 
     total = len(files)
@@ -113,21 +127,14 @@ async def ingest_universe(
 
             skipped += 1
 
-            print(
-                f"[{index}/{total}] SKIP   {relative_path}"
-            )
+            print(f"[{index}/{total}] SKIP    {relative_path}")
 
             continue
 
-        print(
-            f"[{index}/{total}] INGEST {relative_path}"
-        )
+        print(f"[{index}/{total}] INGEST  {relative_path}")
 
         try:
-
-            text = file.read_text(
-                encoding="utf-8"
-            )
+            text = file.read_text(encoding="utf-8")
 
         except Exception as e:
 
@@ -144,14 +151,13 @@ async def ingest_universe(
 
         if success:
 
-            document_type = file.parent.name.rstrip("s")  # Characters -> Character
-            entity_name = file.stem
+            document_type = file.parent.name.rstrip("s")
 
             universe_state[relative_path] = {
                 "status": "completed",
                 "timestamp": datetime.now().isoformat(timespec="seconds"),
                 "document_type": document_type,
-                "entity_name": entity_name,
+                "entity_name": file.stem,
                 "relative_path": relative_path,
             }
 
@@ -160,7 +166,6 @@ async def ingest_universe(
             completed += 1
 
         else:
-
             failed += 1
 
         await asyncio.sleep(RATE_LIMIT_DELAY)
@@ -174,7 +179,7 @@ async def ingest_universe(
     print(f"Skipped   : {skipped}")
     print(f"Failed    : {failed}")
 
-    print("\nRunning Cognify...\n")
+    print("\nStarting Cognify...\n")
 
     await cognee.cognify(
         datasets=[universe_name]
@@ -187,36 +192,35 @@ async def ingest_universe(
     print("INGESTION COMPLETE")
     print("=" * 60)
 
-    print(f"Universe  : {universe_name}")
-    print(f"Documents : {total}")
-    print(f"New        : {completed}")
-    print(f"Skipped    : {skipped}")
-    print(f"Failed     : {failed}")
-    print(f"Time       : {elapsed:.2f}s")
+    print(f"Universe : {universe_name}")
+    print(f"Documents: {total}")
+    print(f"New      : {completed}")
+    print(f"Skipped  : {skipped}")
+    print(f"Failed   : {failed}")
+    print(f"Time     : {elapsed:.2f}s")
 
 
-# ------------------------------------------
+# -----------------------------------------------------------------------------
 # Main
-# ------------------------------------------
+# -----------------------------------------------------------------------------
 
 async def main():
-    await configure_cognee()
-
-    import argparse
 
     parser = argparse.ArgumentParser()
 
     parser.add_argument(
         "--universe",
-        required=True
+        required=True,
+        help="Folder name inside data/"
     )
 
     args = parser.parse_args()
+
+    await configure_cognee()
+
     try:
-        await ingest_universe(
-            universe_name=args.universe,
-            data_dir=f"data/{args.universe}"
-        )
+        await ingest_universe(args.universe)
+
     finally:
         await shutdown_cognee()
 
