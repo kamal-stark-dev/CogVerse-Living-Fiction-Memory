@@ -7,8 +7,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from dotenv import load_dotenv
 
-from contextlib import asynccontextmanager
-
 load_dotenv()
 
 import cognee
@@ -26,23 +24,13 @@ DATA_DIR = Path(os.getenv("REPO_DATA_DIR", "../../data")).resolve()
 
 app = FastAPI(title="CogRealm API")
 
-# @app.on_event("startup")
-# async def startup():
-#     await configure_cognee()
-
-
-# @app.on_event("shutdown")
-# async def shutdown():
-#     await shutdown_cognee()
-
-@asynccontextmanager
-async def lifespan(app: FastAPI):
-    # Startup
+@app.on_event("startup")
+async def startup():
     await configure_cognee()
 
-    yield
 
-    # Shutdown
+@app.on_event("shutdown")
+async def shutdown():
     await shutdown_cognee()
 
 app.add_middleware(
