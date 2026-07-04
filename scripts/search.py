@@ -95,13 +95,9 @@ async def main():
                 print(f"Result {i}")
                 print("=" * 80)
 
-                print(result.text)
-
-                if hasattr(result, "score"):
-                    print(f"\nScore: {result.score}")
-
-                if hasattr(result, "source"):
-                    print(f"Source: {result.source}")
+                print(f"Dataset: {result['dataset_name']}")
+                for item in result["search_result"]:
+                    print(item)
 
                 print()
 

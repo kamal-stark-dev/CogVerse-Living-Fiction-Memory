@@ -1,1 +1,95 @@
-{}
+{
+  "Test_Universe": {
+    "Characters/Black_Widow.txt": {
+      "status": "completed",
+      "timestamp": "2026-07-04T08:22:29",
+      "document_type": "Character",
+      "entity_name": "Black_Widow",
+      "relative_path": "Characters/Black_Widow.txt"
+    },
+    "Characters/Captain_America.txt": {
+      "status": "completed",
+      "timestamp": "2026-07-04T08:22:47",
+      "document_type": "Character",
+      "entity_name": "Captain_America",
+      "relative_path": "Characters/Captain_America.txt"
+    },
+    "Characters/Hulk.txt": {
+      "status": "completed",
+      "timestamp": "2026-07-04T08:23:05",
+      "document_type": "Character",
+      "entity_name": "Hulk",
+      "relative_path": "Characters/Hulk.txt"
+    },
+    "Characters/Iron_Man.txt": {
+      "status": "completed",
+      "timestamp": "2026-07-04T08:23:22",
+      "document_type": "Character",
+      "entity_name": "Iron_Man",
+      "relative_path": "Characters/Iron_Man.txt"
+    },
+    "Characters/Spider_Man.txt": {
+      "status": "completed",
+      "timestamp": "2026-07-04T08:23:42",
+      "document_type": "Character",
+      "entity_name": "Spider_Man",
+      "relative_path": "Characters/Spider_Man.txt"
+    },
+    "Events/Avengers_Civil_War.txt": {
+      "status": "completed",
+      "timestamp": "2026-07-04T08:24:02",
+      "document_type": "Event",
+      "entity_name": "Avengers_Civil_War",
+      "relative_path": "Events/Avengers_Civil_War.txt"
+    },
+    "Events/Endgame_Final_Battle.txt": {
+      "status": "completed",
+      "timestamp": "2026-07-04T08:24:20",
+      "document_type": "Event",
+      "entity_name": "Endgame_Final_Battle",
+      "relative_path": "Events/Endgame_Final_Battle.txt"
+    },
+    "Locations/Asgard.txt": {
+      "status": "completed",
+      "timestamp": "2026-07-04T08:24:38",
+      "document_type": "Location",
+      "entity_name": "Asgard",
+      "relative_path": "Locations/Asgard.txt"
+    },
+    "Locations/Stark_Tower.txt": {
+      "status": "completed",
+      "timestamp": "2026-07-04T08:24:54",
+      "document_type": "Location",
+      "entity_name": "Stark_Tower",
+      "relative_path": "Locations/Stark_Tower.txt"
+    },
+    "Locations/Wakanda.txt": {
+      "status": "completed",
+      "timestamp": "2026-07-04T08:25:14",
+      "document_type": "Location",
+      "entity_name": "Wakanda",
+      "relative_path": "Locations/Wakanda.txt"
+    },
+    "MCU.txt": {
+      "status": "completed",
+      "timestamp": "2026-07-04T08:25:33",
+      "document_type": "Test_Universe",
+      "entity_name": "MCU",
+      "relative_path": "MCU.txt"
+    },
+    "Objects/Arc_Reactor.txt": {
+      "status": "completed",
+      "timestamp": "2026-07-04T08:25:52",
+      "document_type": "Object",
+      "entity_name": "Arc_Reactor",
+      "relative_path": "Objects/Arc_Reactor.txt"
+    },
+    "Objects/Infinity_Stones.txt": {
+      "status": "completed",
+      "timestamp": "2026-07-04T08:26:11",
+      "document_type": "Object",
+      "entity_name": "Infinity_Stones",
+      "relative_path": "Objects/Infinity_Stones.txt"
+    }
+  }
+}

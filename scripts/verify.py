@@ -34,12 +34,20 @@ VERIFY_QUESTIONS = {
         "Who trained Po?",
         "Who is Tai Lung?",
         "What is the Dragon Scroll?"
+    ],
+    "Test_Universe": [
+        # "Who is Iron Man?",
+        # "Who is Spider-Man?",
+        # "Where is Stark Tower?",
+        # "What is Arc Reactor?",
+        # "Who possesses the Infinity Stones?",
+        # "What happened during Civil War?"
+        "Who is Iron Man and Spider Man?"
     ]
 }
 
 
 async def verify(universe):
-
     questions = VERIFY_QUESTIONS.get(universe)
 
     if questions is None:
@@ -53,26 +61,22 @@ async def verify(universe):
     passed = 0
 
     for question in questions:
-
         print(f"\nQ: {question}")
 
         try:
-
             response = await cognee.search(
                 query_type=SearchType.GRAPH_COMPLETION,
                 query_text=question,
             )
 
             if response:
-
                 passed += 1
 
                 print("✓ Answer Found")
-
-                print(response[0].text)
+                print(response)
+                print(response[0]["search_result"])
 
             else:
-
                 print("✗ No Answer")
 
         except Exception as e:
@@ -89,14 +93,12 @@ async def verify(universe):
 async def main():
 
     parser = argparse.ArgumentParser()
-
     parser.add_argument(
         "--universe",
         required=True,
     )
 
     args = parser.parse_args()
-
     await verify(args.universe)
 
 

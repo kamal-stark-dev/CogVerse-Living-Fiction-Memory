@@ -196,9 +196,20 @@ async def ingest_universe(
 
 async def main():
 
+    import argparse
+
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument(
+        "--universe",
+        required=True
+    )
+
+    args = parser.parse_args()
+
     await ingest_universe(
-        universe_name="MCU",
-        data_dir="data/curated/MCU",
+        universe_name=args.universe,
+        data_dir=f"data/{args.universe}"
     )
 
 
