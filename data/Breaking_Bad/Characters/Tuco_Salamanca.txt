@@ -1,0 +1,27 @@
+document_type: character
+primary_entity: Tuco Salamanca
+related_entities:
+  - Walter White
+  - Jesse Pinkman
+  - Hector Salamanca
+  - The Cousins
+  - Lalo Salamanca
+  - Nacho Varga
+  - Hank Schrader
+  - Blue Sky
+  - Ricin
+  - Salamanca Drug Organization
+timeline_range: 2008–2009 (Breaking Bad); 2004 (Better Call Saul)
+canonical_source: breakingbad.fandom.com
+
+Tuco Salamanca was a Mexican-American drug kingpin and the primary distributor north of the border for the Salamanca cartel family, operating out of Albuquerque, New Mexico. Tuco served as Walt and Jesse's first major distributor and the series' first great villain — a man so unpredictably violent and so heavily addicted to his own product that even the most experienced figures in the cartel were afraid of him. He was born circa 1970 and died November 8, 2008, shot by Hank Schrader.
+
+Tuco Salamanca's personality was defined by volcanic, almost instantaneous violence amplified by heavy methamphetamine use. He could beat a loyal associate to death on impulse for an offhand comment and then invite you to dinner. His respect was paradoxically easier to earn through audacity than through caution — Walt's first meeting with Tuco, in which Walt walked alone into Tuco's lair, introduced himself as Heisenberg, and detonated a piece of fulminated mercury to blow out the windows of the building, earned Tuco's genuine admiration. "You got balls. I'll give you that." This confrontation established one of the series' central themes: that in the criminal world, a willingness to meet violence with chemistry and nerve could substitute for physical intimidation.
+
+Tuco was not a simple monster. He was genuinely devoted to his grandmother and his uncle Hector Salamanca with a deep, tender loyalty that coexisted completely with his capacity for savage brutality. He took care of Hector in his desert shack, prepared his food, wheeled him around — and would attack anyone who showed disrespect toward his family. This combination of monstrous violence and genuine family loyalty made Tuco more disturbing, not less, because it showed that his violence had nothing to do with callousness and everything to do with a hair-trigger reading of respect and disrespect.
+
+Tuco kidnapped Walt and Jesse and brought them to Hector's desert shack, intending to take them to a superlab in Mexico to cook for the cartel indefinitely. Walt and Jesse's attempt to poison Tuco with ricin was foiled when Hector — still mentally sharp despite his apparent incapacity — alerted Tuco to their scheming through his bell. The subsequent confrontation ended in a desert shootout when Hank Schrader arrived looking for Jesse's LoJack-tracked car. Tuco was shot and killed by Hank, who thought he was encountering Jesse.
+
+Tuco's death set off the Salamanca family revenge arc that rippled through Seasons 2 and 3: his cousins Marco and Leonel came north to kill Walter White, were redirected to Hank by Gus, and left Hank critically wounded and Leonel dead. The gold grill Tuco wore was encased in Lucite and given to Hank as a trophy — which Hank later threw into a river, haunted by the killing.
+
+Tuco Salamanca matters to the universe as both the catalyst for Walt and Jesse's entry into the larger criminal world and as a demonstration of the specific hazard of working with someone whose impulse control has been destroyed by drug addiction. He was the first test of whether Walt's chemistry and nerve could protect him in the world he had chosen to enter. Walt passed. But the world he entered afterward was far more dangerous.

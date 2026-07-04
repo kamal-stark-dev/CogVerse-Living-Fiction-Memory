@@ -1,0 +1,31 @@
+document_type: location
+primary_entity: The Superlab (beneath Lavandería Brillante)
+related_entities:
+  - Gustavo Fring
+  - Walter White
+  - Jesse Pinkman
+  - Gale Boetticher
+  - Mike Ehrmantraut
+  - Victor
+  - Tyrus Kitt
+  - Todd Alquist
+  - Werner Ziegler
+  - Lalo Salamanca
+  - Howard Hamlin
+  - Blue Sky
+  - Lavanderia Brillante
+  - Los Pollos Hermanos
+timeline_range: 2004–2009 (construction and operation)
+canonical_source: breakingbad.fandom.com
+
+The Superlab was Gustavo Fring's state-of-the-art methamphetamine manufacturing facility, concealed beneath the Lavandería Brillante industrial laundry in Albuquerque, New Mexico. It was one of the most sophisticated drug production facilities in American history, capable of producing over 200 pounds of Blue Sky methamphetamine per week. Access was through a concealed entrance behind a large industrial washing machine in the laundry floor.
+
+The lab was constructed over many months under the engineering direction of Werner Ziegler and his team of German workers, beginning in Better Call Saul Season 4. The excavation was conducted covertly beneath an operating commercial business, requiring extraordinary precision to avoid detection and maintain the structural integrity of the building above. The project consumed a great deal of Gus's resources and patience, and Werner's indiscretion — letting slip details to Lalo Salamanca while drunk — cost Werner his life. In the series finale of Better Call Saul, Lalo Salamanca forced Gus to lead him into the superlab at gunpoint, where Gus ultimately killed Lalo in a firefight. Lalo and Howard Hamlin's bodies were buried in the foundation.
+
+The Superlab was equipped with state-of-the-art ventilation, advanced chemical filtration systems, and an industrial-scale cook setup capable of batch production that dwarfed anything Walt had previously attempted. Walt described the facility to Jesse with visible reverence and excitement — it was the first time since Gray Matter that Walt had access to a workspace commensurate with his actual abilities.
+
+The Superlab also contained surveillance cameras monitored by Gus, a fact that made Walt acutely uncomfortable. In one memorable scene, Walt discovered the cameras and flipped one of them the bird — a gesture of defiance that illustrated his core inability to accept surveillance, oversight, or any form of power that wasn't his own.
+
+Victor's execution by Gus in the Superlab — his throat slit with a box cutter in front of Walt, Jesse, and Mike — established the space as a place where Gus's absolute authority could be demonstrated in the most visceral possible way. The message was architectural as much as physical: in this lab, Gus was god, and disobedience led to death.
+
+Walt and Jesse destroyed the Superlab by flooding it with chemicals and igniting a fire after Gus's death, eliminating the physical evidence of their work. The DEA eventually identified the space, and Hank recognized from the burned-out lab structure that someone had been operating there for years — providing another thread connecting Blue Sky to an industrial-scale operation far beyond the capacity of a street-level cook.

@@ -1,0 +1,26 @@
+document_type: location
+primary_entity: White Residence — 308 Negra Arroyo Lane, Albuquerque
+related_entities:
+  - Walter White
+  - Skyler White
+  - Walter White Jr.
+  - Holly White
+  - Hank Schrader
+  - Marie Schrader
+  - Jesse Pinkman
+  - Saul Goodman
+  - Mike Ehrmantraut
+  - Blue Sky
+  - Ricin
+timeline_range: 2008–2010
+canonical_source: breakingbad.fandom.com
+
+The White family residence at 308 Negra Arroyo Lane in Albuquerque, New Mexico, served as the domestic heart of Breaking Bad and the primary visual representation of the ordinary life Walt left behind. A modest, light-colored one-story suburban house with a backyard pool, it was the kind of home that suggested a solidly middle-class family navigating financial stress with quiet dignity. Over five seasons, it became a crime scene, a money-laundering asset, a prison, and a ruin.
+
+The house functioned as the axis between Walt's two lives. In it, he was a husband, a father, a sick man being nursed through chemotherapy. Outside it, in the desert or in the superlab, he was Heisenberg. The friction between these identities made the house itself feel increasingly claustrophobic as the series progressed — the garage where Hank confronted Walt, the master bathroom where Hank found the Leaves of Grass, the kitchen where Skyler reached for a knife.
+
+Several of the series' most significant events occurred at or around the house. Walt buried ricin in the bedroom electrical socket. He obsessed over a pink teddy bear that fell from the Wayfarer 515 crash into the backyard pool. He returned from the hospital after his first cancer diagnosis and nearly blew up the car. He made Skyler's car wash plan possible from the kitchen table. The Lily of the Valley plant in the backyard — visible in a final shot of Season 4's finale — confirmed that Walt had poisoned Brock Cantillo himself.
+
+By the time of the series finale, the house had been abandoned, vandalized with graffiti, and was being used by local teenagers as a skateboarding spot. The living room wall had "HEISENBERG" spray-painted across it in enormous letters — whether by an admirer or a vandal was unclear. Walt returned briefly to retrieve the hidden ricin from the electrical socket, moving through the ruins of his domestic life like a ghost, barely noticed by his former neighbor Carol.
+
+The White residence represented what Walt told himself he was protecting. That it ended as an abandoned, vandalized shell with his criminal alias written across its walls is the series' most precise visual irony.

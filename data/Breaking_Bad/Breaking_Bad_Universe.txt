@@ -1,0 +1,45 @@
+document_type: universe
+primary_entity: Breaking Bad Universe
+related_entities:
+  - Walter White
+  - Jesse Pinkman
+  - Gustavo Fring
+  - Saul Goodman
+  - Mike Ehrmantraut
+  - Hank Schrader
+  - Skyler White
+  - Tuco Salamanca
+  - Todd Alquist
+  - Jane Margolis
+  - Hector Salamanca
+  - Jack Welker
+  - Lydia Rodarte-Quayle
+  - Blue Sky
+  - Ricin
+  - Methamphetamine
+  - Los Pollos Hermanos
+  - The Superlab
+  - White Residence
+  - Saul Goodman's Office
+  - Tohajiilee Desert
+  - Albuquerque
+  - DEA Albuquerque Field Office
+  - Gray Matter Technologies
+  - Madrigal Electromotive GmbH
+  - Vamonos Pest
+timeline_range: 2008–2010 (Breaking Bad); 2002–2004 (Better Call Saul prequel era)
+canonical_source: breakingbad.fandom.com
+
+The Breaking Bad universe is a grounded crime drama set in Albuquerque, New Mexico, centered on the transformation of Walter Hartwell White from a mild-mannered, financially struggling high school chemistry teacher into Heisenberg, the most notorious methamphetamine kingpin in United States history. The universe chronicles how one man's terminal cancer diagnosis, wounded pride, and suppressed ambition unraveled a family, destroyed an empire, and left a trail of death across the American Southwest.
+
+The world of Breaking Bad is defined by consequence. Every action radiates outward in unpredictable ways: Walt letting Jane Margolis die caused 167 people to perish in a mid-air plane collision. Walt ordering Gale Boetticher's death created a power vacuum that he himself filled. The universe consistently punishes ego, pride, and the illusion of control while exploring how ordinary people are drawn into and consumed by the criminal underworld.
+
+The central power structures in the universe include Walt and Jesse's evolving drug operation, the sophisticated empire of Gustavo Fring hidden beneath the Los Pollos Hermanos restaurant chain, the brutal Salamanca family cartel organization, the DEA Albuquerque Field Office led by Hank Schrader, and the legal shadow world of Saul Goodman's criminal law practice. These systems intersect, collide, and destroy one another across five seasons.
+
+The universe's defining drug product is Blue Sky, a chemically pure methamphetamine with a characteristic blue color and purity levels reaching 99.1% — far beyond anything produced by competitors. Blue Sky originated from Walt's switch from pseudoephedrine reduction to reductive amination using methylamine, a synthesis method that bypassed DEA precursor restrictions and gave the product its distinctive color. Blue Sky became the foundation of Walt's criminal identity and the measure of his genius.
+
+Key locations in the universe include the White family home at 308 Negra Arroyo Lane, the industrial superlab hidden beneath Lavandería Brillante laundry, the Los Pollos Hermanos restaurant franchise, Saul Goodman's strip-mall law office, the A1A Car Wash used for money laundering, the Tohajiilee Indian Reservation desert burial site, and Jack Welker's compound in the New Mexico wilderness.
+
+The Breaking Bad universe is also expanded in the prequel series Better Call Saul, which traces Jimmy McGill's transformation into Saul Goodman, Mike Ehrmantraut's backstory and rise through Gus Fring's organization, the construction of the superlab, and the full history of the Salamanca family. The sequel film El Camino follows Jesse Pinkman's escape to Alaska after the events of the series finale.
+
+The universe is best understood as a moral tragedy. Walt begins as a sympathetic figure and ends as a self-confessed monster. Jesse begins as a careless street dealer and ends as the moral center of the story. The universe asks: how far can a person fall while convincing themselves they are doing the right thing? And when they finally admit the truth, is it too late?

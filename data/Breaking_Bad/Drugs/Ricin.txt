@@ -1,0 +1,27 @@
+document_type: object
+primary_entity: Ricin
+related_entities:
+  - Walter White
+  - Jesse Pinkman
+  - Tuco Salamanca
+  - Brock Cantillo
+  - Lydia Rodarte-Quayle
+  - Huell Babineaux
+  - Saul Goodman
+  - Lily of the Valley
+timeline_range: 2008–2010
+canonical_source: breakingbad.fandom.com
+
+Ricin is a highly toxic substance derived from the castor bean that Walter White synthesized and used as a potential murder weapon on multiple occasions throughout Breaking Bad. It is one of the series' most carefully tracked objects, appearing and reappearing across multiple seasons as both an actual weapon and a symbol of Walt's willingness to cross any line.
+
+Ricin is extracted from the beans of the Ricinus communis plant. It is a protein synthesis inhibitor that causes cell death throughout the body and has no antidote. Symptoms present as severe flu-like illness before progressing to organ failure; the cause of death can be misidentified as natural causes if the examiner is not specifically testing for it. Walt synthesized ricin in the superlab using castor beans, producing a lethal powder that Jesse concealed in a cigarette stored upside-down in his pack — a discreet delivery mechanism designed to be slipped into food or drink.
+
+The ricin cigarette was first prepared to kill Tuco Salamanca, but the plan was foiled when Hector alerted Tuco to Walt and Jesse's scheming. The cigarette was then prepared again to poison Gus Fring — Jesse came close to adding it to Gus's coffee during a cartel meeting but held back when the opportunity passed dangerously.
+
+The most consequential appearance of the ricin was in Season 4, when Walt orchestrated having Huell Babineaux pickpocket the ricin cigarette from Jesse's jacket — then planted a fake cigarette in Jesse's Roomba to make Jesse believe he had simply lost it. Meanwhile, Walt poisoned Brock Cantillo not with ricin but with Lily of the Valley berries from his own garden — a plant that produces similar but non-fatal symptoms in children. The ruse worked: Jesse blamed Gus for Brock's poisoning and allied with Walt against him.
+
+Walt kept the actual ricin hidden in a concealed compartment in the bedroom electrical socket at the White residence throughout Season 5, retrieving it during his final return to Albuquerque.
+
+In the series finale, Walt used the ricin to poison Lydia Rodarte-Quayle. He spiked the Stevia packet she routinely added to her tea — a habit he had observed closely enough to exploit. Lydia did not realize she had been poisoned until Walt told her by phone while she was already sick. She died believing she had flu-like symptoms, and Walt confirmed her death was accomplished just before he drove to Jack's compound.
+
+Ricin in Breaking Bad functions as a symbol of Walt's preference for chemistry over confrontation — his willingness to kill not through violence but through invisible, patient biochemistry. It is also a symbol of his manipulation of Jesse: the ricin plot in Season 4 was one of the most elaborate and morally devastating cons Walt ran, using an object Jesse trusted as a weapon of psychological control.
