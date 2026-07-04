@@ -1,9 +1,0 @@
-document_type: object
-primary_entity: <Object Name>
-related_entities:
-  - <Important Characters>
-  - <Important Locations>
-  - <Important Organizations>
-  - <Other Related Objects>
-timeline_range: <Creation → Latest Known Status>
-canonical_source: kungfupanda.fandom.com
