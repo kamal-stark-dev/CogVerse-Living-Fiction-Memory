@@ -8,6 +8,12 @@ import argparse
 import cognee
 from cognee import SearchType
 
+# import sys
+# from pathlib import Path
+# sys.path.append(str(Path(__file__).resolve().parents[1] / "app" / "backend"))
+
+from cognee_bootstrap import configure_cognee, shutdown_cognee
+
 
 # Questions that every universe should be able to answer.
 VERIFY_QUESTIONS = {
@@ -92,6 +98,8 @@ async def verify(universe):
 
 async def main():
 
+    await configure_cognee()
+
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--universe",
@@ -99,7 +107,10 @@ async def main():
     )
 
     args = parser.parse_args()
-    await verify(args.universe)
+    try:
+        await verify(args.universe)
+    finally:
+        await shutdown_cognee()
 
 
 if __name__ == "__main__":

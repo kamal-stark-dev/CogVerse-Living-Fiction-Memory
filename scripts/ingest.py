@@ -3,8 +3,13 @@ import json
 import time
 from pathlib import Path
 from datetime import datetime
+import sys
 
 import cognee
+from cognee import SearchType
+
+# sys.path.append(str(Path(__file__).resolve().parents[1] / "app" / "backend"))
+from cognee_bootstrap import configure_cognee, shutdown_cognee
 
 # ------------------------------------------
 # Configuration
@@ -195,6 +200,7 @@ async def ingest_universe(
 # ------------------------------------------
 
 async def main():
+    await configure_cognee()
 
     import argparse
 
@@ -206,11 +212,13 @@ async def main():
     )
 
     args = parser.parse_args()
-
-    await ingest_universe(
-        universe_name=args.universe,
-        data_dir=f"data/{args.universe}"
-    )
+    try:
+        await ingest_universe(
+            universe_name=args.universe,
+            data_dir=f"data/{args.universe}"
+        )
+    finally:
+        await shutdown_cognee()
 
 
 if __name__ == "__main__":

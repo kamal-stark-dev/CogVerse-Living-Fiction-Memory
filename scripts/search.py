@@ -10,6 +10,11 @@ import asyncio
 import cognee
 from cognee import SearchType
 
+# import sys
+# from pathlib import Path
+# sys.path.append(str(Path(__file__).resolve().parents[1] / "app" / "backend"))
+
+from cognee_bootstrap import configure_cognee, shutdown_cognee
 
 SEARCH_TYPES = {
     "1": (
@@ -53,6 +58,8 @@ async def choose_search_type():
 
 
 async def main():
+
+    await configure_cognee()
 
     print("=" * 80)
     print("CogRealm Search Console")
@@ -105,6 +112,8 @@ async def main():
 
             print("\nERROR")
             print(e)
+        finally:
+            await shutdown_cognee()
 
 
 if __name__ == "__main__":
