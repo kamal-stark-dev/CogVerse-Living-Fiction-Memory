@@ -11,9 +11,67 @@ Have you ever tried chatting with a character in a standard AI playground, only 
 
 We wanted to fix that. Fictional characters are more than just a list of catchphrases; they are defined by their lived history, their relationships, and the canonical laws of the worlds they inhabit.
 
-**CogRealm** was born during this hackathon as a response to this challenge. It is a portal into the living minds of fictional legends. Characters in CogRealm are tethered to a **dynamic memory graph** of their home universes. They do not guess; they *remember*. 
+**CogRealm** is a portal into the living minds of fictional legends. Characters in CogRealm are tethered to a **dynamic memory graph** of their home universes. They do not guess; they *remember*.
 
-### 🌟 How it Works (No Magic Required!)
+---
+
+## 🏆 WeMakeDevs x Cognee Hackathon: The Core Challenge
+
+CogRealm was custom-built for the [WeMakeDevs Cognee Hackathon](https://www.wemakedevs.org/hackathons/cognee). The central theme of our project is demonstrating how **unstructured text datasets** can be transformed into a **living, traversable cognitive memory topology** that directly solves the fundamental limitations of modern conversational Large Language Models.
+
+### 🧠 The Core Problem with Standard AI Characters
+1. **The Vector RAG Bottleneck**: Traditional Retrieval-Augmented Generation (RAG) breaks text files down into arbitrary chunks, embeds them, and performs mathematical cosine-similarity lookups. If you ask Walter White, *"What do you think about Harry Potter's Godfather dying?"*, standard Vector RAG looks for chunks containing both "Walter White" and "Godfather dying". It fails to establish the **relationship** between characters, their world laws, and their core values, returning irrelevant snippets.
+2. **Loss of Entity relationships**: Standard vector databases do not understand that *Sirius Black* is *Harry Potter's Godfather*, or that *Walter White* values *control* and *family*. They see these as isolated string vectors rather than nodes in a complex graph network.
+3. **Context Window Exhaustion**: Shoving massive lore summaries, character wikis, and historical timelines into the LLM context window is expensive, slow, and leads to the "lost in the middle" phenomenon where models ignore instructions.
+
+---
+
+## 🛠️ The Solution: How CogRealm Uses Cognee
+
+Instead of building another standard chatbot, we deployed **Cognee** as our primary Cognitive Engine. Cognee is an open-source framework designed to model, build, and navigate cognitive memory graphs, enabling **Graph RAG** capabilities that closely mimic human associative memory.
+
+```
+       UNSTRUCTURED DATA                  COGNITIVE GRAPH (COGNEE)                GROUNDED GENERATION
+ ┌───────────────────────────┐         ┌───────────────────────────────┐         ┌───────────────────┐
+ │ Walter_White.txt          │         │ [Walter] --(allies)--> [Jesse]│         │  Groq LLM Engine  │
+ │ Sirius_Black_Death.txt    ├────────►│    |                          │────────►│  System Prompt    │
+ │ Inosuke_Hashibira.txt     │  Ingest │  (values)                    │ Retrieve│  + Graph Context  │
+ └───────────────────────────┘         │    ▼                          │         └─────────┬─────────┘
+                                       │ [Control]                     │                   │
+                                       └───────────────────────────────┘                   ▼
+                                                                                   In-Character Response
+```
+
+### 1. Ingestion & Graph Schema Mapping (`cognee.add`)
+During backend ingestion in `app/backend/ingest.py`, unstructured lore datasets (character sheets, timeline events, locations, item descriptions) are fed into Cognee:
+```python
+import cognee
+
+async def ingest_multiverse_data():
+    # Adding universe lore files to Cognee's cognitive pipeline
+    await cognee.add(
+        data_path = "data/Breaking_Bad/Breaking_Bad_Universe.txt",
+        dataset_name = "breaking_bad"
+    )
+    # Adding individual character files to map their identities
+    await cognee.add(
+        data_path = "data/Breaking_Bad/Characters/Walter_White.txt",
+        dataset_name = "breaking_bad"
+    )
+    # Triggering the graph construction & cognitive parsing pipeline
+    await cognee.cognify()
+```
+Cognee parses these text files, automatically extracts entities (Characters, Artifacts, Locations, Events), and maps their semantic relationships into a unified **Graph database**.
+
+### 2. Search & Associative Path Traversal (`cognee.search`)
+When a user asks a question, the backend uses Cognee’s semantic search capabilities to navigate the graph. Rather than returning raw chunks, Cognee performs entity resolution and returns a **subgraph** of related facts, entities, and memories.
+* **Primary Query**: If chatting with *Walter White*, Cognee retrieves his core node, locating adjacent facts (his formula, his family, his partners).
+* **Gateway Queries**: If the Cross-Universe Gateway is active, Cognee performs a parallel search against the target universe (e.g., *Harry Potter*) for keywords like "Sirius Black Death" or "The Veil", returning the context of the event.
+* **The Result**: These two retrieved subgraphs are unified into a structured list of semantic facts (displayed in our **Memory Trace** sidebar) and injected directly into the system prompt.
+
+---
+
+## 🌟 How it Works (No Magic Required!)
 1.  **Choose Your Realm**: Slide through legendary dimensions like *Demon Slayer*, *Breaking Bad*, *Harry Potter*, or *Kung Fu Panda*. Watch the entire user interface shift, morphing its accent tones, buttons, and background gradients to match the visual vibe of that specific world.
 2.  **Select Your Character**: Initiate a live communion with legendary figures. You will be greeted with customized starter questions calculated specifically from their current memory node.
 3.  **Witness the Cognitive Memory Trace 🧠**: Look at the active **Memory Trace panel**! As your conversation flows, this panel lights up in real time, exposing the factual connections, relationships, items, and locations retrieved from the graph database to formulate that specific response.
@@ -320,4 +378,4 @@ Distributed under the **Apache-2.0** License. See `LICENSE` for more information
 
 ---
 
-*Built with passion for the Google AI Studio Hackathon. Let the characters of your imagination live forever!*
+*Built with passion for the WeMakeDevs Cognee Hackathon. Let the characters of your imagination live forever!*
