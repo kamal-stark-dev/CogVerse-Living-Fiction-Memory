@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 import { fetchUniverses, fetchCharacters } from "../api";
-import { accentForUniverse } from "../utils/colors";
+import { getTheme } from "../utils/themes";
 import Avatar from "./Avatar";
+import Logo from "./Logo";
 
 export default function Sidebar({
   selectedUniverse,
@@ -36,7 +37,7 @@ export default function Sidebar({
     <aside className="archive">
       <div className="archive-header">
         <span className="archive-eyebrow">The Archive</span>
-        <h1>CogRealm</h1>
+        <Logo universe={selectedUniverse} fallbackText="CogRealm" />
       </div>
 
       {error && (
@@ -45,7 +46,7 @@ export default function Sidebar({
 
       <div className="archive-list">
         {universes.map((universe) => {
-          const accent = accentForUniverse(universe);
+          const accent = getTheme(universe).accent;
           const isOpen = expanded === universe;
           return (
             <div key={universe} className="universe-block">

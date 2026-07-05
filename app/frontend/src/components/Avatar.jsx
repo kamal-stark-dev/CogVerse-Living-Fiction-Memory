@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { accentForUniverse } from '../utils/colors'
+import { getTheme } from '../utils/themes'
 
 const EXTENSIONS = ['jpg', 'jpeg', 'png', 'webp']
 
@@ -9,7 +9,7 @@ export default function Avatar({ universe, character, size = 32 }) {
 
   if (!universe || !character) return null
 
-  const accent = accentForUniverse(universe)
+  const accent = getTheme(universe).accent
 
   const handleError = () => {
     if (extIndex < EXTENSIONS.length - 1) {

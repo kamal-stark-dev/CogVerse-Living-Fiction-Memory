@@ -59,11 +59,20 @@ body {
   color: var(--accent);
 }
 
-.archive-header h1 {
+.archive-header h1,
+.wordmark {
   font-family: var(--font-display);
   font-size: 28px;
   margin: 4px 0 0;
   font-weight: 600;
+}
+
+.universe-logo {
+  display: block;
+  max-width: 100%;
+  max-height: 72px;
+  margin-top: 8px;
+  object-fit: contain;
 }
 
 .universe-row {
@@ -175,6 +184,8 @@ body {
 .chat-header {
   padding: 20px 32px;
   border-bottom: 1px solid var(--border);
+  background: linear-gradient(180deg, var(--accent-soft), transparent);
+  transition: background 0.4s ease;
 }
 
 .chat-header-inner {
@@ -261,6 +272,7 @@ body {
 .bubble.user .bubble-content {
   background: var(--accent);
   color: #0b0e1a;
+  transition: background-color 0.4s ease;
 }
 
 .bubble.assistant .bubble-content {
@@ -354,6 +366,7 @@ body {
   font-weight: 600;
   cursor: pointer;
   font-family: var(--font-body);
+  transition: background-color 0.4s ease;
 }
 
 .chat-input-row button:disabled {

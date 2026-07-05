@@ -1,7 +1,11 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Sidebar from './components/Sidebar'
 import ChatThread from './components/ChatThread'
 import { sendChat } from './api'
+import { getTheme } from './utils/themes'
+
+const DEFAULT_ACCENT = '#7C5CFC'
+const DEFAULT_ACCENT_SOFT = 'rgba(124, 92, 252, 0.15)'
 
 export default function App() {
   const [selectedUniverse, setSelectedUniverse] = useState(null)
@@ -12,6 +16,18 @@ export default function App() {
   const [crossUniverse, setCrossUniverse] = useState(false)
   const [referenceUniverse, setReferenceUniverse] = useState('')
   const [referenceQuery, setReferenceQuery] = useState('')
+
+  useEffect(() => {
+    const root = document.documentElement
+    if (selectedUniverse) {
+      const theme = getTheme(selectedUniverse)
+      root.style.setProperty('--accent', theme.accent)
+      root.style.setProperty('--accent-soft', theme.soft)
+    } else {
+      root.style.setProperty('--accent', DEFAULT_ACCENT)
+      root.style.setProperty('--accent-soft', DEFAULT_ACCENT_SOFT)
+    }
+  }, [selectedUniverse])
 
   const handleSelectCharacter = (universe, character) => {
     setSelectedUniverse(universe)
