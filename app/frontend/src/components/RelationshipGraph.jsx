@@ -2,13 +2,18 @@ import { useEffect, useState } from "react";
 import { fetchCharacterGraph } from "../api";
 import { getTheme } from "../utils/themes";
 
+const DEFAULT_NODE_COUNT = 8;
+const MAX_NODE_COUNT = 12;
+
 export default function RelationshipGraph({ universe, character }) {
   const [edges, setEdges] = useState(null);
   const [error, setError] = useState(null);
+  const [nodeCount, setNodeCount] = useState(DEFAULT_NODE_COUNT);
 
   useEffect(() => {
     setEdges(null);
     setError(null);
+    setNodeCount(DEFAULT_NODE_COUNT);
     fetchCharacterGraph(universe, character)
       .then((data) => setEdges(data.edges))
       .catch((e) => setError(e.message));
@@ -35,10 +40,11 @@ export default function RelationshipGraph({ universe, character }) {
 
   const accent = getTheme(universe).accent;
 
-  // Related entities only -- `other` is already normalized by the backend
-  // to be whichever side of each edge ISN'T the queried character,
-  // regardless of which direction the relationship was stored in.
-  const relatedNames = [...new Set(edges.map((e) => e.other))].slice(0, 8);
+  const allRelatedNames = [...new Set(edges.map((e) => e.other))];
+  const cappedMax = Math.min(allRelatedNames.length, MAX_NODE_COUNT);
+  const minNodes = Math.min(3, allRelatedNames.length);
+  const activeCount = Math.min(nodeCount, cappedMax);
+  const relatedNames = allRelatedNames.slice(0, activeCount);
 
   const cx = 200;
   const cy = 160;
@@ -58,6 +64,22 @@ export default function RelationshipGraph({ universe, character }) {
 
   return (
     <div className="graph-panel">
+      {allRelatedNames.length > minNodes && (
+        <div className="graph-controls">
+          <label htmlFor="node-count">
+            Showing {activeCount} of {allRelatedNames.length} relationships
+          </label>
+          <input
+            id="node-count"
+            type="range"
+            min={minNodes}
+            max={cappedMax}
+            value={activeCount}
+            onChange={(e) => setNodeCount(Number(e.target.value))}
+          />
+        </div>
+      )}
+
       <svg viewBox="0 0 400 320" className="graph-svg">
         {positioned.map((node, i) => (
           <line

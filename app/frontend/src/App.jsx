@@ -3,12 +3,10 @@ import Sidebar from "./components/Sidebar";
 import ChatThread from "./components/ChatThread";
 import { sendChat } from "./api";
 import { getTheme } from "./utils/themes";
+import { CONVERSATIONS_KEY, LAST_ACTIVE_KEY } from "./utils/storageKeys";
 
 const DEFAULT_ACCENT = "#7C5CFC";
 const DEFAULT_ACCENT_SOFT = "rgba(124, 92, 252, 0.15)";
-
-const CONVERSATIONS_KEY = "cogrealm_conversations_v1";
-const LAST_ACTIVE_KEY = "cogrealm_last_active_v1";
 
 function conversationKey(universe, character) {
   return `${universe}::${character}`;
