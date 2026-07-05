@@ -1,12 +1,12 @@
-# 🌌 CogRealm: Living Fiction Memory
+# 🌌 CogVerse: Living Fiction Memory
 
 **Talk to fictional universes as if their entire world has memory.**
 
-**CogRealm** turns wikis for fictional universes (_MCU, Harry Potter, Naruto, Kung Fu Panda, Breaking Bad, The Hangover, ..._) into queryable knowledge graphs using _Cognee_, then lets you have in-character conversations grounded in that graph — including conversations that reach across universes.
+**CogVerse** turns wikis for fictional universes (_MCU, Harry Potter, Naruto, Kung Fu Panda, Breaking Bad, The Hangover, ..._) into queryable knowledge graphs using _Cognee_, then lets you have in-character conversations grounded in that graph — including conversations that reach across universes.
 
 ![Iron Man Chat Demo](./assets_for_readme/main_demo.png)
 
-Examples of questions you can ask _CogRealm_:
+Examples of questions you can ask _CogVerse_:
 
 ```
  "What advice would Naruto give Harry Potter after Sirius died?"
@@ -128,7 +128,7 @@ If you are a software sorcerer, here is how the spell is cast behind the scenes.
 
 ### High-Level Flow
 
-Below is the conceptual architecture of how **CogRealm** ingests lore data, links characters, processes chat queries via graph retrieval, and synthesizes grounded responses.
+Below is the conceptual architecture of how **CogVerse** ingests lore data, links characters, processes chat queries via graph retrieval, and synthesizes grounded responses.
 
 ```mermaid
 flowchart LR
