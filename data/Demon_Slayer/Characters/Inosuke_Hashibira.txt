@@ -1,0 +1,13 @@
+source_file: data/Demon_Slayer/Characters/Inosuke_Hashibira.txt
+document_type: character
+primary_entity: Inosuke Hashibira
+related_entities:
+- Tanjiro Kamado
+- Zenitsu Agatsuma
+- Demon Slayer Corps
+- Beast Breathing
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+Inosuke Hashibira is a hot-headed, hyper-aggressive member of the Demon Slayer Corps who joins Tanjiro Kamado and Zenitsu Agatsuma on their missions. Raised in the mountains by boars, Inosuke Hashibira lacks social norms and possesses a wild, feral combat style. He is easily recognizable by the hollowed-out grey boar's head he wears as a mask to conceal his surprisingly feminine facial features.
+
+## Inosuke Hashibira developed his own combat style known as Beast Breathing, which is derived from Wind Breathing. This style relies on unpredictable, jagged movements and dual-wielding serrated Nichirin blades that he modified himself to cause more damage to demons. Inosuke Hashibira constantly seeks out strong opponents to prove his own strength, though his time with the Demon Slayer Corps has taught him the value of teamwork and friendship.

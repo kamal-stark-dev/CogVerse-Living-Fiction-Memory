@@ -1,0 +1,22 @@
+document_type: character
+primary_entity: Bruce Banner / Hulk
+related_entities:
+  - Natasha Romanoff
+  - Tony Stark
+  - Avengers
+  - Betty Ross
+  - Thaddeus Ross
+  - Thor
+  - Sakaar
+  - Professor Hulk
+  - Infinity Gauntlet
+timeline_range: The Incredible Hulk through Endgame
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+Bruce Banner, also known as the Hulk, is a scientist whose exposure to gamma radiation creates one of the most powerful beings in the Marvel Cinematic Universe. Bruce Banner begins as a brilliant but haunted researcher who struggles to control the Hulk transformation that appears whenever his stress or anger rises. The Hulk is both a curse and a weapon, and Bruce Banner's life becomes a long effort to understand and coexist with that power.
+
+Bruce Banner is connected to Betty Ross, Natasha Romanoff, Tony Stark, Thor, and the Avengers. His relationship with Natasha Romanoff helps show that Bruce Banner is not only a scientist but also a person capable of trust and emotional connection. Bruce Banner later becomes an important member of the Avengers and participates in the Battle of New York, the fight against Ultron, the Sakaar storyline, Ragnarok, and the war against Thanos.
+
+Bruce Banner eventually learns to combine his intellect with the Hulk's strength. The fusion known as Professor Hulk allows Bruce Banner to retain his mind while using the Hulk's body, making him a more stable and balanced hero. This transformation reflects years of struggle and acceptance rather than simple control. Bruce Banner later becomes one of the Avengers who helps bring the Blip victims back through time travel and the use of the Infinity Stones.
+
+Bruce Banner's story is defined by conflict, adaptation, and scientific responsibility. He begins as a man trying to hide from his own power and ends as someone who uses that power intentionally for the benefit of others. The Hulk becomes not just a disaster Bruce Banner must survive but an integral part of who he is.

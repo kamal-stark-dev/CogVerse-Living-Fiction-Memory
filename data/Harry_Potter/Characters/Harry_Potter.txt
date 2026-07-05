@@ -1,0 +1,141 @@
+document_type: character
+primary_entity: Harry James Potter
+related_entities:
+  - James Potter
+  - Lily Potter
+  - Lord Voldemort
+  - Albus Dumbledore
+  - Severus Snape
+  - Neville Longbottom
+  - Petunia Dursley
+  - Vernon Dursley
+  - Dudley Dursley
+  - Rubeus Hagrid
+  - Hogwarts School of Witchcraft and Wizardry
+  - Gryffindor House
+  - Ron Weasley
+  - Hermione Granger
+  - Ginny Weasley
+  - Sirius Black
+  - Remus Lupin
+  - Minerva McGonagall
+  - Oliver Wood
+  - Draco Malfoy
+  - Dolores Umbridge
+  - Cedric Diggory
+  - Dumbledore's Army
+  - Order of the Phoenix
+  - Death Eaters
+  - Ministry of Magic
+  - British Auror Office
+  - Department of Magical Law Enforcement
+  - Salazar Slytherin
+  - Basilisk
+  - Chamber of Secrets
+  - Philosopher's Stone
+  - Triwizard Tournament
+  - Battle of the Department of Mysteries
+  - Horcruxes
+  - Deathly Hallows
+  - Elder Wand
+  - Cloak of Invisibility
+  - Resurrection Stone
+  - Hedwig
+  - Dobby
+  - Fawkes
+  - James Sirius Potter
+  - Albus Severus Potter
+  - Lily Luna Potter
+  - Teddy Lupin
+timeline_range: 1980–2020
+canonical_source: Harry Potter Wiki
+
+Harry James Potter is an English half-blood wizard who was born on 31 July 1980 in Godric's Hollow, West Country, England. Harry Potter is the only child of James Potter and Lily Potter (née Evans). Harry Potter belongs to the Potter family through his father and to the Evans family through his mother. Harry Potter is a human male and became one of the most famous wizards of the modern era. Harry Potter is widely known by the aliases "The Boy Who Lived" and "The Chosen One." Other identities used by Harry Potter include Gregory Goyle, Barny Weasley, Albert Runcorn, Vernon Dudley, Neville Longbottom, Perkins, Lightning, Potty, Undesirable No. 1, Plotter, and "The Boy Who Lied," with many of these names resulting from disguises, code names, or propaganda. Harry Potter later earned the titles of Seeker, Gryffindor Quidditch Captain, Triwizard Champion, and Master of Death.
+
+Harry Potter's birth was directly connected to a prophecy concerning the downfall of Lord Voldemort. The prophecy identified either Harry Potter or Neville Longbottom as the child with the power to defeat Voldemort. Severus Snape overheard part of the prophecy and reported it to Lord Voldemort. Lord Voldemort interpreted the prophecy as referring to Harry Potter because Harry Potter closely resembled Voldemort in several significant ways, including being a half-blood. Lord Voldemort's decision to target Harry Potter caused James Potter and Lily Potter to hide their family in an attempt to protect their son.
+
+When Harry Potter was approximately one year and three months old, Lord Voldemort attacked the Potter family at Godric's Hollow. James Potter was murdered while attempting to defend his family. Lily Potter sacrificed her own life to save Harry Potter. Lily Potter's willing sacrifice created a powerful ancient magical protection based upon love. Lord Voldemort attempted to murder Harry Potter using the Killing Curse, but Lily Potter's sacrificial protection caused the curse to rebound upon Voldemort instead. Harry Potter survived the Killing Curse and became the only known wizard to survive such an attack. Lord Voldemort lost his physical body, marking the end of the First Wizarding War. This failed murder attempt established Harry Potter, rather than Neville Longbottom, as Voldemort's destined nemesis according to the prophecy.
+
+Lily Potter's sacrifice also enabled Albus Dumbledore to strengthen Harry Potter's protection through the Bond of Blood charm. Harry Potter was placed in the care of Lily Potter's sister, Petunia Dursley, because Petunia Dursley was Harry Potter's closest living blood relative. Albus Dumbledore cast the Bond of Blood enchantment upon Harry Potter, ensuring that Lord Voldemort could not successfully attack Harry Potter while Harry Potter could still call Petunia Dursley's home his own. This protection remained effective until Harry Potter reached adulthood or permanently left the home. Harry Potter consequently spent his childhood at 4 Privet Drive with Petunia Dursley, Vernon Dursley, and Dudley Dursley. Petunia Dursley's resentment toward Lily Potter's magical abilities caused Harry Potter to experience years of emotional neglect, physical mistreatment, and isolation.
+
+Shortly before Harry Potter turned eleven years old, Hogwarts School of Witchcraft and Wizardry repeatedly attempted to deliver his Hogwarts acceptance letter. Vernon Dursley repeatedly attempted to prevent Harry Potter from receiving these letters, including temporarily abandoning their home. These efforts ultimately failed. On Harry Potter's eleventh birthday, Rubeus Hagrid personally informed Harry Potter that he was a wizard and introduced him to the magical world. Rubeus Hagrid escorted Harry Potter to Diagon Alley, where Harry Potter accessed the Potter family fortune at Gringotts Wizarding Bank. Harry Potter purchased school supplies from Flourish and Blotts, Madam Malkin's Robes for All Occasions, and Slug & Jiggers Apothecary. Rubeus Hagrid also purchased Hedwig, a snow-white owl, as Harry Potter's companion.
+
+Harry Potter enrolled at Hogwarts School of Witchcraft and Wizardry in 1991. During the Sorting Ceremony, the Sorting Hat recognized many qualities admired by Salazar Slytherin, including courage, determination, ambition, resourcefulness, and Parseltongue. The Sorting Hat recommended Slytherin House, but Harry Potter strongly requested not to be placed there. Respecting Harry Potter's choice, the Sorting Hat placed Harry Potter into Gryffindor House. Albus Dumbledore later emphasized that Harry Potter's conscious decision to reject Slytherin values demonstrated that personal choices define character more strongly than innate abilities.
+
+Harry Potter rapidly formed lifelong friendships with Ronald Weasley and Hermione Granger. These three students became known collectively as the Trio. Harry Potter also developed deep relationships with Rubeus Hagrid, Albus Dumbledore, Minerva McGonagall, Sirius Black, Remus Lupin, Neville Longbottom, Luna Lovegood, Dobby, Hedwig, and many members of the Weasley family. Harry Potter's strongest emotional bonds throughout his life included his parents, his wife Ginny Weasley, his children, Hermione Granger, Ron Weasley, Sirius Black, Dumbledore, Hagrid, McGonagall, Lupin, Neville Longbottom, Luna Lovegood, Teddy Lupin, Hedwig, and Dobby.
+
+Professor Minerva McGonagall quickly recognized Harry Potter's exceptional flying talent after observing his first broomstick flight. Harry Potter became the youngest Quidditch Seeker in a century when he joined the Gryffindor Quidditch Team during his first year. Oliver Wood, the Gryffindor Quidditch Captain, mentored Harry Potter as Seeker. Harry Potter later became Captain of the Gryffindor Quidditch Team during his sixth year and led the team to two Quidditch Cup victories. Harry Potter inherited his remarkable flying ability from his father James Potter.
+
+During his first year, Harry Potter prevented Lord Voldemort and Quirinus Quirrell from stealing the Philosopher's Stone. Harry Potter's investigation into the mystery demonstrated exceptional detective skills. Harry Potter's willingness to confront danger despite his age established his reputation for courage and leadership.
+
+During his second year, Harry Potter solved the centuries-old mystery of the Chamber of Secrets. Harry Potter identified the Basilisk as the monster responsible for the attacks and discovered how victims survived by indirect eye contact. Harry Potter entered the Chamber of Secrets, rescued Ginny Weasley, killed Salazar Slytherin's Basilisk using the Sword of Gryffindor, and destroyed Tom Riddle's diary Horcrux. Harry Potter's actions prevented further attacks upon Hogwarts students and strengthened his relationship with the Weasley family.
+
+During his third year, Harry Potter learned to produce a corporeal Patronus despite being only thirteen years old. Harry Potter's Patronus took the form of a stag, reflecting his connection to James Potter. Producing a corporeal Patronus at such a young age demonstrated magical talent well beyond the level expected of most adult wizards. Harry Potter's Boggart manifested as a Dementor, revealing that Dementors represented his greatest fear.
+
+Harry Potter also learned the truth about Sirius Black during his third year. Sirius Black was revealed to be Harry Potter's godfather rather than the traitor responsible for James and Lily Potter's deaths. Peter Pettigrew was exposed as the true betrayer of the Potter family. Harry Potter prevented Sirius Black and Remus Lupin from killing Peter Pettigrew because Harry Potter believed James Potter would not have wanted revenge through murder. This decision demonstrated Harry Potter's compassion and moral restraint.
+
+Harry Potter's Nimbus 2000 broomstick was presented to him by Minerva McGonagall after he joined the Gryffindor Quidditch Team. Harry Potter became emotionally attached to the broomstick because it represented his first major achievement at Hogwarts. During his third year, the Nimbus 2000 was destroyed after colliding with the Whomping Willow, causing Harry Potter considerable grief. Harry Potter later received a Firebolt broomstick.
+
+During his fourth year, Harry Potter unexpectedly became a Triwizard Tournament champion despite being under the required age of seventeen. Harry Potter demonstrated exceptional magical ability throughout all three tasks. Harry Potter's independence and reluctance to seek help nearly caused failure during the Second Task when he delayed asking others about underwater breathing. Barty Crouch Jr., disguised as Alastor Moody, recognized Harry Potter's pride and independence as both strengths and weaknesses. The tournament concluded with Cedric Diggory's murder and Lord Voldemort's physical resurrection. Harry Potter survived a direct duel with Voldemort and escaped with Cedric Diggory's body, becoming the primary witness to Voldemort's return.
+
+Following Voldemort's return, the Ministry of Magic denied the truth. Dolores Umbridge suppressed practical Defence Against the Dark Arts education through Educational Decrees. Hermione Granger and Ronald Weasley proposed creating Dumbledore's Army to teach practical defensive magic. Harry Potter initially hesitated but eventually accepted leadership of the organization. Harry Potter instructed students of multiple ages in advanced defensive spells, including Stunning Spells, Disarming Charms, Impediment Jinxes, Smokescreen Spells, the Full Body-Bind Curse, Reductor Curses, and numerous other defensive techniques. Harry Potter's success as an instructor demonstrated his exceptional mastery of Defence Against the Dark Arts and revealed his natural leadership abilities.
+
+Harry Potter fought in the Battle of the Department of Mysteries. Lord Voldemort exploited Harry Potter's protective instincts by implanting a false vision suggesting Sirius Black was in danger. Harry Potter's determination to rescue Sirius Black led members of Dumbledore's Army into battle against Death Eaters. During the battle, Sirius Black was killed by Bellatrix Lestrange. The prophecy concerning Harry Potter and Voldemort was destroyed. Sirius Black's death profoundly affected Harry Potter and intensified Harry Potter's emotional trauma.
+
+Throughout his education, Harry Potter consistently excelled in Defence Against the Dark Arts. Harry Potter achieved an Exceeds Expectations grade on his O.W.L. examination and advanced to N.E.W.T.-level study. Harry Potter also earned Exceeds Expectations in Charms and Transfiguration. Harry Potter demonstrated advanced proficiency in Conjuration, an advanced branch of Transfiguration taught only at N.E.W.T. level. Harry Potter performed especially well in Charms, mastering advanced spells at unusually young ages.
+
+Harry Potter possessed exceptional detective abilities. Harry Potter repeatedly uncovered hidden conspiracies, solved mysteries, and connected fragmented evidence into coherent explanations. Hermione Granger frequently contributed research and historical information, while Harry Potter synthesized evidence into practical conclusions. Together, Harry Potter, Ron Weasley, and Hermione Granger repeatedly exposed concealed threats that others overlooked.
+
+Harry Potter inherited a fragment of Lord Voldemort's soul after the failed murder attempt in 1981. Because of this soul fragment, Harry Potter could speak and understand Parseltongue between 1981 and 1998. Harry Potter also experienced involuntary visions into Lord Voldemort's thoughts and perceptions. Harry Potter occasionally used these visions to monitor Voldemort's activities, although Voldemort could also exploit the connection through Legilimency. After Voldemort's soul fragment inside Harry Potter was destroyed in 1998, Harry Potter apparently lost Parseltongue. By 2020, Harry Potter had regained the ability, although the precise reason remained uncertain.
+
+Harry Potter's sixth year further developed his leadership abilities through his role as Gryffindor Quidditch Captain. Harry Potter also became increasingly suspicious of Draco Malfoy's activities, demonstrating both remarkable intuition and obsessive tendencies. Harry Potter's persistent investigation ultimately proved justified.
+
+Harry Potter's romantic relationships evolved over time. Harry Potter briefly dated Cho Chang before the relationship ended unsuccessfully. Harry Potter later developed a deep romantic relationship with Ginny Weasley. Harry Potter ended this relationship temporarily because he believed remaining close to him endangered Ginny Weasley. This decision reflected Harry Potter's tendency to prioritize the safety of loved ones over his own happiness. After the war, Harry Potter married Ginny Weasley. Harry Potter and Ginny Potter became the parents of James Sirius Potter, Albus Severus Potter, and Lily Luna Potter.
+
+During what would have been Harry Potter's seventh year, Harry Potter, Ronald Weasley, and Hermione Granger abandoned formal education to hunt Lord Voldemort's Horcruxes. Destroying the Horcruxes became essential because Voldemort could not be permanently defeated while fragments of his soul remained hidden. Harry Potter gradually became obsessed with the Deathly Hallows during this journey, temporarily diverting his attention from the Horcrux mission before ultimately recognizing that destroying Horcruxes remained the true priority.
+
+Harry Potter inherited numerous valuable possessions throughout his life. Harry Potter inherited the Potter family fortune after the deaths of James Potter and Lily Potter. Harry Potter later inherited the Black family fortune following Sirius Black's death. Harry Potter's financial independence allowed him to support himself throughout his education.
+
+Harry Potter's primary wand measured eleven inches, was made of holly wood, and contained a phoenix feather core. The phoenix feather came from Fawkes, the same phoenix that provided the feather for Lord Voldemort's wand, making the two wands "brothers." Harry Potter's wand broke in December 1997 during an encounter with Nagini inside Bathilda Bagshot's house after Hermione Granger accidentally struck it with a spell. Following the Battle of Hogwarts, Harry Potter repaired his original wand using the Elder Wand.
+
+Harry Potter temporarily wielded several additional wands, including a vine wand with dragon heartstring, a blackthorn wand, a hawthorn wand with unicorn hair, and the Elder Wand containing a Thestral hair core.
+
+Harry Potter possessed the Cloak of Invisibility, a treasured Potter family heirloom. Harry Potter received the cloak anonymously during his first Christmas at Hogwarts. Albus Dumbledore later revealed that he had returned the cloak after obtaining it from James Potter. Harry Potter eventually learned that the cloak was one of the three Deathly Hallows and that he descended directly from Ignotus Peverell through the Potter family. Harry Potter later passed the Cloak of Invisibility to his eldest son, James Sirius Potter.
+
+Harry Potter owned Hedwig, whose loyalty and intelligence made her an indispensable companion for communication throughout Harry Potter's school years. Hedwig faithfully delivered messages, demonstrated affection toward Harry Potter, and occasionally expressed disapproval toward Ron Weasley and Hermione Granger by pecking them until they responded. Hedwig died during the Battle of the Seven Potters, causing Harry Potter profound grief.
+
+Harry Potter also owned a schoolbag, a repaired alarm clock, a photo album given by Rubeus Hagrid containing photographs of Harry Potter's parents and friends, and a copy of *Flying with the Cannons*, which Ronald Weasley gave Harry Potter as a Christmas present.
+
+Harry Potter participated in numerous battles during the Second Wizarding War. During the Battle of Hogwarts, Harry Potter witnessed the deaths of Severus Snape, Fred Weasley, Remus Lupin, Nymphadora Tonks, Colin Creevey, and many other allies. Harry Potter willingly surrendered himself to Lord Voldemort after realizing that the fragment of Voldemort's soul residing within Harry Potter had to be destroyed before Voldemort could be defeated permanently. Harry Potter accepted what he believed would be his own death because he believed sacrificing himself represented the only path to victory.
+
+After Lord Voldemort struck Harry Potter with the Killing Curse in the Forbidden Forest, Harry Potter entered a liminal state resembling limbo. Albus Dumbledore explained Voldemort's history, clarified Harry Potter's connection to Voldemort, and informed Harry Potter that he could either return to life or move on. Harry Potter consciously chose to return. Because Harry Potter had willingly sacrificed himself for others, his actions extended protective magic to those fighting Voldemort, echoing Lily Potter's original sacrifice.
+
+Harry Potter confronted Lord Voldemort one final time during the Battle of Hogwarts. Harry Potter explained the true ownership of the Elder Wand and revealed why Voldemort could not successfully command it. Because the Elder Wand's allegiance belonged to Harry Potter, Voldemort's Killing Curse rebounded once again. Lord Voldemort died permanently after every Horcrux had already been destroyed. Harry Potter's victory concluded the Second Wizarding War.
+
+By uniting the Elder Wand, the Resurrection Stone, and the Cloak of Invisibility, Harry Potter became the only known Master of Death at the age of seventeen. Harry Potter did not pursue the Hallows for personal power but ultimately possessed all three simultaneously.
+
+After the Second Wizarding War, Harry Potter became an Auror and devoted his career to preventing future Dark wizard activity. Harry Potter played a major role in reforming and modernizing the British Ministry of Magic. Harry Potter became Head of the British Auror Office in 2007 at the age of twenty-six. Harry Potter occasionally returned to Hogwarts as a guest lecturer in Defence Against the Dark Arts. By the summer of 2020, Harry Potter had been promoted to Head of the Department of Magical Law Enforcement.
+
+Harry Potter became the godfather of Edward "Teddy" Lupin following the deaths of Remus Lupin and Nymphadora Tonks. Harry Potter maintained a close relationship with Teddy Lupin throughout Teddy's life.
+
+Harry Potter's immediate family eventually consisted of his wife Ginny Potter, his sons James Sirius Potter and Albus Severus Potter, and his daughter Lily Luna Potter. Harry Potter's marriage also made him the son-in-law of Arthur Weasley and Molly Weasley and the brother-in-law of Bill Weasley, Charlie Weasley, Percy Weasley, Fred Weasley, George Weasley, and Ronald Weasley. Harry Potter also became the brother-in-law of Hermione Granger through her marriage to Ronald Weasley.
+
+Harry Potter's personality was defined primarily by courage, loyalty, compassion, selflessness, determination, and an extraordinary capacity for love. Albus Dumbledore repeatedly identified Harry Potter's ability to love as Harry Potter's greatest strength and as the one quality Lord Voldemort fundamentally lacked. Harry Potter consistently chose compassion over hatred even after enduring neglect, abuse, and repeated personal loss. Harry Potter rarely sought violence and almost always fought in self-defense rather than for revenge.
+
+Harry Potter repeatedly demonstrated willingness to sacrifice his own happiness and safety for others. Harry Potter willingly ended his relationship with Ginny Weasley to protect her. Harry Potter trusted his closest friends completely and refused to believe they would betray him, despite knowing that Peter Pettigrew had betrayed Harry Potter's parents. Harry Potter consistently placed the needs of others ahead of his own.
+
+Harry Potter possessed remarkable willpower. Harry Potter successfully resisted the Imperius Curse through strength of character. Harry Potter resisted the temptations of power despite repeated exposure to Voldemort's thoughts and methods. Harry Potter never pursued authority for personal ambition, yet repeatedly emerged as a leader because circumstances demanded decisive action.
+
+Harry Potter also displayed significant flaws. Harry Potter could be impulsive, stubborn, moody, sarcastic, obsessive, intensely independent, and reluctant to seek assistance. Harry Potter often insisted upon solving problems alone, requiring Ron Weasley and Hermione Granger to remind him that he did not need to face every burden without help. Harry Potter experienced periods of unhealthy obsession, particularly regarding Draco Malfoy's activities and later the Deathly Hallows.
+
+Harry Potter suffered significant psychological trauma throughout his adolescence and adulthood. Harry Potter experienced recurring symptoms consistent with clinical depression, survivor's guilt, and post-traumatic stress disorder. Harry Potter struggled with hopelessness, insomnia, nightmares, irritability, mood swings, agitation, guilt, concentration difficulties, emotional withdrawal, and social isolation. Harry Potter believed that many people had died because of him and frequently questioned whether he deserved to have survived. Harry Potter feared that Lord Voldemort would always retain some emotional influence over his life. Despite these struggles, Harry Potter continued fulfilling his responsibilities and protecting others.
+
+Harry Potter concealed many personal fears from his family. Harry Potter feared darkness, pigeons, confined spaces, and the possibility of seeing members of his family harmed. Harry Potter's younger son, Albus Severus Potter, nevertheless viewed Harry Potter as fearless because Harry Potter rarely revealed these vulnerabilities.
+
+Harry Potter possessed dry wit and sarcasm, especially when confronting adversaries such as Severus Snape, Draco Malfoy, Dudley Dursley, and Gilderoy Lockhart. Harry Potter frequently responded to insults or intimidation with calm humor, demonstrating confidence under pressure.
+
+Harry Potter matured significantly over time. During childhood and adolescence, Harry Potter tended to divide people according to Hogwarts Houses, often assuming Slytherins were enemies while Gryffindors were allies. Continued experience gradually challenged this worldview. Harry Potter recognized honorable Slytherins such as Horace Slughorn and eventually Severus Snape while acknowledging that betrayal could come from any House, including Gryffindor through Peter Pettigrew and Ravenclaw through Quirinus Quirrell. By adulthood, Harry Potter encouraged his son Albus Severus Potter not to fear being Sorted into Slytherin. Harry Potter further honored Severus Snape by naming his son Albus Severus Potter and describing Severus Snape as the bravest man Harry Potter had ever known.
+
+Harry Potter was one of the most gifted wizards of his generation. Harry Potter excelled in Defence Against the Dark Arts, Charms, Transfiguration, flying, duelling, investigation, leadership, and practical magical problem solving. Harry Potter successfully taught advanced defensive magic to older students, defeated numerous Death Eaters, survived repeated confrontations with Lord Voldemort, mastered advanced magical techniques at unusually young ages, and demonstrated proficiency even in certain branches of the Dark Arts despite never embracing Dark wizard ideology.
+
+Harry Potter's greatest magical strength ultimately remained neither spellcasting nor duelling ability but his unwavering capacity to love. Lily Potter's sacrificial love saved Harry Potter's life. Harry Potter's own willingness to sacrifice himself extended similar protection to others. Harry Potter's compassion, loyalty, and refusal to pursue power defined every major decision of his life and directly enabled the permanent defeat of Lord Voldemort. Harry Potter's legacy therefore extends beyond military victory, representing the triumph of love, moral choice, sacrifice, and personal integrity over fear, hatred, and the pursuit of power.

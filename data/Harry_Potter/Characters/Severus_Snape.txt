@@ -1,0 +1,113 @@
+document_type: character
+primary_entity: Severus Snape
+related_entities:
+  - Tobias Snape
+  - Eileen Prince
+  - Snape family
+  - Prince family
+  - Lily Evans
+  - Lily Potter
+  - Petunia Evans
+  - James Potter
+  - Harry Potter
+  - Albus Dumbledore
+  - Lord Voldemort
+  - Sirius Black
+  - Remus Lupin
+  - Peter Pettigrew
+  - The Marauders
+  - Draco Malfoy
+  - Neville Longbottom
+  - Sybill Trelawney
+  - Horace Slughorn
+  - Minerva McGonagall
+  - Gilderoy Lockhart
+  - Ronald Weasley
+  - Hermione Granger
+  - Percy Weasley
+  - Ginny Weasley
+  - Rubeus Hagrid
+  - Nagini
+  - Hogwarts School of Witchcraft and Wizardry
+  - Slytherin House
+  - Gryffindor House
+  - Slug Club
+  - Death Eaters
+  - Order of the Phoenix
+  - Ministry of Magic
+  - Spinner's End
+  - Cokeworth
+  - Hogsmeade
+  - Shrieking Shack
+  - Astronomy Tower
+  - Malfoy Manor
+  - Elder Wand
+  - Deathly Hallows
+  - Dark Mark
+  - Doe Patronus
+  - Advanced Potion-Making
+  - Battle of Hogwarts
+  - First Wizarding War
+  - Second Wizarding War
+  - Prophecy of Sybill Trelawney
+  - Albus Severus Potter
+timeline_range: 1960–1998
+canonical_source: Harry Potter Wiki
+
+Severus Snape was an English half-blood wizard born on 9 January 1960 at Spinner's End in Cokeworth, Midlands, England. He died on 2 May 1998 at the Shrieking Shack in Hogsmeade, Scotland, at the age of thirty-eight. Severus Snape was the only child of the Muggle Tobias Snape and the pure-blood witch Eileen Snape, whose maiden name was Prince. Through his father he belonged to the Snape family, and through his mother he belonged to the Prince family. His mixed magical heritage made him a half-blood wizard. Throughout his life he was also known by several aliases and titles, including the Half-Blood Prince, Professor, The Potions Master, Head of Slytherin House, Headmaster of Hogwarts School of Witchcraft and Wizardry, "Sev" as used by Lily Evans, "Snivellus" or "Snivelly" as used by James Potter, Sirius Black, and the Marauders, and "Slytherus" as used on Potterwatch.
+
+Severus Snape spent his childhood at Spinner's End, a poor Muggle neighborhood located close to the home of the Evans family. His upbringing was heavily influenced by the contrast between his neglected working-class environment and the magical world he longed to join. Tobias Snape was neglectful, and Severus developed contempt for ordinary Muggle life partly because of his experiences with his father. This difficult childhood contributed to Severus Snape becoming isolated, insecure, socially withdrawn, and determined to become someone powerful and significant.
+
+When Severus Snape was approximately nine years old, he met Lily Evans and Petunia Evans. Lily Evans was a Muggle-born witch, while Petunia Evans was a Muggle. Severus immediately recognized Lily's magical abilities and introduced her to the wizarding world before either child attended Hogwarts. Severus Snape quickly developed a profound and lifelong love for Lily Evans. Lily became his closest friend during childhood. Their friendship became one of the defining relationships of Severus Snape's life and remained the central motivation behind nearly every major decision he made afterward.
+
+In the 1971–1972 school year, Severus Snape entered Hogwarts School of Witchcraft and Wizardry alongside Lily Evans. During the Sorting Ceremony, Severus Snape was placed into Slytherin House, while Lily Evans was sorted into Gryffindor House. Although they remained in the same year, belonging to different houses gradually placed emotional and social strain on their friendship.
+
+While attending Hogwarts, Severus Snape demonstrated extraordinary magical talent from an early age. Sirius Black later stated that Severus Snape already knew more Dark Arts curses upon arriving at Hogwarts than many seventh-year students. Severus developed exceptional knowledge of potions, curses, magical theory, and other advanced branches of magic. His intelligence and magical creativity allowed him to invent original spells and improve existing potion recipes rather than merely following published instructions. His remarkable potion-making ability led to his admission into Horace Slughorn's Slug Club. Horace Slughorn recognized Severus Snape's exceptional talent in Potions and even kept a photograph of him holding his copy of *Advanced Potion-Making*. Although Slughorn valued Snape's academic brilliance, he privately did not expect Severus to become especially influential in later life.
+
+During his years at Hogwarts, Severus Snape became the frequent target of bullying by James Potter, Sirius Black, and other members of the Marauders. The sustained harassment had a profound psychological impact. Constant humiliation, combined with his unhappy childhood, increased Severus Snape's bitterness, resentment, distrust of others, and desire for revenge. These experiences also strengthened his attraction to the Dark Arts, both as a means of gaining power and as protection against those who tormented him.
+
+As Severus Snape spent more time within Slytherin House, he became closely associated with a group of students who supported pure-blood supremacy. These friendships conflicted directly with Lily Evans's beliefs because Lily was Muggle-born. Severus Snape's growing fascination with Dark Magic and his increasingly extremist social circle gradually damaged his friendship with Lily Evans. Eventually, during their fifth year at Hogwarts, the friendship ended completely. Losing Lily Evans became one of the greatest emotional tragedies of Severus Snape's life and permanently shaped his future actions.
+
+Following the collapse of his friendship with Lily Evans, Severus Snape attempted to regain her affection. Instead, influenced by many of his fellow Slytherins and motivated by his desire for belonging and power, he joined Lord Voldemort's Death Eaters. Severus Snape officially became a Death Eater and entered Voldemort's inner circle. Although he embraced the organization, Severus Snape remained emotionally attached to Lily Evans and never abandoned his love for her.
+
+While serving Lord Voldemort, Severus Snape overheard part of the prophecy spoken by Sybill Trelawney to Albus Dumbledore. Severus Snape reported the incomplete prophecy to Lord Voldemort. The prophecy could have referred either to Harry Potter or Neville Longbottom because both boys were born near the end of July 1980 to parents who belonged to the Order of the Phoenix. Lord Voldemort chose to interpret the prophecy as referring to Harry Potter. This decision directly caused Voldemort to target James Potter, Lily Potter, and their infant son Harry Potter.
+
+When Severus Snape realized that Lily Potter's life was in danger because of the information he had delivered, he desperately begged Lord Voldemort to spare Lily Potter. Voldemort appeared to agree but had no intention of honoring the request if Lily continued protecting Harry Potter. During Voldemort's attack on the Potter family, Lily Potter refused to stand aside and sacrificed her own life to protect Harry Potter. Lily's death became the defining turning point of Severus Snape's life. Severus recognized that his own actions had indirectly caused her murder, creating overwhelming guilt that permanently changed his loyalties.
+
+Shortly before Lily Potter's death, Severus Snape sought the help of Albus Dumbledore. Severus abandoned Lord Voldemort's cause and joined the Order of the Phoenix. From that point onward, Severus Snape lived as a double agent. Outwardly he remained trusted by Lord Voldemort and the Death Eaters, while secretly serving Albus Dumbledore and the Order of the Phoenix. Maintaining this deception required exceptional skill in Occlumency, allowing Severus Snape to conceal his true loyalties from one of the greatest Legilimens in history. His success as a double agent became one of the most significant strategic advantages possessed by the Order of the Phoenix during both Wizarding Wars.
+
+The relationship between Severus Snape and Albus Dumbledore evolved from distrust into extraordinary mutual loyalty. Although Severus initially resented Dumbledore for failing to prevent the Marauders' bullying during his school years, the two gradually formed a partnership built on shared purpose and complete trust. Dumbledore understood that Severus Snape's enduring love for Lily Potter motivated every act of loyalty he displayed afterward. Severus Snape pledged to protect Harry Potter, not because he liked Harry, but because Harry was Lily Potter's son and represented the final connection to the woman Severus had loved throughout his life.
+
+Beginning in 1981, Severus Snape became Potions Master at Hogwarts School of Witchcraft and Wizardry. He simultaneously became Head of Slytherin House. He served as Potions Master until 1996 and remained Head of Slytherin House until 1997. Severus Snape repeatedly applied to become Defence Against the Dark Arts professor because of his fascination with that subject, but Albus Dumbledore denied his request for sixteen consecutive years, partly because of concerns surrounding the position's curse and partly because Dumbledore considered Snape more valuable elsewhere.
+
+As Potions Master, Severus Snape established extremely demanding academic standards. He regarded potion-making as both an exact science and an art requiring intelligence, precision, and discipline. He accepted only students with the highest academic performance into N.E.W.T.-level Potions. Despite his harsh personality, his teaching produced highly capable students such as Hermione Granger and Percy Weasley. Severus Snape carefully reviewed every lesson beforehand to ensure that his classes maintained high educational quality. He personally collected dangerous ingredients, including Acromantula venom, even when doing so endangered his own life, because he wanted his students to receive proper practical instruction.
+
+Severus Snape maintained an authoritarian classroom environment. He possessed an imposing presence and could silence an entire classroom with minimal effort. Many students perceived him as cruel, sarcastic, cold, cynical, bitter, and unfair, particularly students belonging to Gryffindor House. Severus Snape openly favored Slytherin students while displaying particular hostility toward Harry Potter, Neville Longbottom, Ronald Weasley, and many other Gryffindors. His resentment toward Harry Potter originated largely from Harry's physical resemblance to James Potter, who had bullied Severus throughout adolescence. At the same time, Harry possessed Lily Potter's eyes, constantly reminding Severus of the woman he loved. This combination created intense emotional conflict that Severus rarely revealed.
+
+Although many students believed Severus Snape hated children, his private actions demonstrated a different reality. Severus consistently worked to ensure his students received a proper magical education and frequently risked his own safety for their benefit. He protected Hogwarts students whenever possible, even while maintaining the appearance of indifference or hostility. His methods of discipline were often psychologically creative. For example, he intentionally left a tampered bottle of Felix Felicis under weak protection so that any thief attempting to steal it would unknowingly receive bad luck instead of good fortune.
+
+Severus Snape's personality remained deeply complex throughout his life. He was introverted, emotionally repressed, solitary, sarcastic, highly intelligent, and capable of extraordinary patience and self-control. Beneath this controlled exterior existed enormous emotional pain caused by childhood neglect, school bullying, guilt over Lily Potter's death, and the psychological burden of maintaining a dangerous double life. He held grudges for many years and possessed an explosive temper that rarely surfaced but became terrifying when released. His duel with Harry Potter after Albus Dumbledore's death revealed years of suppressed rage, emotional exhaustion, and frustration while simultaneously preserving his cover as a loyal Death Eater.
+
+Severus Snape developed exceptional magical abilities across numerous disciplines. He became one of the greatest potion-makers of his era and possessed encyclopedic magical knowledge. He demonstrated extraordinary mastery of the Dark Arts while also becoming highly skilled in Defence Against the Dark Arts. His expertise in Legilimency allowed him to read minds effectively, while his mastery of Occlumency enabled him to conceal his own thoughts even from Lord Voldemort. These abilities were indispensable to his role as a double agent.
+
+Severus Snape was also a gifted spell inventor. His deep understanding of magical theory enabled him to create original spells and magical techniques adopted even by other skilled witches and wizards. His magical creativity reflected both his intelligence and his independent approach to learning.
+
+Severus Snape's Patronus took the form of a doe, identical to Lily Potter's Patronus. The doe Patronus symbolized Severus Snape's unwavering love and lifelong devotion to Lily Potter. Albus Dumbledore later questioned whether Severus still loved Lily after so many years. Severus answered with the single word, "Always." This exchange demonstrated that his feelings for Lily had remained completely unchanged despite her marriage, her death, and the passage of many years. His Patronus became the clearest magical manifestation of that enduring love.
+
+Severus Snape's Boggart took the form of Lord Voldemort, indicating that despite serving as Voldemort's double agent, Severus feared Voldemort more than anything else. This fear reflected both Voldemort's immense power and the constant danger surrounding Severus Snape's secret mission.
+
+During the 1996–1997 school year, Severus Snape finally became Defence Against the Dark Arts professor. Later, when Draco Malfoy was ordered to assassinate Albus Dumbledore, Dumbledore privately asked Severus Snape to kill him instead if Draco proved unable to complete the task. Dumbledore's request served several purposes. It prevented Draco Malfoy from becoming a murderer, spared Draco's soul, strengthened Severus Snape's credibility within the Death Eaters, and protected the long-term mission against Lord Voldemort. Although Severus Snape deeply respected Dumbledore and found the request emotionally devastating, he ultimately honored Dumbledore's wishes because of their mutual trust and shared strategic objectives.
+
+On the Astronomy Tower, Severus Snape cast the fatal curse that killed Albus Dumbledore. To nearly everyone present, Severus Snape appeared to have betrayed Hogwarts and murdered the only wizard Lord Voldemort ever feared. In reality, the killing fulfilled a secret agreement between Dumbledore and Severus Snape. The act preserved Severus Snape's position within Voldemort's inner circle and enabled him to continue protecting Hogwarts from within.
+
+After Albus Dumbledore's death, Severus Snape became Headmaster of Hogwarts during Lord Voldemort's control of the Ministry of Magic. While publicly serving Voldemort's regime, Severus secretly fulfilled his promise to Dumbledore by protecting Hogwarts students as much as circumstances allowed under Death Eater occupation.
+
+Throughout the Second Wizarding War, Severus Snape continued deceiving Lord Voldemort without exposing his true allegiance. His success required continuous mastery of Occlumency, careful planning, emotional restraint, and willingness to accept universal hatred from allies who believed he had betrayed them.
+
+Near the end of the Second Wizarding War, Lord Voldemort concluded that Severus Snape must be the master of the Elder Wand because Severus had killed Albus Dumbledore. Voldemort incorrectly believed that ownership of the Elder Wand transferred through killing its previous master. In reality, Draco Malfoy had become the wand's true master by disarming Dumbledore before Severus cast the killing curse. Harry Potter later became master of the Elder Wand after disarming Draco Malfoy at Malfoy Manor. Because Voldemort misunderstood the Elder Wand's chain of allegiance, he ordered Nagini to kill Severus Snape inside the Shrieking Shack.
+
+Severus Snape died from the injuries inflicted by Nagini. Before dying, he gave Harry Potter his memories, allowing Harry to witness the complete truth about Severus Snape's life. These memories revealed Severus Snape's lifelong love for Lily Potter, his remorse over her death, his service as Albus Dumbledore's most trusted agent, his years of sacrifice, and the true reasons behind many actions that had previously appeared cruel or treacherous. The revelation transformed Harry Potter's understanding of Severus Snape and permanently altered Snape's historical legacy.
+
+After the Battle of Hogwarts, Harry Potter honored Severus Snape despite their lifelong personal conflict. Harry ensured that Severus Snape's portrait remained at Hogwarts as recognition of his service and heroism. Harry Potter later named his second son Albus Severus Potter after both Albus Dumbledore and Severus Snape, acknowledging that both men had profoundly influenced his life and the defeat of Lord Voldemort. Harry also came to respect Slytherin House because of Severus Snape's example and openly told his son that being sorted into Slytherin would be an honorable outcome.
+
+Severus Snape's legacy is defined by contradiction and redemption. He was simultaneously a former Death Eater and one of the Order of the Phoenix's greatest heroes. He was feared as a harsh professor while privately risking his life to protect students. He appeared to betray Albus Dumbledore while actually carrying out Dumbledore's final request. He treated Harry Potter with hostility while dedicating nearly two decades to ensuring Harry's survival. His lifelong love for Lily Potter motivated his redemption, his loyalty to Albus Dumbledore, his service as a double agent, and ultimately his sacrifice. Severus Snape's life demonstrates how guilt, love, loyalty, and personal choice shaped one of the most influential figures in the history of the First and Second Wizarding Wars.

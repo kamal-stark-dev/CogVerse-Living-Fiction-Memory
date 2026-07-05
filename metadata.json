@@ -1,0 +1,6 @@
+{
+  "name": "CogRealm: Living Fiction Memory",
+  "description": "An interactive living fiction memory applet where users chat with legendary fictional characters grounded by custom memories and lore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+source_file: data/Demon_Slayer/Events/Infinity_Castle_Developments.txt
+document_type: event
+primary_entity: Infinity Castle Developments
+related_entities:
+- Muzan Kibutsuji
+- Demon Slayer Corps
+- Hashira
+- Twelve Kizuki
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+## The Infinity Castle developments occurred when Muzan Kibutsuji, seeking to destroy the Demon Slayer Corps, drew the entire organization into his extradimensional fortress. The Infinity Castle is a shifting, labyrinthine space controlled by the Upper Rank Four, Nakime. Once inside, the Demon Slayer Corps found themselves separated and forced into brutal, isolated duels against the remaining members of the Twelve Kizuki. This event marked the beginning of the final war, as the Hashira and the primary slayers engaged in high-stakes combat against opponents such as Akaza, Doma, and Kokushibo. The shifts in the castle's architecture ensured that no battle was straightforward, and the combatants were forced to fight until death or total exhaustion. It was the site of the Corps' most significant losses and the battlefield where the path to Muzan Kibutsuji was finally cleared.

@@ -1,0 +1,83 @@
+document_type: event
+primary_entity: Harry Potter and the Half-Blood Prince (Film)
+related_entities:
+    - Lord Voldemort
+    - Harry Potter
+    - Albus Dumbledore
+    - Severus Snape
+    - Draco Malfoy
+    - Narcissa Malfoy
+    - Lucius Malfoy
+    - Horace Slughorn
+    - Ron Weasley
+    - Hermione Granger
+    - Ginny Weasley
+    - Lavender Brown
+    - Marvolo Gaunt
+    - Morfin Gaunt
+    - Merope Gaunt
+    - Tom Riddle
+    - Rubeus Hagrid
+    - Order of the Phoenix
+    - Death Eaters
+    - Hogwarts School of Witchcraft and Wizardry
+    - The Burrow
+    - 4 Privet Drive
+    - Borgin and Burkes
+    - Pensieve
+    - Marauder's Map
+    - Room of Requirement
+    - Astronomy Tower
+    - Hogsmeade
+    - Inferi
+    - Dark Mark
+    - Horcruxes
+    - Unbreakable Vow
+    - Salazar Slytherin's Locket
+    - R.A.B.
+timeline_range: Summer 1996 to the end of the 1996–1997 Hogwarts school year
+canonical_source: Harry Potter and the Half-Blood Prince
+
+The events of Harry Potter's sixth year at Hogwarts take place after Lord Voldemort openly returns to power and begins re-establishing control over both the Wizarding world and the Muggle world. Voldemort's growing influence creates widespread fear, strengthens the Death Eaters, and transforms Hogwarts from a place of relative safety into a school preparing for open war. The conflict shifts from denying Voldemort's return to actively preparing for the inevitable final confrontation.
+
+Before the school year begins, Severus Snape secretly meets Narcissa Malfoy. Narcissa Malfoy is the wife of imprisoned Death Eater Lucius Malfoy and the mother of Draco Malfoy. Narcissa fears that Lord Voldemort has assigned Draco an impossible mission that will lead to Draco's death if he fails. Bellatrix Lestrange distrusts Severus Snape because she believes Snape has not fully demonstrated loyalty to Voldemort. Snape insists that Voldemort trusts him completely and agrees to make an Unbreakable Vow with Narcissa Malfoy. Through this magical contract, Severus Snape promises to protect Draco Malfoy, assist Draco in completing Voldemort's mission whenever necessary, and personally complete the mission if Draco cannot. The Unbreakable Vow becomes a major factor governing Snape's future actions because breaking the vow would result in his death.
+
+Albus Dumbledore personally travels to 4 Privet Drive to collect Harry Potter before the beginning of the school year. Instead of taking Harry directly to the Burrow, Dumbledore brings Harry to recruit Horace Slughorn, a retired Hogwarts professor who once taught Tom Riddle during his school years. Horace Slughorn initially hides from Dumbledore because he does not wish to return to public life. Dumbledore persuades Horace Slughorn to resume teaching Potions at Hogwarts because Slughorn possesses memories that Dumbledore believes are essential for defeating Lord Voldemort.
+
+Harry Potter arrives at the Burrow and reunites with Ron Weasley, Hermione Granger, Ginny Weasley, and the Weasley family. Harry increasingly suspects that Draco Malfoy has become a Death Eater following the imprisonment of Lucius Malfoy. While shopping for school supplies, Harry secretly follows Draco Malfoy into Borgin and Burkes. Harry overhears Draco threatening the shop owner and demanding that Borgin repair a mysterious magical object. Although Harry cannot determine the object's purpose, he concludes that Draco is carrying out an important mission for Voldemort.
+
+When the students return to Hogwarts, Albus Dumbledore announces that Horace Slughorn has become the new Potions professor while Severus Snape assumes the position of Defence Against the Dark Arts professor. Harry is surprised because Snape had sought the Defence Against the Dark Arts position for many years.
+
+Harry Potter receives a second-hand Potions textbook that once belonged to an unknown wizard who identified himself as "The Half-Blood Prince." The textbook contains handwritten corrections, improved brewing methods, spell modifications, and original spells created by its former owner. Harry follows these annotations during Potions lessons and consistently outperforms every other student, earning Horace Slughorn's admiration despite Harry not understanding the true identity of the Half-Blood Prince. The textbook becomes an important source of magical knowledge and demonstrates that practical experience can surpass standard educational material.
+
+Throughout the school year, Albus Dumbledore regularly meets with Harry Potter using the Pensieve to examine preserved memories connected to Tom Riddle, later known as Lord Voldemort. Dumbledore believes that understanding Voldemort's past will reveal the weaknesses protecting his immortality. These lessons prepare Harry for the final conflict foretold by the prophecy linking Harry Potter and Lord Voldemort.
+
+Harry learns that Tom Riddle descended from the Gaunt family through his mother, Merope Gaunt. Merope Gaunt was the daughter of Marvolo Gaunt and the sister of Morfin Gaunt. Marvolo Gaunt possessed Salazar Slytherin's ring and believed his family descended directly from Salazar Slytherin. Merope fell in love with a Muggle named Tom Riddle Sr. She magically forced him to love her through the use of a love potion. When Merope stopped using the potion, Tom Riddle Sr. abandoned her because his affection had never been genuine. Merope died shortly after giving birth to Tom Riddle, leaving the child to grow up in a Muggle orphanage without parents or affection.
+
+The memories reveal that Tom Riddle displayed cruelty, manipulation, and unusual magical ability even as a child. Tom Riddle enjoyed controlling and intimidating other children while showing little empathy. These early behaviors demonstrate that Voldemort's pursuit of power began long before adulthood.
+
+Dumbledore explains that Lord Voldemort intentionally divided his soul into seven parts through repeated acts of murder in order to achieve immortality. Each fragment of Voldemort's soul was sealed inside a Horcrux. Destroying Voldemort permanently requires destroying every Horcrux before Voldemort himself can be killed. Harry learns that Tom Riddle's Diary and Marvolo Gaunt's Ring have already been destroyed. One fragment remains inside Voldemort himself, another exists within Voldemort's snake Nagini, another is believed to inhabit Salazar Slytherin's locket that once belonged to Merope Gaunt, while the remaining Horcruxes are suspected to be valuable objects connected to Hogwarts founders such as Helga Hufflepuff, Rowena Ravenclaw, or Godric Gryffindor. This knowledge fundamentally changes the Order of the Phoenix's strategy because defeating Voldemort now depends upon locating and destroying every Horcrux.
+
+While the war escalates, personal relationships among the students continue to develop. Ron Weasley begins a romantic relationship with Lavender Brown. Hermione Granger becomes deeply jealous because she has developed romantic feelings for Ron. Their emotional conflict places Harry Potter between his two closest friends. At the same time, Harry gradually realizes that he has fallen in love with Ginny Weasley. Eventually Ron and Lavender separate, allowing Ron and Hermione's relationship to begin improving while Harry's relationship with Ginny grows stronger.
+
+Harry continues serving as Gryffindor Quidditch captain while simultaneously investigating Draco Malfoy. Harry repeatedly tracks Draco using the Marauder's Map but notices that Draco frequently disappears completely from the map. Harry eventually concludes that Draco spends significant time inside the Room of Requirement, a magical room that changes according to the specific needs of its user. Because Harry does not know what purpose Draco requires from the room, Harry cannot enter and therefore cannot discover Draco's activities. Draco secretly uses the Room of Requirement to repair a Vanishing Cabinet that will later allow Death Eaters to infiltrate Hogwarts.
+
+As the school year nears its conclusion, Albus Dumbledore determines the location of what he believes is another Horcrux. Harry Potter accompanies Dumbledore to a remote seaside cave protected by complex magical defenses created by Voldemort. Inside the cave they discover a basin containing a poisonous potion concealing Salazar Slytherin's locket. Dumbledore understands that only drinking the potion will allow access to the Horcrux. Harry repeatedly forces Dumbledore to drink the potion despite Dumbledore experiencing overwhelming pain, hallucinations, thirst, and physical weakness. The potion nearly incapacitates Dumbledore and demonstrates the extreme measures Voldemort used to protect his Horcruxes.
+
+After obtaining the locket, Harry and Dumbledore are attacked by Inferi, animated corpses enchanted to defend the cave. Harry fights the Inferi while Dumbledore overcomes his exhaustion to unleash powerful magical fire that drives the creatures away. The battle proves that even one Horcrux is protected by deadly magical defenses capable of killing experienced wizards.
+
+Harry and Dumbledore return to Hogsmeade and immediately notice the Dark Mark suspended above Hogwarts. The Dark Mark signals that Death Eaters have successfully entered the castle. Unknown to Harry, Draco Malfoy has completed his mission by repairing the Vanishing Cabinet, allowing Death Eaters to enter Hogwarts from Borgin and Burkes.
+
+Harry and Dumbledore reach the Astronomy Tower. Before Draco arrives, Dumbledore immobilizes Harry using magic while Harry remains hidden beneath the Invisibility Cloak. Dumbledore does this to prevent Harry from interfering and to ensure Harry survives regardless of what follows.
+
+Draco Malfoy confronts Albus Dumbledore on the Astronomy Tower. Draco reveals that Lord Voldemort ordered him to assassinate Dumbledore. Draco successfully disarms Dumbledore but hesitates because he is unable to commit murder despite months of pressure from Voldemort. Dumbledore calmly tells Draco that Draco is not naturally a killer and offers protection from the Order of the Phoenix for Draco and Narcissa Malfoy. Dumbledore attempts to persuade Draco that redemption remains possible.
+
+Before Draco can decide, Severus Snape arrives at the Astronomy Tower. Harry remains unable to move because Dumbledore's immobilization spell is still active. Below the tower, members of the Order of the Phoenix battle the invading Death Eaters throughout Hogwarts. Dumbledore looks directly at Severus Snape and pleads, "Severus... please." Acting in accordance with both the Unbreakable Vow and Dumbledore's previously arranged plan, Severus Snape casts the Killing Curse, Avada Kedavra, striking Dumbledore and throwing him from the Astronomy Tower to his death.
+
+The death of Albus Dumbledore permanently changes the balance of the Wizarding War. Hogwarts loses its greatest protector, the Order of the Phoenix loses its leader, and Harry Potter loses his mentor. Dumbledore's death also cements Severus Snape's apparent reputation as Voldemort's loyal servant, although the full truth behind his actions remains concealed.
+
+When Dumbledore dies, the magical paralysis on Harry ends. Harry immediately pursues Severus Snape across the Hogwarts grounds, attempting to avenge Dumbledore. During the pursuit, Harry attacks Snape with spells learned from the Half-Blood Prince's textbook. Severus Snape effortlessly counters Harry's attacks and finally reveals that he himself is the Half-Blood Prince, identifying himself as the creator of the spells, annotations, and magical improvements contained within Harry's Potions textbook. Snape escapes Hogwarts alongside the Death Eaters.
+
+After the battle, Harry examines the locket recovered from the cave and discovers that it is not a genuine Horcrux. Inside the locket he finds a message signed by "R.A.B." The letter explains that R.A.B. secretly stole the real Horcrux before Harry and Dumbledore arrived and intended to destroy it independently. The discovery means that Dumbledore's dangerous expedition did not eliminate another fragment of Voldemort's soul and that the true locket Horcrux remains missing.
+
+Dumbledore's funeral and the discovery of the false Horcrux fundamentally reshape Harry Potter's future. Harry concludes that returning to Hogwarts for another year of formal education is less important than completing Dumbledore's mission. Harry decides to dedicate himself to locating and destroying every remaining Horcrux before confronting Lord Voldemort directly. Ron Weasley and Hermione Granger immediately refuse to let Harry face this mission alone and vow to accompany him. Their decision marks the transition from Hogwarts-centered adventures to an active campaign against Voldemort and establishes the Horcrux hunt as the central objective of the final stage of the Second Wizarding War.

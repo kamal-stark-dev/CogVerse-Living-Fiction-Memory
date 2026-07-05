@@ -1,0 +1,10 @@
+source_file: data/Demon_Slayer/Breathing_Styles/Moon_Breathing.txt
+document_type: other
+primary_entity: Moon Breathing
+related_entities:
+- Kokushibo
+- Yoriichi Tsugikuni
+- Twelve Kizuki
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+## Moon Breathing is an exceptionally powerful and complex breathing style that serves as a counterpart to Sun Breathing. It was developed by Kokushibo, formerly known as Michikatsu Tsugikuni, after he transformed into a demon and joined Muzan Kibutsuji. Moon Breathing is characterized by its chaotic, crescent-shaped blade slashes that are chaotic and unpredictable, creating a wide range of varying-length attacks that constantly evolve in speed and intensity. Because Kokushibo is a demon, he combines this breathing style with his Blood Demon Art to manifest tangible, razor-sharp crescent blades that extend from his sword swings, making his combat range nearly insurmountable for average Demon Slayers.

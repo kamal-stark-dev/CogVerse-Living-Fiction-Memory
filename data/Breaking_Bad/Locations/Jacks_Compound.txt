@@ -1,0 +1,23 @@
+document_type: location
+primary_entity: Jack Welker's Compound
+related_entities:
+  - Jack Welker
+  - Todd Alquist
+  - Jesse Pinkman
+  - Walter White
+  - Andrea Cantillo
+  - Lydia Rodarte-Quayle
+  - Blue Sky
+  - Todd Alquist
+timeline_range: 2010
+canonical_source: breakingbad.fandom.com
+
+Jack Welker's compound was a remote, fortified property in the New Mexico wilderness operated by Jack Welker's white supremacist gang. It served as the gang's headquarters, living quarters, meth production facility, and Jesse Pinkman's prison for approximately three months in 2010. The compound was ringed with guard posts, surveillance cameras, and armed men — sufficient security to prevent escape and deter any conventional law enforcement approach.
+
+The compound's meth lab was where Jesse was forced to cook Blue Sky under conditions of imprisonment. He was kept in an underground concrete cellar, shackled with ankle and wrist restraints attached to a rail system that allowed him to move within the lab while remaining captive. A photograph of Andrea Cantillo and Brock was kept in the lab to remind Jesse of the consequences of non-compliance. Todd Alquist oversaw the cooking with polite attentiveness and occasional gifts of ice cream after successful batches — a juxtaposition of domestic pleasantness and captivity horror that defined Todd's character.
+
+The compound also stored the vast majority of Walt's $80 million in drug proceeds — the seven barrels taken from Tohajiilee — which provided Jack's gang with financial security and removed Walt's primary leverage against them.
+
+The compound was destroyed in the series finale when Walt drove in under the pretense of a business meeting, activated the remote-triggered M60 machine gun in his car trunk, and systematically killed the entire gang. Every member of Jack's crew died in the assault except Todd, who was killed by Jesse immediately afterward. Jack himself was shot by Walt mid-sentence when he offered to lead Walt to his money. Walt shot him through the head — the same way Jack had shot Hank.
+
+The compound's meth lab was where Walt died: on the floor, surrounded by equipment, his hand resting on a steel tank, his face at peace. The police found him there. He had always said he felt most alive in a chemistry lab. He died in one.

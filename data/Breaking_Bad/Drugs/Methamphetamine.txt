@@ -1,0 +1,28 @@
+document_type: object
+primary_entity: Methamphetamine in the Breaking Bad Universe
+related_entities:
+  - Walter White
+  - Jesse Pinkman
+  - Tuco Salamanca
+  - Gustavo Fring
+  - Gale Boetticher
+  - Todd Alquist
+  - Jane Margolis
+  - Andrea Cantillo
+  - Hank Schrader
+  - DEA Albuquerque Field Office
+  - Blue Sky
+  - Methylamine
+  - Pseudoephedrine
+timeline_range: 2008–2010
+canonical_source: breakingbad.fandom.com
+
+Methamphetamine is the central substance around which the entire Breaking Bad universe is organized. It is the product Walt cooks, the commodity Jesse distributes, the evidence Hank investigates, and the addiction that destroys multiple characters across the series. Unlike many depictions of the drug trade, Breaking Bad engages with methamphetamine at the level of chemistry, economics, law enforcement, addiction, and human consequence simultaneously, making it far more than a MacGuffin.
+
+The show depicts two distinct manufacturing methods. Jesse's original method used pseudoephedrine reduction — the standard "red phosphorus/iodine" method that required collection and processing of enormous quantities of cold medications, a heavily DEA-monitored precursor. Walt immediately rejected this approach and introduced the P2P (phenylacetone) reductive amination method, which used methylamine as the primary precursor and completely bypassed DEA restrictions on pseudoephedrine. Walt's switch was what enabled Blue Sky's purity levels and industrial-scale production, and what transformed a small-time street operation into something capable of generating $80 million in two years.
+
+Methamphetamine production in the Breaking Bad universe required substantial infrastructure at scale: a secure, ventilated cook space, precise temperature control, chemical filtration, and reliable precursor supply chains. At the small-scale RV stage, Walt and Jesse could produce a few pounds per cook. At the superlab stage under Gus, production reached over 200 pounds per week. The mobile Vamonos Pest operation represented a middle ground — less volume than the superlab but greater operational flexibility and concealment.
+
+The human cost of meth in the universe is depicted primarily through Jesse's relationships. Jesse himself was a meth user at the series' beginning, eventually cleaning up. Jane Margolis relapsed into heroin in connection with Jesse's drug use. Andrea Cantillo was a recovering addict Jesse met in Narcotics Anonymous. Wendy, a recurring character, was a deeply addicted street worker. The drug the show depicts Walt cooking is never shown as glamorous or desirable; it is consistently represented as the substance that destroyed the lives of everyone who consumed it while enriching the people who sold it.
+
+The DEA's investigation of Blue Sky meth was driven by its purity signature. Hank Schrader recognized from the chemical consistency that a single sophisticated cook was producing the product at an industrial scale. His investigation of the precursor supply chain — methylamine purchases, lab equipment thefts, chemical warehouse incidents — gradually built the evidentiary picture that led back toward Gus Fring and, eventually, toward Walter White himself. The product left a chemical fingerprint that no amount of distribution obfuscation could completely conceal.

@@ -1,0 +1,25 @@
+document_type: universe
+primary_entity: Marvel Cinematic Universe
+related_entities:
+  - Tony Stark
+  - Steve Rogers
+  - Thor
+  - Loki
+  - Thanos
+  - Avengers
+  - S.H.I.E.L.D.
+  - Wakanda
+  - Asgard
+  - Infinity Stones
+timeline_range: Phase 1 through post-Endgame era
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+The Marvel Cinematic Universe is a shared superhero continuity centered on Marvel heroes, cosmic threats, advanced technology, secret organizations, and interconnected events that span Earth and multiple off-world realms. The MCU begins with grounded stories about Tony Stark, Steve Rogers, and other human-scale heroes, but it quickly expands into a universe of gods, aliens, artificial intelligence, sorcery, hidden nations, and multiversal consequences. The franchise is defined by escalation, interconnection, and the way individual character choices reshape the wider world.
+
+The MCU's major power systems include advanced technology such as Stark armor and the Arc Reactor, super-soldier enhancement, Asgardian power, gamma mutation, mystical sorcery, vibranium technology, and cosmic artifacts such as the Infinity Stones. These systems overlap across heroes and villains, making the universe feel like one large network rather than separate stories.
+
+Major organizations in the MCU include the Avengers, S.H.I.E.L.D., Hydra, Wakanda's royal and military institutions, the TVA, the Guardians of the Galaxy, and the various Asgardian and cosmic forces that influence events beyond Earth. The MCU also features recurring locations such as New York City, Wakanda, Asgard, the Avengers Compound, Vormir, Titan, and the hidden or destroyed realms tied to major conflicts.
+
+The MCU's central historical pattern is that one event leads directly into the next. The Battle of New York establishes the Avengers as public heroes, later political conflict produces the Sokovia Accords, and Thanos's campaign leads to the Snap, the Blip, and Endgame. Because of this structure, the MCU is best understood as a timeline of consequences rather than a set of isolated films.
+
+The current state of the MCU is one of recovery, legacy, and expansion after the Infinity Saga. New heroes inherit the work of older ones, old institutions are questioned or rebuilt, and the universe continues to widen into street-level stories, cosmic threats, magical conflicts, and multiversal instability. The MCU remains a connected world where personal identity, sacrifice, and collaboration determine the fate of entire civilizations.

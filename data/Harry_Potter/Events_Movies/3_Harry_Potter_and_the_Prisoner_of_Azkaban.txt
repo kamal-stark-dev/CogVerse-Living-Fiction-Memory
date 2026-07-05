@@ -1,0 +1,119 @@
+document_type: event
+primary_entity: Harry Potter and the Prisoner of Azkaban (Film)
+related_entities:
+    - Harry Potter
+    - Sirius Black
+    - Remus Lupin
+    - Hermione Granger
+    - Ron Weasley
+    - Peter Pettigrew
+    - Albus Dumbledore
+    - Cornelius Fudge
+    - Rubeus Hagrid
+    - Draco Malfoy
+    - Buckbeak
+    - Severus Snape
+    - Sybill Trelawney
+    - Arthur Weasley
+    - Vernon Dursley
+    - Petunia Dursley
+    - Marge Dursley
+    - Crookshanks
+    - Scabbers
+    - Dementors
+    - Ministry of Magic
+    - Hogwarts School of Witchcraft and Wizardry
+    - Hogwarts Express
+    - Hogsmeade
+    - Leaky Cauldron
+    - Knight Bus
+    - Azkaban
+    - Whomping Willow
+    - Shrieking Shack
+    - Marauder's Map
+    - Time-Turner
+    - Firebolt
+    - Lord Voldemort
+    - James Potter
+    - Lily Potter
+    - Neville Longbottom
+    - Fred Weasley
+    - George Weasley
+    - Lucius Malfoy
+    - Gryffindor Tower
+    - Great Hall
+    - Hospital Wing.
+timeline_range: 1993–1994 school year.
+canonical_source: Harry Potter and the Prisoner of Azkaban (film), based on the third Harry Potter novel by J. K. Rowling.
+
+The central event chronicles Harry Potter's third year at Hogwarts School of Witchcraft and Wizardry during the 1993–1994 academic year. The conflict begins shortly after the conclusion of Harry Potter's second year and revolves around the apparent escape of Sirius Black from Azkaban Prison, the Ministry of Magic's belief that Sirius Black intends to murder Harry Potter, the hidden survival of Peter Pettigrew, and the revelation of the truth surrounding the betrayal that led to the deaths of James Potter and Lily Potter. The event fundamentally changes Harry Potter's understanding of his parents' past, introduces time travel into the wizarding world, restores the truth about Sirius Black's innocence for a small group of witnesses, and marks Lord Voldemort's path toward regaining power.
+
+At the beginning of the event, Harry Potter spends another unhappy summer at the home of Vernon Dursley, Petunia Dursley, and Dudley Dursley. Harry Potter secretly studies magic during the night while his friends Ron Weasley and Hermione Granger spend their holidays abroad in Egypt and France. Harry Potter hopes to visit Hogsmeade during the coming school year but requires Vernon Dursley's signature on a permission form. Vernon Dursley agrees only if Harry Potter behaves during a visit from Vernon's sister, Marge Dursley.
+
+During dinner, Marge Dursley repeatedly insults James Potter and Lily Potter by falsely describing James Potter as a drunk and Lily Potter with offensive language. Harry Potter loses control of his emotions. His accidental magic causes Marge Dursley to inflate and float away. Vernon Dursley demands that Harry Potter reverse the magic. Harry Potter refuses because he believes Marge Dursley deserved the punishment. Vernon Dursley attempts to confront Harry Potter, but Harry Potter points his wand at him before leaving the house. Harry Potter expects to be expelled from Hogwarts because he has performed underage magic outside school.
+
+After leaving Privet Drive, Harry Potter briefly sees a mysterious large black dog. The Knight Bus arrives and transports Harry Potter to the Leaky Cauldron in London. At the Leaky Cauldron, Minister for Magic Cornelius Fudge informs Harry Potter that he will not be expelled despite the accidental use of magic. Cornelius Fudge also reveals that Sirius Black has escaped from Azkaban. The Ministry of Magic publicly believes Sirius Black served Lord Voldemort and considers Sirius Black an extremely dangerous criminal.
+
+Harry Potter reunites with Ron Weasley and Hermione Granger at the Leaky Cauldron. Hermione Granger introduces her new pet cat, Crookshanks, while Ron Weasley continues caring for his pet rat, Scabbers. Arthur Weasley privately warns Harry Potter that Sirius Black may attempt to find him and urges Harry Potter not to seek revenge or confrontation. Harry Potter does not understand why Sirius Black would pursue him personally.
+
+Harry Potter, Ron Weasley, and Hermione Granger travel to Hogwarts aboard the Hogwarts Express. Inside their compartment they meet the newly appointed Defence Against the Dark Arts professor, Remus Lupin. During the journey, Dementors sent by the Ministry of Magic board the train to search for Sirius Black. Harry Potter reacts far more severely than the other students because the Dementors force him to relive the traumatic memories connected to the deaths of James Potter and Lily Potter. Harry Potter faints. Remus Lupin awakens and protects the compartment by casting the Patronus Charm, driving away the Dementor. This encounter establishes Harry Potter's particular vulnerability to Dementors and introduces Remus Lupin as both a capable wizard and Harry Potter's future mentor.
+
+Upon arriving at Hogwarts, Headmaster Albus Dumbledore announces that Dementors will guard Hogwarts throughout the year to prevent Sirius Black from entering the castle. This decision demonstrates the Ministry of Magic's willingness to sacrifice student comfort for security. The presence of Dementors creates a constant atmosphere of fear throughout the school year.
+
+Several important developments occur during the opening weeks of the school year. Sybill Trelawney begins teaching Divination and predicts that Harry Potter carries the Grim, an omen traditionally associated with death. Rubeus Hagrid becomes the new Care of Magical Creatures professor. Hermione Granger mysteriously appears at classes despite impossible scheduling conflicts. Remus Lupin proves to be an exceptionally effective Defence Against the Dark Arts teacher by teaching practical defensive magic and encouraging students such as Neville Longbottom.
+
+During Hagrid's first Care of Magical Creatures lesson, students meet the Hippogriff Buckbeak. Draco Malfoy deliberately ignores Hagrid's safety instructions and intentionally insults Buckbeak after approaching the creature. Buckbeak responds by attacking Draco Malfoy. Lucius Malfoy later uses his political influence to pressure the Ministry of Magic into sentencing Buckbeak to death. This event demonstrates how influential pure-blood families manipulate legal institutions for personal advantage while establishing Buckbeak as another innocent victim whose fate becomes intertwined with Sirius Black's.
+
+Harry Potter cannot legally visit Hogsmeade because Vernon Dursley never signed the required permission form. Harry Potter instead spends time speaking with Remus Lupin. Remus Lupin reveals that he knew James Potter and Lily Potter personally and describes them as remarkable people. These conversations begin forming a mentor-student relationship between Remus Lupin and Harry Potter while gradually connecting Harry Potter to his parents' generation.
+
+The apparent danger posed by Sirius Black escalates dramatically when the Fat Lady's portrait guarding Gryffindor Tower is violently attacked. The terrified Fat Lady reports that Sirius Black attempted to enter Gryffindor Tower. Albus Dumbledore orders students to sleep in the Great Hall for their safety. Severus Snape argues that Remus Lupin's appointment as Defence Against the Dark Arts professor may have endangered Hogwarts. Although Albus Dumbledore rejects this criticism, the discussion reveals longstanding tension surrounding Remus Lupin's past.
+
+During one Defence Against the Dark Arts lesson, Severus Snape temporarily replaces Remus Lupin and teaches students about werewolves and Animagi. Snape's lesson unintentionally provides information that later becomes essential for understanding the true identities and relationships among Remus Lupin, Sirius Black, and Peter Pettigrew. The lesson establishes that an Animagus is a wizard capable of transforming into one specific animal at will.
+
+During a Quidditch match, Dementors approach the playing field. Harry Potter again relives traumatic memories and falls from his broomstick. Albus Dumbledore magically slows Harry Potter's fall, preventing fatal injuries. Harry Potter's Nimbus broomstick crashes into the Whomping Willow and is destroyed. The loss of the broom becomes another consequence of the Dementors' presence and motivates Harry Potter to learn defensive magic.
+
+Remus Lupin agrees to teach Harry Potter how to cast the Patronus Charm after the Christmas holidays. Harry Potter eventually learns that a Patronus is powered by genuinely happy memories and serves as the only effective magical defense against Dementors. Harry Potter gradually succeeds in producing a Patronus after repeated training. These lessons significantly strengthen Harry Potter's magical abilities while deepening the bond between student and teacher.
+
+Fred Weasley and George Weasley secretly give Harry Potter the Marauder's Map so that Harry Potter can reach Hogsmeade through hidden passages beneath Hogwarts. The Marauder's Map becomes one of the most significant magical artifacts involved in the event because it reveals every individual's location inside Hogwarts regardless of disguise or invisibility.
+
+While secretly visiting Hogsmeade, Harry Potter overhears that Sirius Black was once James Potter's closest friend and Harry Potter's godfather. Harry Potter also hears the accepted version of history claiming that Sirius Black betrayed James Potter and Lily Potter to Lord Voldemort before murdering Peter Pettigrew. These revelations convince Harry Potter that Sirius Black personally caused his parents' deaths. Harry Potter consequently becomes determined to kill Sirius Black if given the opportunity. This emotional transformation becomes one of the central motivations driving the second half of the event.
+
+One night, Harry Potter observes Peter Pettigrew's name moving across the Marauder's Map despite Peter Pettigrew supposedly having died years earlier. Harry Potter cannot locate the individual physically. Severus Snape confiscates the map, but Remus Lupin intervenes and recovers it. Harry Potter tells Remus Lupin that he saw Peter Pettigrew's name. Although Remus Lupin initially dismisses the claim, he quietly studies the map after Harry Potter leaves, indicating that the information profoundly affects him.
+
+During another Divination lesson, Sybill Trelawney unexpectedly enters a genuine prophetic trance. She predicts that Lord Voldemort's servant will return to his master before midnight. This prophecy foreshadows Peter Pettigrew's escape and eventual reunion with Lord Voldemort. Unlike many of Sybill Trelawney's ordinary predictions, this prophecy proves completely accurate and becomes one of the most important prophetic moments of the event.
+
+Harry Potter, Ron Weasley, and Hermione Granger visit Rubeus Hagrid shortly before Buckbeak's scheduled execution to comfort him. During the visit, Scabbers suddenly reappears after previously disappearing. While chasing Scabbers, Ron Weasley is attacked by the mysterious black dog and dragged beneath the Whomping Willow. Harry Potter and Hermione Granger pursue Ron Weasley through a hidden tunnel leading to the Shrieking Shack.
+
+Inside the Shrieking Shack, the black dog transforms into Sirius Black, revealing that Sirius Black is an unregistered Animagus capable of becoming a large black dog. Shortly afterward, Remus Lupin arrives and embraces Sirius Black as a trusted friend instead of treating him as an enemy. Hermione Granger confronts Remus Lupin, who admits that he is a werewolf. These revelations completely overturn the assumptions established at the beginning of the event.
+
+Severus Snape arrives intending to arrest Sirius Black and Remus Lupin before surrendering them to the Dementors. Harry Potter disarms Severus Snape using the Expelliarmus spell, rendering Severus Snape unconscious. Harry Potter's action allows Sirius Black and Remus Lupin to explain the truth.
+
+Sirius Black and Remus Lupin reveal that Scabbers is actually Peter Pettigrew living in his Animagus form as a rat. Peter Pettigrew never died during the original confrontation years earlier. Instead, Peter Pettigrew framed Sirius Black for betraying James Potter and Lily Potter before hiding as Ron Weasley's pet for many years. Peter Pettigrew is exposed as the true servant of Lord Voldemort and the actual traitor responsible for revealing James Potter and Lily Potter's location. This revelation fundamentally changes Harry Potter's understanding of his parents' deaths and completely reverses Sirius Black's moral position from villain to innocent victim.
+
+Sirius Black and Remus Lupin intend to execute Peter Pettigrew for his crimes. Harry Potter intervenes and argues that James Potter would never have wanted revenge through murder. Harry Potter insists that Peter Pettigrew should instead face justice. This decision demonstrates Harry Potter's moral growth by rejecting vengeance despite believing Peter Pettigrew caused his parents' deaths.
+
+While escorting Peter Pettigrew back toward Hogwarts, the full moon rises unexpectedly. Because Remus Lupin neglected to take his Wolfsbane Potion, he transforms into a werewolf. The transformation causes chaos. Peter Pettigrew escapes by returning to his rat form. Sirius Black transforms into his dog form to protect Harry Potter and Hermione Granger from the werewolf. Remus Lupin eventually abandons the confrontation after being distracted by the distant howl produced by Hermione Granger during the later time-travel sequence. Peter Pettigrew's escape prevents the group from proving Sirius Black's innocence to the wizarding world.
+
+After the confrontation, Dementors locate Sirius Black and Harry Potter near the lake. The Dementors prepare to administer the Dementor's Kiss, which removes a victim's soul. Harry Potter believes he sees his deceased father cast a magnificent stag Patronus across the lake. The Patronus drives away the Dementors and saves both Harry Potter and Sirius Black before Harry Potter loses consciousness.
+
+Harry Potter awakens in the Hospital Wing. Hermione Granger explains that Sirius Black will receive the Dementor's Kiss despite his innocence. Albus Dumbledore accepts Harry Potter's account but acknowledges that there is no evidence capable of convincing the Ministry of Magic. Albus Dumbledore hints that Hermione Granger possesses a means of saving two innocent lives and instructs her that three turns will suffice. Hermione Granger reveals that she possesses a Ministry-authorized Time-Turner that enabled her to attend multiple classes simultaneously throughout the school year. This revelation explains the previously mysterious scheduling paradoxes surrounding Hermione Granger.
+
+Harry Potter and Hermione Granger travel approximately three hours into the past. They carefully avoid interacting with their earlier selves while observing the same events from a different perspective. Their mission demonstrates that time travel within the wizarding world follows a self-consistent timeline in which past events already include the effects of future actions.
+
+Harry Potter and Hermione Granger rescue Buckbeak immediately before the Ministry executes him. Saving Buckbeak preserves an innocent magical creature and provides the means necessary for Sirius Black's later escape.
+
+While returning toward the lake, Harry Potter and Hermione Granger are pursued by the transformed Remus Lupin. Buckbeak intervenes and prevents Remus Lupin from attacking them. This intervention allows Harry Potter and Hermione Granger to continue their mission without altering established history.
+
+Harry Potter and Hermione Granger witness the earlier versions of Harry Potter and Sirius Black facing the Dementors beside the lake. Harry Potter realizes that the powerful stag Patronus he previously believed had been cast by James Potter was actually cast by his future self. Harry Potter successfully produces the extraordinarily powerful corporeal stag Patronus that saves both Sirius Black and his earlier self. This moment represents the culmination of Harry Potter's Patronus training and confirms Harry Potter's growing confidence in his own abilities rather than relying on the memory of his father.
+
+Using Buckbeak, Harry Potter and Hermione Granger fly to the tower where Sirius Black is imprisoned. They rescue Sirius Black before the Dementors arrive. Sirius Black escapes Hogwarts on Buckbeak rather than suffering the Dementor's Kiss. Although Sirius Black remains legally classified as a fugitive because Peter Pettigrew escaped before providing testimony, Sirius Black survives and regains his freedom.
+
+Before leaving, Harry Potter and Sirius Black acknowledge that they cannot yet live together because Sirius Black remains wanted by the Ministry of Magic. Harry Potter loses the immediate possibility of joining the only remaining member of his parents' closest circle, but gains the certainty that Sirius Black is alive, innocent in Harry Potter's eyes, and free.
+
+Harry Potter and Hermione Granger successfully return to the Hospital Wing before the time loop closes. Their arrival completes the sequence of events without creating contradictions. Albus Dumbledore deliberately pretends ignorance while subtly confirming that he understands they succeeded.
+
+The conclusion of the school year produces several lasting consequences. Remus Lupin resigns from Hogwarts after his identity as a werewolf becomes known because he believes parents will not accept a werewolf teaching their children. Hogwarts loses one of its most effective Defence Against the Dark Arts professors. Sirius Black remains an outlaw despite his innocence because Peter Pettigrew escaped. Peter Pettigrew survives and is free to return to Lord Voldemort, directly fulfilling Sybill Trelawney's prophecy and setting into motion Lord Voldemort's eventual restoration. Buckbeak survives execution and accompanies Sirius Black into hiding. Harry Potter receives a Firebolt racing broom from Sirius Black as a gift, symbolizing the beginning of their restored family connection despite their forced separation.
+
+The event permanently reshapes the relationships among the principal characters. Harry Potter learns that Sirius Black is his loyal godfather rather than his parents' murderer. Harry Potter discovers that Remus Lupin was one of James Potter's closest friends and becomes emotionally connected to another member of his parents' generation. Harry Potter learns that Peter Pettigrew, not Sirius Black, betrayed James Potter and Lily Potter to Lord Voldemort. Hermione Granger demonstrates exceptional responsibility by using the Time-Turner to preserve history while saving innocent lives. Ron Weasley unknowingly cared for Peter Pettigrew for years because Peter Pettigrew concealed himself as Scabbers.
+
+The long-term consequences of the event extend beyond the school year. Peter Pettigrew's escape enables Lord Voldemort's servant to return to his master, making Lord Voldemort's resurrection possible. Sirius Black remains a hunted fugitive despite being morally innocent, preventing public justice. Harry Potter gains mastery of the Patronus Charm, deepens his understanding of his parents' lives, acquires a genuine father figure in Sirius Black, and learns that official history and government institutions can be fundamentally wrong. The Ministry of Magic's failure to identify the true criminal exposes weaknesses in wizarding justice, while Albus Dumbledore's willingness to trust Harry Potter and Hermione Granger demonstrates the importance of moral judgment over legal procedure. The event therefore transforms Harry Potter's personal identity, alters the political landscape of the wizarding world, preserves two innocent lives through time travel, and establishes the chain of events leading directly toward Lord Voldemort's eventual return.

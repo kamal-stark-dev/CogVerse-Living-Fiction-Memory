@@ -1,0 +1,28 @@
+document_type: character
+primary_entity: Henry "Hank" Schrader
+related_entities:
+  - Walter White
+  - Marie Schrader
+  - Steven Gomez
+  - Jesse Pinkman
+  - Gustavo Fring
+  - Tuco Salamanca
+  - The Cousins
+  - Jack Welker
+  - Gale Boetticher
+  - DEA Albuquerque Field Office
+  - Tohajiilee Desert
+timeline_range: 2008–2010
+canonical_source: breakingbad.fandom.com
+
+Henry "Hank" Schrader was the Assistant Special Agent in Charge (ASAC) of the DEA's Albuquerque Field Office, Walter White's brother-in-law, and the man who came closer than anyone else to catching Heisenberg. Hank Schrader was boisterous, crude, and aggressively masculine on the surface, but this exterior concealed a genuinely compassionate, principled, and exceptionally skilled investigator. He was the series' primary law-enforcement protagonist, and one of its most fully realized portraits of a good man — flawed, sometimes infuriating, ultimately admirable.
+
+Hank Schrader's investigative career was marked by dogged instinct and occasional recklessness. He correctly identified Gus Fring as a drug kingpin at a time when his own colleagues dismissed the theory as a reach. He correctly identified the W.W. initials in Gale Boetticher's notebook as a reference to someone other than Gale. He eventually made the connection that shattered his world: the "W.W." was his own brother-in-law, Walter White, sitting across the barbecue table from him for two years while running the most sophisticated drug operation in American history.
+
+Hank killed Tuco Salamanca in a desert shootout that left him with permanent psychological scars. The confrontation triggered debilitating PTSD and panic attacks, which Hank concealed to protect his career. During his recovery from a near-fatal ambush by the Cousins, he became obsessed with mineral collecting and the Gale Boetticher case from his hospital bed — transforming his vulnerability into investigation. The moment he found Gale's copy of Leaves of Grass inscribed "To my other favorite W.W." in Walt's bathroom was one of television's great ironic catastrophes: the truth had been there all along.
+
+Hank's discovery of Walt's identity fractured the White family irrevocably. His confrontation with Walt in the garage — "I don't even know who I'm talking to right now" — and Walt's chilling response — "If that's true, then maybe your best course would be to tread lightly" — defined the final season's cat-and-mouse between them. Hank eventually arrested Walt at the Tohajiilee burial site in what should have been his greatest professional triumph, but the victory lasted only minutes before Jack Welker's gang arrived.
+
+Hank Schrader was executed by Jack Welker with a shot to the forehead. He refused to beg for his life. Walt begged Jack to spare him, offering the entire $80 million buried at the site. Hank refused to dignify it. His final words were: "You're the smartest guy I ever met, and you're too stupid to see — he made up his mind ten minutes ago. Do what you're gonna do." He was buried in the same hole as his partner Steven Gomez.
+
+Hank Schrader was ultimately the moral anchor of the series — the man who represented the legitimate world Walt had left behind, who was genuinely trying to do right, and who died because Walt's pride put Jack's gang on a collision course with an arrest that could have been made quietly. Walt got Hank killed by calling Jack. He got him killed by being exactly what Mike said he was: a time bomb.

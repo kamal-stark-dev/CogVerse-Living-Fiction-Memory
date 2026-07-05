@@ -1,0 +1,12 @@
+source_file: data/Demon_Slayer/Events/Mugen_Train_Mission.txt
+document_type: event
+primary_entity: Mugen Train Mission
+related_entities:
+- Tanjiro Kamado
+- Kyojuro Rengoku
+- Akaza
+- Enmu
+- Demon Slayer Corps
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+## The Mugen Train Mission was a high-priority investigation into the disappearances of passengers aboard a steam locomotive. Tanjiro Kamado, Zenitsu Agatsuma, and Inosuke Hashibira were tasked with supporting the Flame Hashira, Kyojuro Rengoku. The train was under the control of the Lower Rank One demon, Enmu, who used his Blood Demon Art to induce deep sleep and manipulate the dreams of his victims. After successfully defeating Enmu and saving the passengers, the team was blindsided by the sudden arrival of the Upper Rank Three demon, Akaza. A brutal battle ensued between Akaza and Kyojuro Rengoku, resulting in the death of Kyojuro Rengoku despite his efforts to protect his comrades. The mission highlighted the staggering power gap between the Hashira and the Upper Rank demons, leaving a lasting emotional impact on the surviving slayers.

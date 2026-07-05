@@ -1,0 +1,19 @@
+document_type: character
+primary_entity: Thanos
+related_entities:
+  - Infinity Stones
+  - Infinity Gauntlet
+  - Gamora
+  - Nebula
+  - Black Order
+  - Avengers
+  - Titan
+  - Vormir
+timeline_range: Guardians of the Galaxy through Endgame
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+Thanos is the Mad Titan, a genocidal warlord from Titan who believes the universe can only be saved through radical population reduction. Thanos is defined by obsession, conviction, and the pursuit of the Infinity Stones. He sees himself as a necessary force of balance, even though his methods are catastrophic and morally monstrous.
+
+Thanos is closely connected to Gamora, Nebula, the Black Order, and the Avengers. His relationship with Gamora is especially important because Thanos raises her within violence and manipulation, treating her both as a daughter and as a tool. Thanos destroys worlds, manipulates followers, and moves directly toward universal conquest through the Infinity Gauntlet.
+
+Thanos acquires the Infinity Stones across the MCU and uses them to defeat the Avengers, destroy half of life in the universe, and later challenge the heroes again after time travel restores the original timeline. Thanos is not a mindless brute; he is patient, strategic, and willing to sacrifice almost anything for his plan. His final defeat in Endgame ends his campaign and proves that his version of balance is ultimately overcome by cooperation and sacrifice.

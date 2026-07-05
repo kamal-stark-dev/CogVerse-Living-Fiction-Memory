@@ -1,0 +1,28 @@
+document_type: event
+primary_entity: Walter White's Cancer Diagnosis and Entry into the Drug Trade
+related_entities:
+  - Walter White
+  - Jesse Pinkman
+  - Skyler White
+  - Walter White Jr.
+  - Hank Schrader
+  - Tuco Salamanca
+  - Blue Sky
+  - The RV Cook Site
+  - Albuquerque
+  - Gray Matter Technologies
+  - Heisenberg
+timeline_range: September 7–12, 2008
+canonical_source: breakingbad.fandom.com
+
+Walter White's cancer diagnosis and his decision to enter the methamphetamine trade constitute the inciting event of the entire Breaking Bad universe. On September 8, 2008 — the day after his 50th birthday — Walt collapsed while working his second job at the A1A Car Wash and was rushed to the hospital. He was diagnosed by Dr. Belknap with Stage 3A inoperable lung cancer and given less than two years to live. Walt's reaction to the diagnosis was notable: he showed almost no emotion. He appeared numb, as though he had been waiting for the other shoe to drop in a life that had already disappointed him in most of the ways that mattered.
+
+The diagnosis arrived at a precise moment of maximum humiliation. Walt had co-founded Gray Matter Technologies with his friend Elliott Schwartz and had contributed research that would help win a Nobel Prize, but had sold his share for $5,000 after leaving the company due to wounded pride. Gray Matter was now a multi-billion dollar enterprise. Walt was a high school chemistry teacher earning $43,700 a year, washing the cars of his own students at a part-time job, with a disabled son, a pregnant wife, and no savings sufficient to cover his own treatment. His cancer was less a catastrophe than the final insult from a world that had been systematically ignoring his worth for decades.
+
+Walt's entry into the drug trade began with a DEA ride-along with his brother-in-law Hank Schrader, during which Walt spotted his former student Jesse Pinkman fleeing a meth lab bust. Walt recognized the opportunity. He tracked Jesse down and presented him with a simple ultimatum: partner with me to cook methamphetamine, or I turn you in to the DEA. Jesse, with no leverage and no good alternative, agreed.
+
+The first cook took place in a rolling RV in the New Mexico desert, one of the most isolated and anonymous environments available. Walt brought his chemistry knowledge — specifically his decision to use reductive amination of phenylacetone using methylamine rather than the standard pseudoephedrine reduction method — and produced Blue Sky on the first attempt: a 99.1% pure methamphetamine of a quality that had never been seen in Albuquerque. Jesse brought his street knowledge and distribution connections. The partnership began with precisely the power dynamic it would maintain throughout: Walt as the indispensable genius, Jesse as the expendable assistant.
+
+The first cook also produced the first two murders: Walt gassed Emilio Koyama with phosphine to escape an ambush, then kept the surviving Domingo "Krazy-8" Molina captive in Jesse's basement while agonizing over whether to kill him. He eventually strangled Krazy-8 with a bike lock after realizing Krazy-8 had concealed a broken plate shard and intended to kill him the moment he was released. Walt's first murder — performed in Jesse's basement, carefully reasoned, ultimately chosen — was the moment from which there was no return.
+
+The initial justification — that Walt was cooking meth to secure his family's financial future before he died — was undercut as early as Season 2, when Walt's cancer went into remission and he continued cooking anyway. When his cancer returned in Season 5, it was almost irrelevant to his decision-making. The cancer had never been the reason. It had been the permission.

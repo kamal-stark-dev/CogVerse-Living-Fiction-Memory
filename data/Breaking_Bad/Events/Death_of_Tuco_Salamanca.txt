@@ -1,0 +1,26 @@
+document_type: event
+primary_entity: The Death of Tuco Salamanca
+related_entities:
+  - Tuco Salamanca
+  - Walter White
+  - Jesse Pinkman
+  - Hank Schrader
+  - Hector Salamanca
+  - The Cousins
+  - Ricin
+  - Gonzo
+  - No-Doze
+timeline_range: November 8, 2008
+canonical_source: breakingbad.fandom.com
+
+The death of Tuco Salamanca was a pivotal turning point in Breaking Bad, ending the first phase of Walt and Jesse's criminal career and igniting the chain of cartel revenge that would threaten the White family through Seasons 2 and 3. Tuco died in a desert shootout with DEA agent Hank Schrader on November 8, 2008, in the New Mexico desert outside Albuquerque.
+
+The sequence of events began when Tuco kidnapped Walt and Jesse at gunpoint and took them to the isolated desert shack where he cared for his wheelchair-bound uncle Hector Salamanca. Tuco's plan was to take Walt and Jesse to Mexico to cook for the Salamanca cartel's superlab indefinitely. Walt and Jesse, knowing this would be a death sentence after the cartel no longer needed them, attempted to poison Tuco using ricin concealed in one of their meth samples. The plan failed because Hector Salamanca, despite appearing completely incapacitated, was mentally alert and used his bell to alert Tuco to their scheming.
+
+A physical struggle followed in the desert. Jesse shot Tuco through the gut with Tuco's own gun. Moments later, DEA agent Hank Schrader arrived at the location — tracking the LoJack signal from Jesse's car, which Hank had been monitoring while searching for the missing Walter White. Hank mistook the staggering, armed Tuco for Jesse. A brief firefight erupted, and Hank shot Tuco through the forehead.
+
+Walt and Jesse fled into the desert on foot while Hank processed the scene. Tuco Salamanca was dead at approximately 38 years old, and his gold grill was taken as a trophy by the DEA, eventually given to Hank. Hank later threw the grill into a river, haunted by the psychological aftermath of the killing — his first field fatality as a DEA agent — which triggered debilitating PTSD.
+
+The consequences of Tuco's death extended far beyond the immediate event. His cousins Marco and Leonel Salamanca, known as the Cousins, were dispatched from Mexico to avenge his murder. They initially targeted Walter White, but Gus Fring redirected them toward Hank Schrader instead, engineering a confrontation that served his own strategic interests by bloodying both sides and putting pressure on the cartel. The Cousins attacked Hank in a parking lot, nearly killing him. Hank survived only because someone — later revealed to be Gus — had called to warn him one minute before the ambush. Marco died in the parking lot; Leonel was captured and later killed by Mike Ehrmantraut in the hospital.
+
+The death of Tuco Salamanca also removed a critical buffer between Walt and Jesse's small operation and the larger cartel world, eventually forcing them into Gustavo Fring's orbit.

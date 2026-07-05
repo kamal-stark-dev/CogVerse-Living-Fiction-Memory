@@ -1,0 +1,12 @@
+source_file: data/Demon_Slayer/Events/Entertainment_District_Arc.txt
+document_type: event
+primary_entity: Entertainment District Arc
+related_entities:
+- Tanjiro Kamado
+- Tengen Uzui
+- Daki
+- Gyutaro
+- Demon Slayer Corps
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+## The Entertainment District events centered on an investigation into demon activity within the Yoshiwara district of Tokyo. The Sound Hashira, Tengen Uzui, recruited Tanjiro Kamado, Zenitsu Agatsuma, and Inosuke Hashibira to help infiltrate the district and locate his missing wives. They discovered that the Upper Rank Six demon siblings, Daki and Gyutaro, were hiding in plain sight and manipulating the district from the shadows. The confrontation escalated into a fierce, multi-stage battle that leveled large portions of the district. Through extreme teamwork and the activation of the Demon Slayer Mark, the protagonists succeeded in defeating both demons simultaneously. This victory was significant as it was the first time in nearly a century that a Hashira and his team had managed to kill an Upper Rank demon.
