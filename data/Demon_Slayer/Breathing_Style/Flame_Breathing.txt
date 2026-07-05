@@ -1,0 +1,8 @@
+source_file: data/Demon_Slayer/Breathing_Techniques/Flame_Breathing.txt
+document_type: other
+primary_entity: Flame Breathing
+related_entities:
+- Kyojuro Rengoku
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+## Flame Breathing is one of the five primary breathing styles directly derived from Sun Breathing. It focuses on powerful, high-impact offensive strikes that mimic the intensity and destructiveness of fire. Practitioners utilize deep, rhythmic breathing to maximize their muscular output, delivering devastating blows meant to incinerate or decapitate demons in single strikes. Kyojuro Rengoku, the Flame Hashira, is the most notable practitioner, utilizing the style to engage formidable opponents like the Upper Rank Three demon, Akaza. The technique is deeply tied to the heritage of the Rengoku family.

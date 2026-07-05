@@ -1,0 +1,15 @@
+source_file: data/Demon_Slayer/Characters/Tanjiro_Kamado.txt
+document_type: character
+primary_entity: Tanjiro Kamado
+related_entities:
+- Nezuko Kamado
+- Giyu Tomioka
+- Demon Slayer Corps
+- Sun Breathing
+- Water Breathing
+- Muzan Kibutsuji
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+Tanjiro Kamado is the protagonist of the story and a member of the Demon Slayer Corps. After his family is slaughtered by Muzan Kibutsuji and his sister, Nezuko Kamado, is transformed into a demon, Tanjiro Kamado becomes a demon slayer to find a cure for her. He is characterized by his intense determination, empathy, and strong sense of smell, which allows him to track enemies and detect human emotions.
+
+## Tanjiro Kamado originally trains under Sakonji Urokodaki, where he masters Water Breathing. Throughout his journey, he realizes that his family history is linked to the original and most powerful breathing technique, Sun Breathing, which he refers to as Hinokami Kagura. Tanjiro Kamado’s growth is marked by his ability to bridge the gap between human and demon, as he protects his sister despite her condition. He maintains a close relationship with Giyu Tomioka, the Water Hashira, who was the first to recognize Tanjiro Kamado's potential and spared his life during their first encounter. Tanjiro Kamado carries a black Nichirin blade, a color rarely seen and considered a sign of misfortune, but it is ultimately the tool he uses to confront the Twelve Kizuki.

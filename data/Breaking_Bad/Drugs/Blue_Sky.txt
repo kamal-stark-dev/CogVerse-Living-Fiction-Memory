@@ -1,0 +1,37 @@
+document_type: object
+primary_entity: Blue Sky (Blue Meth)
+related_entities:
+  - Walter White
+  - Jesse Pinkman
+  - Gustavo Fring
+  - Gale Boetticher
+  - Todd Alquist
+  - Lydia Rodarte-Quayle
+  - Mike Ehrmantraut
+  - Hank Schrader
+  - Methylamine
+  - The Superlab
+  - Los Pollos Hermanos
+  - Madrigal Electromotive GmbH
+timeline_range: 2008–2010
+canonical_source: breakingbad.fandom.com
+
+Blue Sky is the street name for the crystal methamphetamine produced by Walter White and Jesse Pinkman, distinguished by its characteristic light blue color and unprecedented chemical purity. It became the most potent and famous methamphetamine in American history, distributed across the United States and as far as the Czech Republic. Blue Sky was the physical embodiment of Walt's genius and the foundation of his criminal empire — the product that made him Heisenberg.
+
+The chemistry behind Blue Sky represented Walt's key innovation. Rather than using the standard pseudoephedrine reduction method — which required large quantities of cold medication, a heavily monitored DEA precursor — Walt used reductive amination of phenylacetone (P2P) with methylamine. He synthesized his P2P from phenylacetic acid and acetic anhydride using a tube furnace with a thorium oxide catalyst, and performed the reduction using aluminum amalgam. This process bypassed DEA precursor restrictions entirely and produced meth of extraordinary purity.
+
+The blue color was a byproduct of Walt's specific synthesis process that did not affect the purity — an impurity signature unique to his method that not even Gale Boetticher could replicate or identify. Even after years of analysis, no other chemist could reproduce the exact blue color, which became a brand identifier in the market.
+
+Purity levels varied significantly by cook:
+- Walter White: 99.1% (peak), consistently above 96%
+- Jesse Pinkman: 96.2% (solo cook for the Cartel), approaching Walt's standard
+- Gale Boetticher: 96% (top academic chemist, trained under Walt)
+- Jesse Pinkman (enslaved, under duress): 92%
+- Todd Alquist: 76% (no blue color), the product of limited natural aptitude despite meticulous effort
+- Declan's cook: 68%
+
+Blue Sky's distribution history passed through several phases. In the early days, it was sold through Jesse's street network via Combo, Badger, and Skinny Pete. Under Gus Fring's empire, it was produced in the industrial superlab at over 200 pounds per week and shipped throughout the Southwest via Los Pollos Hermanos trucks, hidden in fry batter containers watermarked with an ultraviolet star for identification. After Walt's independent operation, it was produced in mobile meth labs inside Vamonos Pest fumigation tents, with a smaller batch volume but a larger cut for each partner. In the final phase under Jack Welker and Todd, it was produced at reduced quality and distributed to the Czech Republic through Lydia's Madrigal logistics network.
+
+Blue Sky's cultural impact within the show was enormous. It was the DEA's primary evidence that a single genius-level cook was operating somewhere in the American Southwest. Hank identified from the chemical consistency that whoever was making it had to be a trained chemist — far beyond the capacity of a street-level operation. The product gave Walt his reputation, his leverage, and ultimately his exposure. Without Blue Sky's distinctive quality, there would have been no Heisenberg legend to chase.
+
+After Walt's death and Jesse's flight to Alaska, Blue Sky ceased to exist. Jesse was the last person alive who knew the formula and had any ability to reproduce it. He wanted nothing more to do with it.

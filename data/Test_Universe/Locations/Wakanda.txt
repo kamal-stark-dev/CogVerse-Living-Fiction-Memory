@@ -1,0 +1,16 @@
+document_type: location
+primary_entity: Wakanda
+related_entities:
+  - T'Challa
+  - Shuri
+  - Okoye
+  - Black Panther
+  - Vibranium
+  - Avengers
+  - Erik Killmonger
+timeline_range: Ancient history through Wakanda Forever era
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+Wakanda is a technologically advanced African nation that remains hidden from the wider world for much of the MCU. Wakanda is powered by vibranium and protected by the Black Panther legacy, the Dora Milaje, and a sophisticated royal government. The nation combines tradition, scientific innovation, and strong national identity.
+
+Wakanda becomes increasingly important after T'Challa opens the country to the world. The nation serves as a home, a battlefield, a political power, and a symbol of what advanced society can look like without colonial control. Wakanda matters because it represents independence, responsibility, and the tension between secrecy and global engagement.

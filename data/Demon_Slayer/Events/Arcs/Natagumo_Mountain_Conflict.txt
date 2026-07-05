@@ -1,0 +1,11 @@
+source_file: data/Demon_Slayer/Events/Natagumo_Mountain_Conflict.txt
+document_type: event
+primary_entity: Natagumo Mountain Conflict
+related_entities:
+- Tanjiro Kamado
+- Rui
+- Giyu Tomioka
+- Demon Slayer Corps
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+## The Natagumo Mountain Conflict was a major operation involving Tanjiro Kamado, Zenitsu Agatsuma, and Inosuke Hashibira against a family of demons led by the Lower Rank Five, Rui. The mission was initially intended for lower-ranking slayers, but the situation quickly escalated due to the unexpected power of the Spider Demon family. Tanjiro Kamado and his companions were forced to battle multiple demon siblings who utilized spider-themed Blood Demon Arts to trap and control slayers using silk threads. The conflict peaked when Tanjiro Kamado faced Rui, forcing him to tap into the Hinokami Kagura to survive. The battle concluded with the intervention of the Hashira, specifically Giyu Tomioka and Shinobu Kocho, who arrived to neutralize the remaining threats. This event was a critical turning point that introduced the protagonists to the lethality of the Twelve Kizuki.

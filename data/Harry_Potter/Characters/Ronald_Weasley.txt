@@ -1,0 +1,147 @@
+document_type: character
+primary_entity: Ronald Bilius Weasley
+related_entities:
+    - Arthur Weasley
+	- Molly Weasley
+	- Bill Weasley
+	- Charlie Weasley
+	- Percy Weasley
+	- Fred Weasley
+	- George Weasley
+	- Ginny Weasley
+	- Harry Potter
+	- Hermione Granger
+	- Lord Voldemort
+	- Albus Dumbledore
+	- Sirius Black
+	- Quirinus Quirrell
+	- Draco Malfoy
+	- Bellatrix Lestrange
+	- Fenrir Greyback
+	- Neville Longbottom
+	- Professor Minerva McGonagall
+	- Professor Severus Snape
+	- Professor Gilderoy Lockhart
+	- Remus Lupin
+	- Rubeus Hagrid
+	- Dobby
+	- Peter Pettigrew
+	- Aragog
+	- Lavender Brown
+	- Viktor Krum
+	- Luna Lovegood
+	- Rita Skeeter
+	- Barty Crouch Senior
+	- Winky
+	- Griphook
+	- Dean Thomas
+	- Padma Patil
+	- Parvati Patil
+	- James Sirius Potter
+	- Rose Granger-Weasley
+	- Hugo Granger-Weasley
+	- Pigwidgeon
+	- Scabbers
+	- Crookshanks
+	- Hogwarts School of Witchcraft and Wizardry
+	- Gryffindor House
+	- Gryffindor Quidditch Team
+	- Dumbledore's Army
+	- Order of the Phoenix
+	- British Ministry of Magic
+	- Auror Office
+	- Weasleys' Wizard Wheezes
+	- S.P.E.W.
+	- Chudley Cannons
+	- The Burrow
+	- Chamber of Secrets
+	- Philosopher's Stone
+	- Battle of the Department of Mysteries
+	- Battle of the Astronomy Tower
+	- Battle of the Seven Potters
+	- Battle of Hogwarts
+	- Horcrux Hunt
+	- Malfoy Manor
+	- Second Wizarding War
+timeline_range: 1980–2017
+canonical_source: Harry Potter series
+
+Ronald Bilius Weasley, commonly known as Ron Weasley, was born on 1 March 1980 in Ottery St Catchpole, Devon, England. Ron Weasley was an English pure-blood wizard and a member of the ancient Weasley family. Ron Weasley was the sixth son and seventh child of Arthur Weasley and Molly Weasley, née Prewett. Ron Weasley grew up at The Burrow with his parents, his older brothers Bill Weasley, Charlie Weasley, Percy Weasley, Fred Weasley, and George Weasley, and his younger sister Ginny Weasley. Growing up in a large family shaped Ron Weasley's personality, creating both a strong sense of loyalty and persistent insecurities caused by constant comparisons with his accomplished older siblings.
+
+Ron Weasley was known by several aliases throughout his life. Friends and family commonly called Ronald Weasley "Ron." Fred Weasley and George Weasley affectionately called Ron Weasley "Ickle Ronniekins." Dobby referred to Ron Weasley as "Wheezy." Draco Malfoy insultingly called Ron Weasley "Weasel." Ron Weasley appeared under several disguised identities during covert missions, including Vincent Crabbe, Harry Potter, Reg Cattermole, Stan Shunpike, Barny Weasley, and Dragomir Despard through the use of Polyjuice Potion or disguise. A damaged quill accidentally produced the humorous name "Roonil Wazlib." Lavender Brown affectionately referred to Ron Weasley as "Won-Won."
+
+Ron Weasley entered Hogwarts School of Witchcraft and Wizardry in 1991 and was Sorted into Gryffindor House. Ron Weasley immediately became close friends with Harry Potter after meeting him aboard the Hogwarts Express. Their friendship developed naturally through shared kindness, trust, and common experiences. Hermione Granger later became their closest companion after the Hallowe'en troll incident, and the three students became inseparable. Ron Weasley, Harry Potter, and Hermione Granger became collectively known as the Trio or the Golden Trio. Their friendship formed one of the central alliances opposing Lord Voldemort throughout the Second Wizarding War.
+
+Ron Weasley entered Hogwarts carrying considerable emotional pressure because each of his older brothers had established distinguished reputations. Bill Weasley had served as Head Boy, Charlie Weasley had captained the Gryffindor Quidditch team, Percy Weasley became a Prefect, and Fred Weasley and George Weasley earned reputations for exceptional magical talent despite constant mischief. Ron Weasley believed that any achievement of his own would be viewed as less significant because his brothers had accomplished similar successes first. These expectations became one of the major sources of Ron Weasley's lifelong insecurity.
+
+During his first year at Hogwarts, Ron Weasley, Harry Potter, and Hermione Granger worked together to prevent Professor Quirinus Quirrell, acting on behalf of Lord Voldemort, from stealing the Philosopher's Stone. Ron Weasley demonstrated exceptional strategic intelligence by defeating Professor Minerva McGonagall's life-sized enchanted Wizard's Chess set. Ron Weasley willingly sacrificed himself during the chess match so that Harry Potter could continue toward the Philosopher's Stone. Albus Dumbledore later awarded Ron Weasley fifty points for Gryffindor House, recognising Ron Weasley for playing the finest game of Wizard's Chess Hogwarts had seen in many years. Ron Weasley's sacrifice directly contributed to preventing Lord Voldemort from regaining power through the Philosopher's Stone.
+
+During Ron Weasley's second year, his younger sister Ginny Weasley disappeared after Tom Riddle manipulated her through a cursed diary and opened the Chamber of Secrets. Ron Weasley accompanied Harry Potter into the Chamber in an attempt to rescue Ginny Weasley. Although a cave-in separated Ron Weasley from Harry Potter, Ron Weasley attempted desperately to remove the obstruction and reunite with his friend. Harry Potter ultimately destroyed the Basilisk and rescued Ginny Weasley. The experience strengthened Ron Weasley's protective instincts toward his sister and reinforced his willingness to risk his own life for family.
+
+Ron Weasley's first wand, originally inherited from Charlie Weasley, broke during the journey to Hogwarts in his second year. Ron Weasley repaired the wand temporarily using Spellotape borrowed from Seamus Finnigan, but the damaged wand malfunctioned constantly. Spells frequently backfired, produced unintended effects, or emerged from the wrong end of the wand. The wand finally exploded when Professor Gilderoy Lockhart unsuccessfully attempted to cast a Memory Charm inside the Chamber of Secrets. Before his third year, Ron Weasley received his first personally owned wand, a fourteen-inch willow wand with a unicorn hair core, which functioned far more effectively.
+
+During his third year, Ron Weasley became closely involved in the events surrounding Sirius Black. Ron Weasley, Harry Potter, and Hermione Granger eventually learned that Sirius Black was innocent and that Peter Pettigrew had framed him. Ron Weasley helped Hermione Granger and Harry Potter rescue Sirius Black from the Dementor's Kiss. During the same year, Ron Weasley lost Scabbers, the elderly pet rat inherited from Percy Weasley. Scabbers was later revealed to be Peter Pettigrew, an unregistered Animagus who had faked his own death in 1981. This revelation transformed Ron Weasley's understanding of one of his oldest possessions and connected him directly to the betrayal of Harry Potter's parents.
+
+In June 1994, Sirius Black presented Ron Weasley with Pigwidgeon, a tiny owl that became Ron Weasley's first owl after the disappearance of Scabbers. Ginny Weasley chose the name Pigwidgeon. Although Ron Weasley publicly complained about the name and attempted unsuccessfully to change it, Ron Weasley became deeply attached to Pigwidgeon.
+
+During the Triwizard Tournament in Ron Weasley's fourth year, Ron Weasley temporarily believed that Harry Potter had secretly entered the competition without informing him. Ron Weasley's jealousy and feelings of being overshadowed by Harry Potter caused a brief breakdown in their friendship. After Harry Potter survived the First Task, Ron Weasley recognised Harry Potter's honesty, apologised, and renewed their friendship. This conflict represented one of Ron Weasley's most significant personal struggles with insecurity and marked an important stage in his emotional maturity.
+
+Ron Weasley attended the Yule Ball with Padma Patil. The evening was largely unsuccessful because Ron Weasley became distracted by jealousy over Hermione Granger attending with Viktor Krum. Ron Weasley's inability to understand his own romantic feelings contributed to increasing tension between Ron Weasley and Hermione Granger that continued for several years.
+
+During his fifth year, Ron Weasley became a Gryffindor Prefect. Ron Weasley also became Keeper for the Gryffindor Quidditch Team. Although Ron Weasley possessed genuine flying ability, his confidence frequently collapsed under pressure. Nervousness often affected Ron Weasley's Quidditch performance until he gradually learned to trust his own abilities.
+
+Ron Weasley joined Hermione Granger in helping establish Dumbledore's Army after Dolores Umbridge prevented meaningful Defence Against the Dark Arts education. Ron Weasley trained alongside fellow students to prepare for the growing threat posed by Lord Voldemort. Ron Weasley later fought during the Battle of the Department of Mysteries in 1996 alongside Harry Potter, Hermione Granger, Ginny Weasley, Neville Longbottom, and Luna Lovegood. During the battle, magical brains attacked Ron Weasley inside the Thought Chamber, leaving Ron Weasley with permanent scars.
+
+During his sixth year, Ron Weasley briefly entered a romantic relationship with Lavender Brown. Lavender Brown affectionately called Ron Weasley "Won-Won." The relationship developed partly because Ron Weasley believed Hermione Granger showed little romantic interest in him. The relationship ended unhappily and further complicated Ron Weasley's evolving relationship with Hermione Granger.
+
+Ron Weasley fought during the Battle of the Astronomy Tower alongside members of the Order of the Phoenix and Hogwarts defenders after Death Eaters infiltrated Hogwarts.
+
+In 1997, Ron Weasley fought in the Battle of the Seven Potters while helping escort Harry Potter to safety. During the aerial battle, Ron Weasley successfully stunned a pursuing Death Eater while flying, an achievement that surprised Nymphadora Tonks because of its difficulty.
+
+Ron Weasley chose not to return to Hogwarts for his seventh year. Instead, Ron Weasley accompanied Harry Potter and Hermione Granger on the Horcrux Hunt. Ron Weasley accepted that defeating Lord Voldemort had become more important than completing formal magical education. Throughout the mission, Ron Weasley endured hunger, exhaustion, fear, and constant danger.
+
+The influence of Salazar Slytherin's Locket Horcrux amplified Ron Weasley's deepest insecurities. Ron Weasley feared that Molly Weasley loved him less than his siblings and feared that Hermione Granger loved Harry Potter instead of Ron Weasley. Under the Horcrux's influence, Ron Weasley abandoned Harry Potter and Hermione Granger after a heated argument. Shortly afterward, Ron Weasley regretted his decision and struggled to return. Albus Dumbledore's Deluminator guided Ron Weasley back to Harry Potter and Hermione Granger. Ron Weasley destroyed Salazar Slytherin's Locket with the Sword of Gryffindor after confronting magical illusions that embodied his fears. Destroying the Horcrux represented one of Ron Weasley's greatest moments of personal growth because Ron Weasley overcame insecurity, jealousy, and self-doubt.
+
+During the Skirmish at Malfoy Manor, Ron Weasley desperately attempted to take Hermione Granger's place when Bellatrix Lestrange selected Hermione Granger for torture. Ron Weasley later disarmed Bellatrix Lestrange and helped rescue Hermione Granger. During the confrontation, Ron Weasley took Peter Pettigrew's wand after Pettigrew's death and continued using it because Ron Weasley had lost his own wand.
+
+Ron Weasley entered the Chamber of Secrets together with Hermione Granger during the Horcrux Hunt. Ron Weasley successfully imitated Parseltongue well enough to open the Chamber entrance. Ron Weasley and Hermione Granger retrieved Basilisk fangs and destroyed Hufflepuff's Cup, one of Lord Voldemort's Horcruxes. Their actions permanently weakened Lord Voldemort by destroying another fragment of his soul.
+
+During the Battle of Hogwarts in 1998, Ron Weasley fought courageously against the Death Eaters. Ron Weasley fought alongside Neville Longbottom to defeat Fenrir Greyback. Ron Weasley also rescued Draco Malfoy despite years of hostility between them, demonstrating Ron Weasley's moral character. During the battle, Fred Weasley died in an explosion. Fred Weasley's death devastated Ron Weasley, George Weasley, Molly Weasley, Arthur Weasley, and the entire Weasley family. The loss permanently changed Ron Weasley and influenced many of his later life decisions.
+
+Following Lord Voldemort's defeat, Ron Weasley became an Auror at the British Ministry of Magic. Ron Weasley worked alongside Harry Potter helping reform and modernise magical law enforcement after the Second Wizarding War. After approximately two years, Ron Weasley left the Auror Office and became co-manager of Weasleys' Wizard Wheezes together with George Weasley. Ron Weasley joined the business partly to support George Weasley following Fred Weasley's death and to preserve the legacy established by Fred Weasley and George Weasley.
+
+Ron Weasley eventually married Hermione Granger after many years of friendship, disagreement, mutual respect, and shared experiences. Their relationship gradually evolved from frequent arguments and hidden affection into lasting love. Ron Weasley and Hermione Granger became the parents of Rose Granger-Weasley and Hugo Granger-Weasley. Ron Weasley also became the godfather of James Sirius Potter, the eldest son of Harry Potter and Ginny Potter, reflecting the enduring bond between the Weasley and Potter families.
+
+In an alternate timeline, Ron Weasley married Padma Patil and had a son named Panju Weasley. This alternate history existed separately from the primary timeline.
+
+Ron Weasley was physically distinguished by red hair, blue eyes, freckles, pale skin, and a tall, lanky build with large hands and feet similar to Bill Weasley and Percy Weasley. Ron Weasley's ears noticeably turned red whenever Ron Weasley became embarrassed or angry. By 2014, Rita Skeeter observed that Ron Weasley's hair had begun thinning. By 2017, Ron Weasley had developed a fuller middle-aged figure. Ron Weasley carried permanent scars from magical brains encountered during the Battle of the Department of Mysteries.
+
+Ron Weasley was loyal, courageous, humorous, compassionate, pragmatic, and deeply protective of friends and family. Ron Weasley possessed a sharp sarcastic sense of humour that frequently lifted the spirits of Harry Potter and Hermione Granger. Luna Lovegood and Hermione Granger both recognised that Ron Weasley's humour occasionally became unintentionally hurtful.
+
+Ron Weasley's defining weakness throughout much of his youth was insecurity. Ron Weasley constantly compared himself with his successful brothers and with Harry Potter's fame. Ron Weasley often believed himself to be second-best despite repeated demonstrations of bravery and competence. These insecurities occasionally produced jealousy, particularly during Harry Potter's selection as Triwizard Champion and during Ron Weasley's romantic uncertainty regarding Hermione Granger.
+
+Despite personal doubts, Ron Weasley consistently defended Harry Potter against ridicule and disbelief. Ron Weasley repeatedly defended Hermione Granger against anti-Muggle-born prejudice, especially the insults directed at Hermione Granger by Draco Malfoy. Ron Weasley openly confronted Professor Severus Snape whenever Ron Weasley believed Professor Snape treated Gryffindor students unfairly.
+
+Ron Weasley inherited the Weasley family's strong temper but remained exceptionally protective. Ron Weasley confronted danger repeatedly despite suffering from severe arachnophobia caused by Fred Weasley transforming Ron Weasley's teddy bear into a spider during childhood. Ron Weasley nevertheless entered the Forbidden Forest and later the Chamber of Secrets despite overwhelming fear of spiders because protecting Harry Potter and Ginny Weasley mattered more than personal fear.
+
+Ron Weasley displayed a practical understanding of wizarding society because Ron Weasley grew up within an established magical family. This perspective sometimes conflicted with the opinions of Harry Potter and Hermione Granger, who had Muggle upbringings. Ron Weasley accepted many traditional wizarding beliefs regarding werewolves, giants, goblins, and house-elves more readily than Hermione Granger. Ron Weasley often approached difficult ethical questions pragmatically, believing that individuals could mature and change over time, as shown by Ron Weasley's response to learning about Albus Dumbledore's youthful friendship with Gellert Grindelwald.
+
+Ron Weasley loved food, particularly bacon sandwiches, and frequently irritated Hermione Granger by talking while eating. Ron Weasley disliked corned beef sandwiches. Ron Weasley enjoyed Quidditch passionately and remained a lifelong supporter of the Chudley Cannons.
+
+Although Ron Weasley often relied on Hermione Granger's academic assistance and preferred avoiding difficult work whenever possible, Ron Weasley demonstrated considerable intelligence when motivated. Ron Weasley researched evidence supporting Buckbeak's defence, performed effectively in practical magical subjects, and repeatedly showed tactical thinking during dangerous situations.
+
+Ron Weasley was a capable wizard whose magical ability became increasingly evident as Ron Weasley matured. Ron Weasley successfully produced a corporeal Patronus in the form of a Jack Russell Terrier, demonstrating advanced magical skill. Ron Weasley earned Exceeds Expectations grades in Charms, Potions, and Defence Against the Dark Arts, allowing Ron Weasley to continue those subjects at N.E.W.T. level.
+
+Ron Weasley possessed exceptional strategic ability in Wizard's Chess. Ron Weasley taught Harry Potter how to play the game. Ron Weasley's chess expertise repeatedly demonstrated Ron Weasley's ability to analyse complex situations, predict opponents' actions, and sacrifice immediate advantages to achieve long-term success.
+
+Ron Weasley became an accomplished duellist through years of practical combat. Ron Weasley survived the Battle of the Department of Mysteries, the Battle of the Astronomy Tower, the Battle of the Seven Potters, and the Battle of Hogwarts. Ron Weasley successfully stunned Death Eaters while flying, disarmed Bellatrix Lestrange, fought Fenrir Greyback with Neville Longbottom, rescued Draco Malfoy, and defeated multiple Death Eaters during the final battle.
+
+Ron Weasley's Boggart took the form of Aragog, reflecting Ron Weasley's lifelong fear of spiders.
+
+Ron Weasley possessed three principal wands during different periods of life. Ron Weasley first used Charlie Weasley's ash wand with a unicorn hair core until it was destroyed. Ron Weasley later owned a fourteen-inch willow wand with a unicorn hair core. After losing that wand at Malfoy Manor, Ron Weasley temporarily wielded Peter Pettigrew's chestnut wand with a dragon heartstring core.
+
+Ron Weasley inherited many possessions because of his family's limited finances. Ron Weasley owned second-hand robes, books, a chess set inherited from a grandfather, Charlie Weasley's wand, and Percy Weasley's pet rat Scabbers. Ron Weasley later received Pigwidgeon from Sirius Black, a Cleansweep Eleven broomstick after becoming a Prefect, annual hand-knitted Weasley jumpers from Molly Weasley, a golden watch on his seventeenth birthday, the Deluminator from Albus Dumbledore's will, a Wizard's Chess set, Chudley Cannons posters decorating his bedroom, and hundreds of Chocolate Frog Cards. Ron Weasley inherited the Deluminator because Albus Dumbledore believed Ron Weasley would eventually need help finding Harry Potter again. The Deluminator ultimately fulfilled that purpose and played a decisive role in Ron Weasley's return to the Horcrux Hunt.
+
+As an adult, Ron Weasley obtained a Muggle driving licence, although Ron Weasley admitted to secretly Confunding the driving examiner after forgetting to check the wing mirror during the examination. Ron Weasley later joked that magical solutions such as the Supersensory Charm could always solve parking problems.
+
+Ron Weasley's legacy is defined by unwavering friendship, extraordinary courage despite deep personal insecurity, strategic intelligence, loyalty to family, willingness to sacrifice himself for others, and indispensable contributions to Lord Voldemort's defeat. Ron Weasley evolved from an insecure youngest son overshadowed by his brothers into one of the central heroes of the Second Wizarding War, an Auror, a successful businessman, a devoted husband and father, and a respected member of the post-war magical community.

@@ -1,0 +1,30 @@
+document_type: event
+primary_entity: The Assassination of Gustavo Fring
+related_entities:
+  - Walter White
+  - Gustavo Fring
+  - Hector Salamanca
+  - Jesse Pinkman
+  - Tyrus Kitt
+  - Brock Cantillo
+  - Casa Tranquila Nursing Home
+  - Ricin
+  - The Superlab
+timeline_range: July 15, 2009
+canonical_source: breakingbad.fandom.com
+
+The assassination of Gustavo Fring on July 15, 2009, was the culmination of a months-long war of attrition between Walt and Gus, and the moment the series' most sophisticated villain was destroyed by the most primitive possible instrument: old hatred. Walt did not defeat Gus with chemistry or ingenuity or superior planning. He defeated Gus by finding the one man on earth who hated Gus more than Walt did, and using that hatred as a weapon.
+
+The plan was elegant in its exploitation of human nature. After Gus threatened to kill Walt's entire family unless Walt stepped aside, and after Walt's car bomb attempt at the hospital failed when Gus's instincts made him walk away from his vehicle, Walt sought a new approach. He visited Hector Salamanca at the Casa Tranquila nursing home — a man who despised Walt for causing Tuco's death, who had spent years being tormented by Gus with the news of his family members' deaths, who was completely paralyzed and unable to communicate except through a bell attached to his finger. Walt offered Hector a chance for revenge. He would not tell Hector what the plan was, only that cooperating would hurt Gus worse than anything else Hector could do.
+
+Walt planted a pipe bomb in Hector's wheelchair. Per the plan, Hector requested a meeting with the DEA — deliberately, insultingly, as a ruse to lure Gus to the nursing home. Gus, learning that Hector had spoken to the DEA, interpreted this as Hector informing on him and went to the nursing home himself, intending to personally kill Hector rather than delegate the task.
+
+Gus arrived at Hector's room and began preparing a syringe to end Hector's life. He leaned in and demanded that Hector look at him — something Gus had been requesting for years, a final act of dominance over the man who murdered Max. Hector looked at him. With pure hatred in his eyes, Hector began ringing his bell.
+
+The explosion blew the door off the room. Gus walked out into the hallway in one of television's most iconic images, appearing somehow to have survived. He straightened his tie. Then the camera revealed the right side of his face had been blown entirely off. Gus collapsed and was dead before anyone could reach him.
+
+Walt's text to Skyler — "I won" — was two words that contained years of suppressed fury, wounded pride, and terrified relief.
+
+The aftermath was swift and massive. Gus's death collapsed his entire drug empire. The superlab was identified and destroyed. His offshore accounts were seized by the DEA. His network of employees was exposed. Walt's role as Heisenberg became the central missing piece in a puzzle the DEA would spend the rest of the series trying to complete. And on the deck of Walt's backyard pool, a potted Lily of the Valley plant confirmed that Walt had poisoned Brock Cantillo himself — not Gus — to win Jesse back.
+
+Walt won. Everyone who had been used to win was left to pay the price.

@@ -1,0 +1,21 @@
+document_type: character
+primary_entity: Peter Parker / Spider-Man
+related_entities:
+  - Tony Stark
+  - Aunt May
+  - Happy Hogan
+  - Avengers
+  - Doctor Strange
+  - Mysterio
+  - Ned Leeds
+  - MJ
+timeline_range: Civil War through No Way Home
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+Peter Parker, known as Spider-Man, is a young hero from Queens who becomes one of the most important next-generation characters in the MCU. Peter Parker gains his powers after a spider bite and uses them to protect New York while balancing school, family, and superhero responsibilities. Peter Parker is driven by compassion, curiosity, and a strong desire to help others.
+
+Peter Parker is strongly connected to Tony Stark, Aunt May, Happy Hogan, Ned Leeds, and MJ. Tony Stark becomes Peter Parker's mentor and gives him access to advanced technology, including the Spider-Man suits that help define his early heroism. Peter Parker later develops into an independent hero who must learn to make difficult choices without relying on Stark's guidance.
+
+Peter Parker fights in the Civil War conflict, the battle against Vulture, the fight against Mysterio, the multiverse crisis of No Way Home, and the final MCU battle in that storyline. Peter Parker is often optimistic and eager, but his youth also makes him vulnerable to manipulation and mistakes. His desire to do the right thing frequently creates consequences far larger than he expects.
+
+Peter Parker's story becomes especially tragic in No Way Home, when the multiverse conflict leads to the death of Aunt May and to the erasure of his public identity. By the end of that story Peter Parker chooses a lonely but responsible path, showing that Spider-Man's heroism in the MCU is built on sacrifice, maturity, and the willingness to keep helping even when no one remembers him.

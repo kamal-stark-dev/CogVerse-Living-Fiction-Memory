@@ -1,0 +1,129 @@
+```yaml
+document_type: character
+primary_entity: Luna Lovegood
+related_entities:
+  - Xenophilius Lovegood
+  - Pandora Lovegood
+  - Rolf Scamander
+  - Lorcan Scamander
+  - Lysander Scamander
+  - Harry Potter
+  - Hermione Granger
+  - Ron Weasley
+  - Ginny Weasley
+  - Neville Longbottom
+  - Dean Thomas
+  - Dobby
+  - Garrick Ollivander
+  - Newt Scamander
+  - Lily Luna Potter
+  - Lord Voldemort
+  - Severus Snape
+  - Bellatrix Lestrange
+  - Alecto Carrow
+  - Horace Slughorn
+  - Rita Skeeter
+  - Sirius Black
+  - Bill Weasley
+  - Fleur Delacour
+  - Zacharias Smith
+  - Hogwarts School of Witchcraft and Wizardry
+  - Ravenclaw House
+  - Dumbledore's Army
+  - Order of the Phoenix
+  - The Quibbler
+  - Lovegood Family
+  - Scamander Family
+  - Malfoy Manor
+  - Shell Cottage
+  - Department of Mysteries
+  - Battle of the Department of Mysteries
+  - Battle of the Astronomy Tower
+  - Battle of Hogwarts
+  - Second Wizarding War
+  - Ravenclaw's Lost Diadem
+  - Horcrux
+  - Patronus Charm
+  - Hare Patronus
+  - Thestrals
+  - Spectrespecs
+  - Butterbeer Cork Necklace
+  - Dirigible Plum Earrings
+  - Lion Hat
+  - Eagle Hat
+timeline_range: 1981–Post-Second Wizarding War
+canonical_source: Harry Potter series and post-war canon
+```
+
+
+Luna Lovegood, later known as Professor Luna Scamander after her marriage, is a British witch born on 13 February 1981 in Great Britain. She is the only child of Xenophilius Lovegood and Pandora Lovegood. Luna belongs to the Lovegood family by birth and later became a member of the Scamander family through her marriage to Rolf Scamander. Her blood status is recorded as either pure-blood or half-blood. Luna is commonly known by the nickname "Loony Lovegood," a name used mockingly by many Hogwarts students because of her unusual behaviour and eccentric beliefs. In adulthood she held the title of Professor after joining Hogwarts School of Witchcraft and Wizardry as the Field Studies professor.
+
+Luna is a human witch with waist-length, straggly dirty-blonde hair, pale eyebrows, pale silvery eyes, and fair skin. Her eyes give her a permanently surprised expression and often appear dreamily distracted. Throughout her youth she developed a highly distinctive appearance. She frequently placed her wand behind her left ear for safekeeping and wore unusual jewellery such as a Butterbeer cork necklace, Dirigible plum earrings, Spectrespecs, beetle-wing earrings, and silver star earrings. Her unusual clothing and accessories reflected her willingness to express herself without concern for social expectations.
+
+Luna spent her childhood living with her parents in a rook-like house near the village of Ottery St Catchpole in Devon. Her father, Xenophilius Lovegood, served as editor of The Quibbler, a magazine famous for publishing unconventional stories and conspiracy theories. Luna trusted her father deeply and accepted many of the magazine's claims as truthful because she believed in his honesty and judgment.
+
+When Luna was nine years old, her mother Pandora Lovegood died after an accidental magical experiment involving spells. Pandora's death profoundly shaped Luna's outlook on life. Rather than becoming bitter or fearful, Luna developed a calm acceptance of death. She believed that death did not represent a permanent separation and maintained that she would eventually see her mother again in the afterlife. This belief later influenced her ability to comfort Harry Potter after the death of Sirius Black, since Luna genuinely viewed death as a temporary part of existence rather than a final ending.
+
+After Pandora Lovegood's death, Luna was raised solely by Xenophilius Lovegood. Their relationship remained exceptionally close throughout her childhood and adolescence. Luna fiercely defended both her father and The Quibbler. Although she usually spoke in a dreamy and detached manner, anyone who insulted her father or criticized his magazine immediately encountered an unusually forceful and determined side of Luna's personality.
+
+Luna began attending Hogwarts School of Witchcraft and Wizardry in 1992. She was Sorted into Ravenclaw House, demonstrating that she possessed intelligence, curiosity, wit, and an unusual way of thinking. Despite fitting Ravenclaw's ideals of learning and independent thought, Luna experienced significant social isolation. Many fellow students considered her strange and referred to her as "Loony Lovegood." Students frequently hid or stole her belongings, including her shoes, forcing Luna to walk barefoot on numerous occasions. Rather than becoming resentful, Luna responded with patience, tolerance, and compassion. She accepted other people without judging them and rarely displayed anger toward those who mistreated her.
+
+Although Luna initially struggled to make friends, she gradually developed close relationships with Harry Potter, Hermione Granger, Ron Weasley, Neville Longbottom, Ginny Weasley, Dean Thomas, Garrick Ollivander, and several other members of Dumbledore's Army. These friendships grew because the people who spent enough time with Luna came to recognize her intelligence, loyalty, courage, honesty, and emotional insight beneath her eccentric personality.
+
+Luna possessed an unusually perceptive understanding of human behaviour and frequently recognized truths that others overlooked. She openly pointed out contradictions and uncomfortable realities regardless of social expectations. Harry Potter observed that Luna possessed an exceptional talent for embarrassing honesty because she spoke truths without considering whether they might make others uncomfortable. Luna's perceptiveness also allowed her to notice inconsistencies in political events, such as the comparatively limited response to the mass escape of Death Eaters from Azkaban compared with the extensive efforts previously devoted to capturing Sirius Black.
+
+During her years at Hogwarts, Luna maintained many unconventional beliefs. She believed numerous claims published by The Quibbler, including theories that Sirius Black was actually Stubby Boardman, Rufus Scrimgeour was a vampire, Aurors secretly participated in the Rotfang Conspiracy, Cornelius Fudge ordered goblins murdered or transformed into pies, Heliopaths existed, and the Ministry of Magic secretly developed poisons within the Department of Mysteries. Luna also believed in numerous magical creatures including Crumple-Horned Snorkacks, Nargles, Wrackspurts, Blibbering Humdingers, Moon Frogs, Heliopaths, Aquavirius Maggots, Umgubular Slashkilters, Gulping Plimpies, and Dabberblimps. As Luna matured, she gradually accepted that some creatures and ideas she once believed in did not actually exist, demonstrating personal intellectual growth without abandoning her curiosity or open-mindedness.
+
+Despite holding many unusual beliefs, Luna also believed several claims that were ultimately proven true. She accepted Harry Potter's account of Lord Voldemort's return when much of the wizarding world rejected it. She believed voices truly existed beyond the veil inside the Death Chamber of the Department of Mysteries. She accepted the legend surrounding Ravenclaw's Lost Diadem, which later proved essential because the diadem was one of Lord Voldemort's Horcruxes. Her willingness to consider ideas dismissed by others occasionally enabled her to recognize truths overlooked by the broader wizarding community.
+
+During her fourth year at Hogwarts, Luna joined Dumbledore's Army, an organization founded and led by Harry Potter to teach practical Defence Against the Dark Arts. Membership in Dumbledore's Army transformed Luna from an isolated student into an active participant in the resistance against Lord Voldemort. Harry Potter personally instructed Luna in advanced defensive magic, allowing her magical abilities to develop rapidly.
+
+Luna became highly skilled in Defence Against the Dark Arts. She successfully mastered numerous offensive and defensive spells through Dumbledore's Army. At only fourteen years of age, she achieved the advanced magical feat of casting a corporeal Patronus. Her Patronus took the form of a hare. Producing a corporeal Patronus is widely recognized as evidence of exceptional magical talent because the Patronus Charm represents one of the most difficult defensive spells.
+
+Luna demonstrated considerable skill in Charms. She successfully cast the Patronus Charm, the Locking Spell, the Reductor Curse, the Stunning Spell, the Levitation Charm, the Wand-Lighting Charm, and the Revelio Charm. By 1998 she had also mastered nonverbal spellcasting, successfully stunning the Death Eater Alecto Carrow without speaking the incantation. Nonverbal magic is regarded as N.E.W.T.-level magic and reflects Luna's advanced magical proficiency.
+
+Luna also became an accomplished duellist despite her peaceful personality. She survived several major battles against experienced Death Eaters while sustaining relatively minor injuries. Her battlefield experience demonstrated courage, magical competence, and emotional composure under extreme pressure.
+
+In 1996 Luna participated in the Battle of the Department of Mysteries alongside Harry Potter and other members of Dumbledore's Army. She fought numerous Death Eaters and survived with only minor injuries. Her participation marked her transition from student to active combatant in the Second Wizarding War and strengthened her relationships with Harry Potter and his closest friends.
+
+Following the Battle of the Department of Mysteries, Luna became one of Harry Potter's closest companions. After Sirius Black's death, Luna comforted Harry by sharing her own experience of losing her mother and explaining her belief that death was not permanent. This conversation significantly influenced Harry's emotional recovery because Luna offered genuine empathy rather than conventional reassurance.
+
+In 1996 Luna demonstrated extraordinary loyalty to Harry Potter by helping publish Rita Skeeter's interview describing Lord Voldemort's return in The Quibbler. Because Xenophilius Lovegood controlled the magazine, Luna's family directly contributed to spreading information that contradicted Ministry propaganda. Publishing the interview strengthened public awareness of Voldemort's return and reinforced Luna's reputation as one of Harry Potter's most loyal supporters.
+
+During the 1996 Hogwarts Quidditch season, Luna regularly supported Gryffindor whenever Ravenclaw was not competing. She designed and wore an enchanted lion-shaped hat that emitted realistic roars whenever Gryffindor played Slytherin. When Ravenclaw played Gryffindor, Luna instead wore an animated eagle hat with flapping wings to support her own House. These unusual creations reflected both her creativity and her enthusiasm for Quidditch despite not being a player herself.
+
+Later in 1996 Harry Potter invited Luna as his guest to Professor Horace Slughorn's Christmas party. Luna attended wearing silver dress robes and silver star earrings. During this period Harry increasingly appreciated Luna's honesty, loyalty, and individuality despite continuing to find some of her behaviour surprising.
+
+In 1997 Luna participated in the Battle of the Astronomy Tower during the Death Eater assault on Hogwarts. She once again fought experienced opponents and survived the battle without suffering major injuries.
+
+After Lord Voldemort gained effective control over the Ministry of Magic and Hogwarts, Severus Snape became Headmaster while the Carrow siblings enforced Voldemort's authority inside the school. During this period Luna became one of the leaders of the reconstituted Dumbledore's Army. Alongside other student resistance members, she helped organize opposition against the Death Eater-controlled administration inside Hogwarts. Her leadership demonstrated that despite her quiet personality she possessed the courage and determination to resist tyranny.
+
+Because Xenophilius Lovegood openly supported Harry Potter and opposed Lord Voldemort, Death Eaters abducted Luna to use her as a hostage against her father. Luna spent several months imprisoned within the dungeons of Malfoy Manor. During her captivity she remained remarkably calm and emotionally resilient. She comforted fellow prisoner Garrick Ollivander despite sharing the same dangerous circumstances, demonstrating her exceptional emotional strength and compassion.
+
+While imprisoned at Malfoy Manor, Luna lost her original wand after Death Eaters confiscated and broke it. The destruction of her wand marked the end of the wand she had used throughout her Hogwarts education.
+
+In the spring of 1998, the house-elf Dobby rescued Luna Lovegood, Garrick Ollivander, Dean Thomas, Harry Potter, Hermione Granger, Ron Weasley, and Griphook from Malfoy Manor. Following her rescue, Luna recovered at Shell Cottage together with the other survivors. Her rescue allowed her to return to the resistance during the final phase of the Second Wizarding War.
+
+Later in 1998 Luna returned to Hogwarts to participate in the Battle of Hogwarts, the decisive conflict of the Second Wizarding War. During the battle she fought numerous Death Eaters and joined Hermione Granger and Ginny Weasley in a duel against Bellatrix Lestrange. Luna survived the battle and contributed to Lord Voldemort's eventual defeat.
+
+During the search for Lord Voldemort's Horcruxes inside Hogwarts, Luna's acceptance of the legend surrounding Ravenclaw's Lost Diadem proved important. Her knowledge helped Harry Potter continue the search that ultimately led to the destruction of another Horcrux, making her indirectly significant to Voldemort's final defeat.
+
+Luna possessed considerable knowledge of magical creatures throughout her life. She associated naturally with animals, including Thestrals, and demonstrated exceptional skill in understanding and handling magical creatures. Her lifelong fascination with unusual creatures eventually developed into a professional career.
+
+Luna also displayed academic talent beyond magical combat. She could read Ancient Runes upside down, suggesting advanced understanding of the language and implying she studied Ancient Runes during her Hogwarts education.
+
+Luna enjoyed artistic expression throughout her life. Her home contained numerous paintings she personally created, including magical portraits of her friends that appeared almost alive and seemed to breathe. These paintings reflected both her affection for her friends and her artistic abilities.
+
+After the Second Wizarding War ended, Luna pursued a career as a Magizoologist. She became internationally respected for discovering and classifying numerous magical species that had never previously been documented. Her professional achievements expanded magical knowledge and contributed significantly to the academic study of magical creatures.
+
+Because of her expertise in magical creatures, Luna later joined Hogwarts School of Witchcraft and Wizardry as the Field Studies professor. She taught a new subject dedicated to studying and interacting responsibly with magical creatures in their natural environments. As a professor she demonstrated deep concern for the safety and wellbeing of her students, reflecting the same kindness and compassion that characterized her throughout her life.
+
+As an adult Luna married Rolf Scamander, a fellow Magizoologist and the grandson of the famous Magizoologist Newt Scamander. Through this marriage Luna became Luna Scamander and joined the Scamander family. Luna and Rolf had twin sons named Lorcan Scamander and Lysander Scamander.
+
+Luna maintained lifelong friendships with Harry Potter and Ginny Potter after the war. Their friendship became so meaningful that Harry Potter and Ginny Potter named their third child and only daughter Lily Luna Potter in Luna's honour. This decision reflects Luna's lasting influence on the lives of her closest friends and demonstrates the affection and respect they held for her.
+
+Luna's primary loyalties throughout her life included her father Xenophilius Lovegood, the Lovegood family, Ravenclaw House, Hogwarts School of Witchcraft and Wizardry, Dumbledore's Army, the Order of the Phoenix, The Quibbler, and later the Scamander family. Her unwavering loyalty consistently influenced her actions during both peace and war.
+
+Luna's personality remained remarkably consistent throughout her life. She was eccentric, independent, imaginative, compassionate, intellectually curious, emotionally resilient, perceptive, honest, courageous, loyal, and accepting of others. She rarely experienced visible fear even under extreme danger. She consistently comforted others during moments of grief or hardship and refused to judge people based on appearances or reputation. Although she matured by accepting that some childhood beliefs lacked evidence, she retained her openness to extraordinary possibilities while developing into an accomplished scholar, explorer, teacher, and Magizoologist.
+
+Luna Lovegood's legacy extends beyond her wartime contributions. She helped resist Lord Voldemort as a member and later leader of Dumbledore's Army, survived multiple major battles, contributed indirectly to the discovery of Ravenclaw's Diadem, advanced magical knowledge through the discovery of previously unknown magical species, educated future generations of witches and wizards as Hogwarts' Field Studies professor, and remained remembered by her closest friends as a symbol of kindness, courage, individuality, curiosity, and unwavering loyalty.

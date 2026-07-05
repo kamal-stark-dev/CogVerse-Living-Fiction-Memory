@@ -1,0 +1,10 @@
+source_file: data/Demon_Slayer/Events/Hashira_Training.txt
+document_type: event
+primary_entity: Hashira Training
+related_entities:
+- Demon Slayer Corps
+- Hashira
+- Tanjiro Kamado
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+## Following the events at the Swordsmith Village, the Demon Slayer Corps initiated a massive, rigorous training program known as the Hashira Training. Recognizing that the demon threat was reaching a critical point, the Hashira designed a series of specialized training sessions intended to elevate the combat capabilities of every member of the Corps. The training was tiered, with lower-ranking slayers moving from Hashira to Hashira to build stamina, flexibility, sword mastery, and physical strength. Tanjiro Kamado participated in every stage, pushing his body to its limit to prepare for the inevitable full-scale war. This period was characterized by immense physical growth and a rare sense of unity within the Corps, as slayers and Hashira alike prepared for the final clash with Muzan Kibutsuji.

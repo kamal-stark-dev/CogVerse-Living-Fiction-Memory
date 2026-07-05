@@ -1,0 +1,18 @@
+document_type: event
+primary_entity: The Snap
+related_entities:
+  - Thanos
+  - Infinity Gauntlet
+  - Infinity Stones
+  - Avengers
+  - Guardians of the Galaxy
+  - Wakanda
+  - Titan
+timeline_range: 2018
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+The Snap was the catastrophic event in which Thanos used the Infinity Gauntlet and the Infinity Stones to erase half of all life in the universe. The event occurred after Thanos collected the Stones and defeated the heroes who tried to stop him. The Snap is one of the defining tragedies of the MCU because it instantly transformed the universe's political, emotional, and social reality.
+
+The Avengers, the Guardians of the Galaxy, and other allied heroes attempted to stop Thanos on Titan and later in Wakanda, but they failed to prevent the Snap. The event did not just kill people at random; it shattered families, removed leaders, and created chaos across every known civilization. Earth, Asgardian survivors, alien species, and entire worlds were affected at once.
+
+The immediate consequence of the Snap was mass death and universal grief. The long-term consequence was the rise of the Blip era, the collapse of normal life, and the Avengers' desperate attempt to restore what was lost. The Snap became the central wound that the rest of the MCU's later stories had to address.

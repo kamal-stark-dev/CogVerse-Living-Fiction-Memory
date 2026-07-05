@@ -1,0 +1,6 @@
+{
+  "name": "CogRealm: Living Fiction Memory",
+  "description": "Talk to fictional universes as if their entire world has memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

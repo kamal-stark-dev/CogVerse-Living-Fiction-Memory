@@ -1,0 +1,23 @@
+document_type: character
+primary_entity: Steve Rogers / Captain America
+related_entities:
+  - Peggy Carter
+  - Bucky Barnes
+  - Sam Wilson
+  - Avengers
+  - Hydra
+  - Tesseract
+  - Iron Man
+  - S.H.I.E.L.D.
+  - Sharon Carter
+  - Thanos
+timeline_range: World War II through the return of the shield to Sam Wilson
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+Steve Rogers, known as Captain America, is a super-soldier and one of the foundational heroes of the Marvel Cinematic Universe. Steve Rogers begins as a frail but determined young man from Brooklyn who repeatedly tries to enlist during World War II before being selected for the Super Soldier Program. Steve Rogers becomes Captain America after Dr. Abraham Erskine transforms him into a physically enhanced soldier and he enters the war against Hydra.
+
+Steve Rogers is deeply associated with Peggy Carter, Bucky Barnes, and later Sam Wilson. His relationship with Bucky Barnes is one of the most important bonds in the MCU, because Steve Rogers spends much of his life trying to save Bucky Barnes after Hydra corrupts him into the Winter Soldier. Steve Rogers also becomes a central figure in the Avengers and often acts as the moral center of the team.
+
+Steve Rogers fights in the Battle of New York, opposes Hydra's infiltration of S.H.I.E.L.D., helps expose corruption in Winter Soldier, and leads the Avengers through the conflicts with Ultron and Thanos. Steve Rogers is defined by discipline, courage, loyalty, and a refusal to abandon people in need. He often chooses principle over convenience and repeatedly places duty ahead of personal comfort.
+
+Steve Rogers eventually learns that his idealism must be balanced with sacrifice. After the war against Thanos, Steve Rogers returns the Infinity Stones to their proper places and chooses to live a life with Peggy Carter in the past. This decision closes his long arc from a soldier who wanted to serve his country to a man who chooses personal peace after saving the world. The shield later passes to Sam Wilson, making Steve Rogers' legacy one of service, hope, and moral example.

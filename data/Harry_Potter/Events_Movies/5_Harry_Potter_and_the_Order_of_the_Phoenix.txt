@@ -1,0 +1,142 @@
+document_type: Event
+primary_entity: Harry Potter and the Order of the Phoenix (Film)
+related_entities:
+    - Harry Potter
+    - Lord Voldemort
+    - Albus Dumbledore
+    - Dolores Umbridge
+    - Cornelius Fudge
+    - Sirius Black
+    - Hermione Granger
+    - Ron Weasley
+    - Severus Snape
+    - Alastor "Mad-Eye" Moody
+    - Remus Lupin
+    - Nymphadora Tonks
+    - Arthur Weasley
+    - Molly Weasley
+    - Bellatrix Lestrange
+    - Lucius Malfoy
+    - Neville Longbottom
+    - Ginny Weasley
+    - Luna Lovegood
+    - Cho Chang
+    - Kingsley Shacklebolt
+    - Rubeus Hagrid
+    - Grawp
+    - Mrs Figg
+    - Dudley Dursley
+    - Mafalda Hopkirk
+    - Minerva McGonagall
+    - Sybill Trelawney
+    - Draco Malfoy
+    - Vincent Crabbe
+    - Gregory Goyle
+    - Pansy Parkinson
+    - Death Eaters
+    - Order of the Phoenix
+    - Ministry of Magic
+    - Department of Mysteries
+    - Hall of Prophecies
+    - Room of Requirement
+    - Inquisitorial Squad
+    - Azkaban
+    - Hogwarts School of Witchcraft and Wizardry
+    - 12 Grimmauld Place
+    - Privet Drive
+    - Forbidden Forest
+    - Atrium of the Ministry of Magic
+    - Floo Network
+    - Fawkes
+    - Dementors
+    - Thestrals
+    - Veritaserum
+    - Blood Quill
+    - Occlumency
+    - Patronus Charm
+    - Cruciatus Curse
+    - Prophecy.
+timeline_range: Summer 1995 – June 1996.
+canonical_source: *Harry Potter and the Order of the Phoenix* (film), based on the fifth Harry Potter novel by J. K. Rowling.
+
+The central event chronicles Harry Potter's fifth year at Hogwarts School of Witchcraft and Wizardry following the rebirth of Lord Voldemort and the death of Cedric Diggory. The event focuses on the Ministry of Magic's systematic denial of Lord Voldemort's return, the Ministry's political takeover of Hogwarts through Dolores Umbridge, the formation of Dumbledore's Army, Harry Potter's growing psychic connection with Lord Voldemort, the Battle of the Department of Mysteries, the death of Sirius Black, the public confirmation of Lord Voldemort's return, and Harry Potter's discovery of the prophecy that defines his destiny. The event permanently transforms the political situation of the wizarding world by ending official denial and beginning open resistance against Lord Voldemort.
+
+The event begins shortly after Cedric Diggory's death and Lord Voldemort's resurrection. Harry Potter remains traumatized by the events of the previous school year and fears that Lord Voldemort will soon become more powerful. While Harry Potter and Dudley Dursley are walking home near Privet Drive after Dudley Dursley mocks Harry Potter in front of his friends, two Dementors attack them. The Dementors have secretly been sent by Dolores Umbridge in an attempt to create a situation in which Harry Potter will be forced to perform underage magic and consequently be expelled from Hogwarts.
+
+Harry Potter casts the Patronus Charm to save both himself and Dudley Dursley from the Dementor's Kiss. Harry Potter's decision demonstrates that protecting innocent life takes priority over obedience to Ministry regulations. Mrs. Figg, who is a Squib living near Privet Drive and secretly assigned by Albus Dumbledore to watch over Harry Potter, arrives and escorts Dudley Dursley home. Harry Potter soon receives a Howler from Mafalda Hopkirk of the Ministry of Magic informing him that he has been expelled from Hogwarts for performing magic in the presence of a Muggle.
+
+Members of the Order of the Phoenix arrive at Privet Drive and escort Harry Potter to 12 Grimmauld Place. Alastor "Mad-Eye" Moody explains that Albus Dumbledore successfully arranged for Harry Potter's expulsion to be suspended pending a formal disciplinary hearing. Harry Potter reunites with Hermione Granger, Ron Weasley, and the Weasley family. Harry Potter continues to suffer recurring nightmares connected to Cedric Diggory's death and Lord Voldemort's resurrection, demonstrating that the emotional consequences of the previous year remain unresolved.
+
+At 12 Grimmauld Place, Sirius Black explains that Lord Voldemort is searching for something he failed to obtain during his previous rise to power. Harry Potter also learns about the Order of the Phoenix, a secret resistance organization created by Albus Dumbledore to oppose Lord Voldemort. The Order includes Sirius Black, Severus Snape, Arthur Weasley, Molly Weasley, Remus Lupin, Nymphadora Tonks, Alastor Moody, and many other witches and wizards loyal to Albus Dumbledore. The Order of the Phoenix serves as the principal organized resistance against the renewed Death Eater movement.
+
+At the Ministry of Magic disciplinary hearing, Cornelius Fudge attempts to portray Harry Potter as an irresponsible underage wizard rather than a victim defending himself. Mrs. Figg provides eyewitness testimony confirming the Dementor attack. Albus Dumbledore argues that Harry Potter acted lawfully because underage magic is permitted in genuine life-threatening situations. Albus Dumbledore further warns that Lord Voldemort may be responsible for recent events, but Cornelius Fudge refuses to acknowledge Lord Voldemort's return. Harry Potter is cleared of all charges, but the hearing exposes the Ministry's determination to discredit both Harry Potter and Albus Dumbledore rather than confront reality.
+
+Harry Potter returns to Hogwarts for his fifth year and discovers that Dolores Umbridge has become the new Defence Against the Dark Arts professor. Dolores Umbridge has been appointed by the Ministry of Magic specifically to control Hogwarts, suppress discussion of Lord Voldemort's return, and weaken Albus Dumbledore's influence. Dolores Umbridge immediately rejects practical defensive magic and teaches only Ministry-approved theory.
+
+When Harry Potter publicly states that Lord Voldemort has returned and personally murdered Cedric Diggory, Dolores Umbridge punishes Harry Potter with a cruel detention. Harry Potter is forced to repeatedly write the sentence "I must not tell lies" using a magical Blood Quill that carves the words permanently into Harry Potter's hand. This punishment symbolizes the Ministry of Magic's willingness to inflict physical suffering in order to suppress the truth. The scar left by the Blood Quill becomes a lasting reminder of institutional abuse.
+
+Dolores Umbridge gradually accumulates increasing authority over Hogwarts through Educational Decrees issued by the Ministry of Magic. She evaluates teachers, restricts student organizations, suppresses freedom of speech, and interferes with nearly every aspect of school life. Her authority transforms Hogwarts from an independent educational institution into a school increasingly controlled by the Ministry of Magic.
+
+Dolores Umbridge dismisses Professor Sybill Trelawney from her teaching position. Albus Dumbledore intervenes and prevents Dolores Umbridge from forcing Sybill Trelawney to leave Hogwarts entirely, explaining that the Ministry possesses authority to dismiss professors but not to remove them from Hogwarts grounds. This confrontation demonstrates that Albus Dumbledore continues defending members of the Hogwarts community despite mounting political pressure.
+
+Throughout this period, Albus Dumbledore deliberately distances himself from Harry Potter. Albus Dumbledore fears that Lord Voldemort's growing mental connection with Harry Potter could allow Lord Voldemort to gain access to Albus Dumbledore's plans or manipulate Harry Potter through emotional influence. Harry Potter initially interprets Albus Dumbledore's behavior as rejection, creating emotional distance between them.
+
+Because Dolores Umbridge refuses to teach practical defensive magic and the Ministry continues denying Lord Voldemort's return, Hermione Granger proposes that Harry Potter teach fellow students defensive spells independently. Neville Longbottom discovers the Room of Requirement, a magical chamber that changes itself to satisfy the needs of those seeking it. The Room of Requirement becomes the headquarters for Dumbledore's Army.
+
+Students from Gryffindor, Ravenclaw, and Hufflepuff voluntarily join Dumbledore's Army. The organization is named in honor of Albus Dumbledore, whose reputation is being attacked by the Ministry of Magic. Harry Potter becomes the group's Defence Against the Dark Arts instructor. Harry Potter teaches practical magic, including defensive spells, disarming charms, shielding magic, and Patronus techniques. Neville Longbottom develops increasing confidence through Harry Potter's instruction. The organization strengthens cooperation among students from different Hogwarts Houses while preparing them for the dangers posed by Lord Voldemort.
+
+During this period Harry Potter develops a romantic relationship with Cho Chang. Their relationship grows while both participate in Dumbledore's Army, although it exists within the broader context of grief following Cedric Diggory's death.
+
+Dolores Umbridge responds to the existence of Dumbledore's Army by prohibiting almost all student organizations unless officially approved. Her decrees effectively remove student independence and further expand Ministry control over Hogwarts.
+
+Harry Potter experiences a powerful vision through his mental connection with Lord Voldemort in which Arthur Weasley is attacked inside the Department of Mysteries. Harry Potter reports the vision immediately. Members of the Order of the Phoenix investigate and discover that Arthur Weasley has indeed been attacked. Arthur Weasley survives because Harry Potter's vision allows the Order to rescue him quickly. This incident proves that Harry Potter's visions can accurately reveal real events occurring elsewhere.
+
+During Christmas, Harry Potter confides in Sirius Black that he increasingly feels Lord Voldemort's presence within his own mind. Harry Potter fears that he may somehow be becoming similar to Lord Voldemort. To reduce Lord Voldemort's influence, Albus Dumbledore instructs Severus Snape to teach Harry Potter Occlumency, the magical discipline of protecting one's thoughts from external intrusion.
+
+The Occlumency lessons become increasingly unsuccessful because Harry Potter struggles to control his emotions and because the relationship between Harry Potter and Severus Snape is characterized by mutual hostility. Harry Potter gradually distances himself from his friends as the emotional strain intensifies.
+
+At approximately the same time, Bellatrix Lestrange and nine other Death Eaters escape from Azkaban. Their escape significantly strengthens Lord Voldemort's forces and demonstrates that Azkaban is no longer capable of containing many of Lord Voldemort's most dangerous followers.
+
+Dolores Umbridge eventually discovers the existence of Dumbledore's Army after illegally administering Veritaserum to Cho Chang, forcing Cho Chang to reveal how the Room of Requirement can be accessed. The Inquisitorial Squad, consisting primarily of Draco Malfoy, Vincent Crabbe, Gregory Goyle, Pansy Parkinson, and other Slytherin students loyal to Dolores Umbridge, assists in exposing the organization.
+
+Harry Potter and Cho Chang are brought before Dolores Umbridge, Cornelius Fudge, and other Ministry officials. Albus Dumbledore accepts full responsibility for creating Dumbledore's Army, thereby protecting Harry Potter and the other students from more severe punishment. When Ministry officials attempt to arrest Albus Dumbledore and transport him to Azkaban, Albus Dumbledore escapes using his phoenix, Fawkes. His escape preserves the leadership of the resistance while forcing him into temporary exile. Following Albus Dumbledore's departure, Dolores Umbridge becomes Headmistress of Hogwarts and expands her use of Blood Quill detentions against members of Dumbledore's Army.
+
+During a later Occlumency lesson, Harry Potter instinctively reflects Severus Snape's spell and unintentionally enters Severus Snape's memories. Harry Potter witnesses James Potter and Sirius Black bullying the young Severus Snape during their school years. This revelation fundamentally alters Harry Potter's understanding of his father by showing that James Potter was capable of cruelty despite ultimately becoming a heroic figure. Severus Snape ends the Occlumency lessons immediately after this invasion, leaving Harry Potter without protection against Lord Voldemort's mental influence.
+
+Fred Weasley and George Weasley openly rebel against Dolores Umbridge by creating spectacular magical fireworks and causing widespread chaos throughout Hogwarts. Their rebellion inspires students and teachers alike because it openly challenges Dolores Umbridge's oppressive authority. After disrupting the school, Fred Weasley and George Weasley leave Hogwarts permanently to enthusiastic support from the student body and much of the teaching staff. Their departure symbolizes growing resistance against Ministry control.
+
+Lord Voldemort exploits Harry Potter's unprotected mind by creating a false vision showing Sirius Black being tortured inside the Department of Mysteries. Hermione Granger correctly suggests that the vision may be a trap intended to lure Harry Potter into danger. Harry Potter nevertheless believes the vision because Sirius Black is the closest remaining connection to Harry Potter's parents and represents Harry Potter's only surviving parental figure.
+
+Harry Potter, Ron Weasley, Hermione Granger, Ginny Weasley, Neville Longbottom, and Luna Lovegood attempt to contact the Order of the Phoenix using the Floo Network in Dolores Umbridge's office. Dolores Umbridge and the Inquisitorial Squad capture them before they can successfully communicate.
+
+Dolores Umbridge demands that Severus Snape administer Veritaserum to Harry Potter. Severus Snape calmly explains that Dolores Umbridge has already exhausted the available supply while secretly understanding Harry Potter's coded warning regarding Sirius Black. Severus Snape discreetly informs the Order of the Phoenix after leaving the office.
+
+Unable to obtain information through interrogation, Dolores Umbridge threatens to torture Harry Potter with the Cruciatus Curse. This threat demonstrates that Dolores Umbridge is willing to employ an Unforgivable Curse against a student in pursuit of Ministry objectives.
+
+Harry Potter and Hermione Granger deceive Dolores Umbridge by claiming that Albus Dumbledore possesses a secret weapon hidden within the Forbidden Forest. Dolores Umbridge accompanies them into the forest, where they encounter Grawp, the half-giant half-brother of Rubeus Hagrid, and a herd of centaurs. Dolores Umbridge repeatedly insults and attempts to attack the centaurs. The centaurs respond by capturing Dolores Umbridge and carrying her away into the forest. When Dolores Umbridge begs Harry Potter for assistance, Harry Potter refuses by repeating the words, "I'm sorry, Professor. But I must not tell lies," directly echoing the punishment Dolores Umbridge forced upon him earlier in the school year.
+
+After escaping the Forbidden Forest, Harry Potter reunites with Ron Weasley, Hermione Granger, Neville Longbottom, Ginny Weasley, and Luna Lovegood. The six students travel to the Ministry of Magic by riding Thestrals. Their destination is the Department of Mysteries, where Harry Potter hopes to rescue Sirius Black.
+
+Inside the Department of Mysteries, Harry Potter and his companions search unsuccessfully for Sirius Black before discovering the Hall of Prophecies. Harry Potter locates the prophecy bearing both his own name and Lord Voldemort's name. After Harry Potter touches the prophecy, Lucius Malfoy and numerous Death Eaters emerge from hiding. Lucius Malfoy reveals that Lord Voldemort deliberately implanted the false vision in Harry Potter's mind to lure Harry Potter into retrieving the prophecy because only Harry Potter or Lord Voldemort can safely remove it.
+
+A battle begins between the six students and the Death Eaters throughout the Department of Mysteries. Although the students fight courageously, they are eventually overwhelmed. Lucius Malfoy threatens Harry Potter's friends in order to force Harry Potter to surrender the prophecy.
+
+Members of the Order of the Phoenix, including Sirius Black, Remus Lupin, Kingsley Shacklebolt, Nymphadora Tonks, and Alastor Moody, arrive after receiving Severus Snape's warning. A larger battle develops between the Order of the Phoenix and the Death Eaters. During the fighting, Sirius Black strikes Lucius Malfoy, causing the prophecy to be dropped and destroyed. The destruction of the prophecy prevents Lord Voldemort from obtaining the complete contents through indirect means.
+
+Moments later, Bellatrix Lestrange casts the Killing Curse at Sirius Black. Sirius Black falls backward through the mysterious veil inside the Death Chamber and dies. Sirius Black's death devastates Harry Potter because Sirius Black represented Harry Potter's godfather, closest parental figure, and strongest emotional connection to James Potter and Lily Potter. Sirius Black's death becomes one of the defining emotional losses of Harry Potter's life.
+
+Consumed by grief and anger, Harry Potter pursues Bellatrix Lestrange into the Ministry Atrium and successfully strikes her with the Cruciatus Curse. Harry Potter attempts to embrace hatred and revenge, but Lord Voldemort encourages Harry Potter to surrender completely to those emotions. Harry Potter ultimately refuses to become like Lord Voldemort, demonstrating that compassion and love continue to define Harry Potter despite overwhelming personal loss.
+
+Lord Voldemort personally confronts Harry Potter in the Ministry Atrium. Albus Dumbledore arrives through the Floo Network and engages Lord Voldemort in an exceptionally powerful magical duel. Albus Dumbledore successfully counters every major attack launched by Lord Voldemort, including destructive magical energy, enchanted shards of glass, and numerous lethal spells. Albus Dumbledore nearly defeats Lord Voldemort by imprisoning him within a sphere of water. Unable to overcome Albus Dumbledore directly, Lord Voldemort attempts to possess Harry Potter's body.
+
+Harry Potter resists Lord Voldemort's possession through the emotional strength created by love for Sirius Black, Ron Weasley, Hermione Granger, and his other friends. Harry Potter declares that Lord Voldemort is truly weak because Lord Voldemort cannot understand love, friendship, or self-sacrifice. Harry Potter's resistance demonstrates that emotional bonds possess magical power beyond conventional spellcasting and that Lord Voldemort's inability to comprehend love remains his greatest weakness.
+
+As Ministry officials enter the Atrium, Lord Voldemort abandons the possession attempt and Disapparates. Cornelius Fudge and other Ministry officials witness Lord Voldemort directly, making further denial impossible. Lord Voldemort's public appearance immediately ends the Ministry's campaign denying his return.
+
+The political consequences unfold rapidly. Cornelius Fudge is forced to admit that Lord Voldemort has returned and resigns as Minister for Magic in disgrace. Dolores Umbridge loses all authority and is removed from Hogwarts. Lucius Malfoy and the Death Eaters captured during the battle are imprisoned in Azkaban. Albus Dumbledore is restored as Headmaster of Hogwarts. The Ministry of Magic is forced to abandon its campaign against Harry Potter and Albus Dumbledore because their warnings are proven correct.
+
+After returning to Hogwarts, Albus Dumbledore privately explains the complete prophecy to Harry Potter. Harry Potter learns that the prophecy declares that neither Harry Potter nor Lord Voldemort can live while the other survives. Harry Potter realizes that he and Lord Voldemort are destined to confront one another in a final conflict that only one of them can survive. This revelation permanently changes Harry Potter's understanding of his purpose and his future.
+
+The emotional consequences of the event reshape Harry Potter's identity. Harry Potter loses Sirius Black, the closest person he has ever had to a parent after James Potter and Lily Potter. Harry Potter also gains a clearer understanding of James Potter's youthful flaws after witnessing Severus Snape's memories. Harry Potter's friendships with Ron Weasley, Hermione Granger, Ginny Weasley, Neville Longbottom, Luna Lovegood, and the members of Dumbledore's Army become stronger because they willingly risk their lives beside him during the battle at the Ministry.
+
+The long-term consequences fundamentally alter the wizarding world. The Ministry of Magic publicly acknowledges Lord Voldemort's return. The Order of the Phoenix emerges as the primary resistance organization against Lord Voldemort. Hogwarts students gain practical combat experience through Dumbledore's Army. Lord Voldemort loses the opportunity to obtain the prophecy but succeeds in killing Sirius Black and demonstrating the vulnerability of the wizarding world. Harry Potter leaves his fifth year carrying profound grief but also possessing certainty that he is not alone, that love remains his greatest strength, and that his final confrontation with Lord Voldemort has become inevitable.

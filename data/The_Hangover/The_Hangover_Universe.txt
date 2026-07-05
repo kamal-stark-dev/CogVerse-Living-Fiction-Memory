@@ -1,0 +1,36 @@
+document_type: universe
+primary_entity: The Hangover Universe
+related_entities:
+  - Phil Wenneck
+  - Alan Garner
+  - Stu Price
+  - Doug Billings
+  - Leslie Chow
+  - Jade
+  - Sid Garner
+  - Tracy Garner-Billings
+  - Lauren Srisai
+  - Teddy
+  - Mike Tyson
+  - Marshall
+  - The Wolf Pack
+  - Caesars Palace
+  - Bangkok
+  - Las Vegas
+  - The Hangover
+  - The Hangover Part II
+  - The Hangover Part III
+timeline_range: 2009–2013 (three films)
+canonical_source: thehangover.fandom.com
+
+The Hangover Universe is the comedic trilogy written and directed by Todd Phillips, produced by Legendary Pictures and distributed by Warner Bros. Pictures. The franchise consists of three R-rated comedies — The Hangover (2009), The Hangover Part II (2011), and The Hangover Part III (2013) — and became one of the most successful comedy franchises in film history. The original film became the highest-grossing R-rated comedy of all time upon release, and won the Golden Globe Award for Best Film — Comedy or Musical.
+
+The universe revolves entirely around a group of four best friends known as The Wolf Pack: Phil Wenneck, the charismatic ringleader and schoolteacher who loathes his suburban life; Stu Price, the anxious, responsible dentist who somehow ends up in the wildest situations; Doug Billings, the grounded, sensible groom whose own disappearance launches the entire first film; and Alan Garner, Doug's bizarre, childlike, fiercely loyal future brother-in-law who is the emotional and comedic core of the trilogy.
+
+The universe's central recurring structure is the blackout mystery: the Wolf Pack wakes up in a destroyed hotel room with no memory of the previous night, surrounded by absurd evidence of spectacular chaos — a tiger in the bathroom, a baby in the closet, a stolen police car, a tattoo on someone's face, a missing person — and must piece together what happened before time runs out. Each film uses this formula to explore a different city and a different crisis. Part I takes place in Las Vegas. Part II takes place in Bangkok. Part III abandons the blackout formula entirely, becoming a darker chase thriller set across Mexico, Las Vegas, and California.
+
+The wildcard element that ties all three films together is Leslie Chow, an unpredictable, cocaine-fueled Chinese international criminal and drug lord who becomes both the Wolf Pack's nemesis and, eventually, Alan's best friend. Chow's chaotic energy is the catalyst for most disasters across the trilogy.
+
+The Hangover franchise is also notable for the hackathon context at WeMakeDevs and Cognee: the hackathon itself is themed "Hangover," making this universe particularly relevant for demonstrating the Cognee memory system's ability to reconstruct chaotic, non-linear, mystery-driven narratives — exactly the kind of reasoning problem the franchise's blackout structure poses to its characters.
+
+The universe celebrates friendship, chaos, consequence, and the absurd things people do when they have no memory of why they did them. Its core emotional beats — loyalty to friends above all else, the shock of waking up with no memory of your worst night, finding your way back from the brink — make it ideal for personality-based, hypothetical, and cross-universe queries in the CogRealm system.

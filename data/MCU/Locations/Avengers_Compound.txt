@@ -1,0 +1,16 @@
+document_type: location
+primary_entity: Avengers Compound
+related_entities:
+  - Avengers
+  - Tony Stark
+  - Steve Rogers
+  - Bruce Banner
+  - Natasha Romanoff
+  - Clint Barton
+  - Nano Gauntlet
+timeline_range: Civil War through Endgame
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+The Avengers Compound is the post-Stark Tower headquarters used by the Avengers for training, planning, and crisis response. It serves as a private operational base where the team can coordinate without relying on outside governments or institutions. The Compound becomes a key location during the later stages of the MCU's conflict with Thanos.
+
+The Avengers Compound matters because it symbolizes the team's attempt to create a stable home after the destruction and political conflict that followed earlier battles. The Compound is also the site of the final battle in Endgame, which gives the location a direct connection to the end of the Infinity Saga.

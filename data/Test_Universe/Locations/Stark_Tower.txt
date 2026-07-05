@@ -1,0 +1,14 @@
+document_type: location
+primary_entity: Stark Tower
+related_entities:
+  - Tony Stark
+  - Stark Industries
+  - Avengers
+  - New York City
+  - S.H.I.E.L.D.
+timeline_range: Iron Man 2 through Avengers era
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+Stark Tower is Tony Stark's iconic high-rise headquarters in New York City and one of the most recognizable locations in the early MCU. The tower reflects Tony Stark's public identity as a billionaire inventor and later becomes associated with the Avengers when the team begins to gather there. Stark Tower sits at the intersection of corporate power, advanced technology, and heroism.
+
+Stark Tower matters because it marks the transition from individual heroics to team-based defense. The tower later becomes part of the Avengers' larger infrastructure, showing how Tony Stark's personal empire helps build the early superhero network.

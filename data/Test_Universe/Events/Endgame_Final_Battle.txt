@@ -1,0 +1,21 @@
+document_type: event
+primary_entity: Final Battle of Endgame
+related_entities:
+  - Avengers
+  - Thanos
+  - Tony Stark
+  - Steve Rogers
+  - Thor
+  - Natasha Romanoff
+  - Clint Barton
+  - Iron Man
+  - Infinity Stones
+  - Nano Gauntlet
+timeline_range: 2023
+canonical_source: marvelcinematicuniverse.fandom.com, marvel.fandom.com
+
+The final battle of Endgame was the climactic war in which the restored Avengers and their allies fought Thanos and his army after time travel had brought the Infinity Stones into play. The battle took place at the Avengers Compound and represented the end of the long conflict that began with the Snap. The event united surviving heroes from across the MCU against a single enemy in a final attempt to restore balance.
+
+The participants included Steve Rogers, Tony Stark, Thor, Natasha Romanoff, Clint Barton, Bruce Banner, the restored armies of Wakanda, Asgard, and other allies, as well as Thanos and his forces. The battle was massive, chaotic, and emotionally charged because many of the heroes had already lost friends, family, and entire years of life to the Blip. The battle gave each major hero a final chance to act against the Titan who had changed their universe.
+
+The decisive turning point came when Tony Stark took the Infinity Stones and used the Nano Gauntlet to erase Thanos and his army. Tony Stark died from the strain, completing his arc through sacrifice. The battle restored the universe to a state where the Snap could be undone and closed the central conflict of the Infinity Saga.

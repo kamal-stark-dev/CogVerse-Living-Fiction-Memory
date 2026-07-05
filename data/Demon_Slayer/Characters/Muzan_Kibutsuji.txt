@@ -1,0 +1,13 @@
+source_file: data/Demon_Slayer/Characters/Muzan_Kibutsuji.txt
+document_type: character
+primary_entity: Muzan Kibutsuji
+related_entities:
+- Twelve Kizuki
+- Demon Slayer Corps
+- Tanjiro Kamado
+- Nezuko Kamado
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+Muzan Kibutsuji is the first demon, the progenitor of all other demons, and the primary antagonist of the series. He possesses the ability to transform humans into demons by sharing his blood, which grants him absolute control over them. Muzan Kibutsuji's ultimate goal is to become a "perfect being" immune to sunlight, a pursuit that drives him to hunt for the Blue Spider Lily.
+
+## Muzan Kibutsuji is cold, calculating, and ruthless, showing no regard for the lives of his subordinates, the Twelve Kizuki, whom he frequently executes for failure. He hides in human society by blending into various identities and families. Muzan Kibutsuji is responsible for the murder of the Kamado family and the transformation of Nezuko Kamado. The Demon Slayer Corps has dedicated their entire existence to locating and destroying him to end the demon threat permanently.

@@ -1,0 +1,11 @@
+source_file: data/Demon_Slayer/Events/Final_Selection.txt
+document_type: event
+primary_entity: Final Selection
+related_entities:
+- Tanjiro Kamado
+- Sakonji Urokodaki
+- Demon Slayer Corps
+- Mount Fujikasane
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+## The Final Selection is the concluding examination for prospective members of the Demon Slayer Corps. It takes place on Mount Fujikasane, a mountain surrounded by wisteria flowers that act as a natural prison for demons. Candidates are required to survive for seven days without assistance, facing various demons captured by the Corps. The objective is to test the candidates' mastery of their breathing techniques and their ability to endure high-stress combat. Tanjiro Kamado participated in the Final Selection after completing his rigorous training under Sakonji Urokodaki. Successfully completing the trial grants the survivor the right to receive their uniform, a Kasugai crow for communication, and the opportunity to choose the ore for their own Nichirin blade, marking their official entry into the Demon Slayer Corps.

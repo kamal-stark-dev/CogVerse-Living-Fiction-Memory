@@ -1,0 +1,25 @@
+document_type: location
+primary_entity: Saul Goodman's Law Office
+related_entities:
+  - Saul Goodman
+  - Walter White
+  - Jesse Pinkman
+  - Skyler White
+  - Huell Babineaux
+  - Francesca Liddy
+  - Patrick Kuby
+  - Mike Ehrmantraut
+  - Hank Schrader
+  - Albuquerque
+timeline_range: 2004–2010
+canonical_source: breakingbad.fandom.com
+
+Saul Goodman's law office occupied a small unit in a strip mall near the Albuquerque courthouse, the county jail, and the city's bail bond offices — a location chosen with calculated pragmatism to maximize criminal client foot traffic. The office was decorated with an American flag, a Constitution poster, columns suggesting legal authority, and a small round conference table. The overall aesthetic was low-budget civic authority: the visual language of a small-claims courtroom compressed into 400 square feet.
+
+The office was both Saul's professional headquarters and the nerve center of Walt's criminal support structure. From this location, Saul orchestrated the SaveWalterWhite.com money laundering scheme, connected Walt to Gustavo Fring, managed Jesse's various legal complications, coordinated Mike's cleaning and surveillance work, arranged for the A1A Car Wash purchase, deployed Patrick Kuby and Huell Babineaux on fixer operations, and maintained the attorney-client privilege that protected all of it from legal exposure.
+
+The waiting room and Francesca Liddy's reception desk served as a filter between the criminal world and the legal one. Clients ranged from low-level drug dealers to more serious offenders, all of whom trusted that Saul's theatrical incompetence was cover for genuine capability. Hank Schrader once visited the office to question Saul about his clients and was met with showboating defiance — a performance that concealed how much Saul actually knew.
+
+The most consequential scene set in the office was Jesse's assault on Saul after discovering that Huell had pickpocketed the ricin cigarette on Walt's orders. Jesse beat Saul, grabbed his gun from the desk drawer, and confronted him with the truth about Brock's poisoning. Saul's admission — that he had helped Walt without knowing what Walt intended to do with the ricin — and his genuine horror at learning what had actually happened represented one of the few moments when Saul's opportunism collided with moral reality.
+
+After Heisenberg's identity was exposed, Saul packed the office in a frenzy — shredding documents, extracting hidden cash from behind the "We the People" wallpaper, and giving Francesca a wad of cash and an unidentified business card. He left the office empty. Francesca continued to shred documents for a while after his departure. When the police arrived, they found nothing.

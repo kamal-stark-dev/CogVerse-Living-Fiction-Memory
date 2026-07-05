@@ -1,0 +1,29 @@
+document_type: location
+primary_entity: Los Pollos Hermanos
+related_entities:
+  - Gustavo Fring
+  - Mike Ehrmantraut
+  - Walter White
+  - Jesse Pinkman
+  - Hank Schrader
+  - Lydia Rodarte-Quayle
+  - Madrigal Electromotive GmbH
+  - Gale Boetticher
+  - Lyle
+  - Cynthia
+  - Blue Sky
+  - The Superlab
+timeline_range: 1986–2009 (franchise operation)
+canonical_source: breakingbad.fandom.com
+
+Los Pollos Hermanos — "The Chicken Brothers" — was a highly successful fast-food fried chicken restaurant chain co-founded by Gustavo Fring and his partner Maximino Arciniega in the mid-1980s. The franchise operated locations across the American Southwest with its flagship restaurant in Albuquerque, New Mexico, along with a chicken farm and distribution center on the outskirts of the city. Los Pollos Hermanos was a subsidiary of Madrigal Electromotive GmbH, a German multinational conglomerate.
+
+The restaurant was Gus Fring's most important tool for concealment. It was a legitimate, thriving business that generated real income, provided him with a credible public identity as a successful entrepreneur and civic booster, and — most crucially — supplied the logistics infrastructure for his drug distribution network. Blue Sky methamphetamine was transported in bags of frozen fry batter shipped through Los Pollos Hermanos refrigerated trucks, identifiable under ultraviolet light by a star watermark. The operation moved hundreds of pounds per week across the Southwest.
+
+Gus used the restaurant's public legitimacy to establish relationships with law enforcement that protected him from suspicion. He was a major donor to the DEA's Albuquerque office charity events, a hospital board member, and a visible community figure. When DEA agent Hank Schrader found a Los Pollos napkin in Gale Boetticher's apartment and began connecting Gus to the blue meth operation, his superiors dismissed the theory — Gus had cultivated exactly the kind of public trust that made the accusation sound absurd.
+
+Walt first met Gus at the Los Pollos Hermanos flagship location, having deduced that the amiable restaurant manager was Saul's mysterious high-end distributor. The restaurant served as the neutral ground for some of the most tense negotiations in the series — Gus meeting Walt, Gus dropping his facade, Gus and Mike discussing cartel strategy over chicken and iced tea.
+
+After Gus's death, Los Pollos Hermanos was shut down as part of the federal investigation into his criminal empire. The franchise's corporate parent Madrigal Electromotive became the subject of international scrutiny. The restaurant — its cheerful decor, its bright logo of two cartoon chickens — became retroactively famous as the front for the most successful drug distribution operation in American history.
+
+In Better Call Saul, Los Pollos Hermanos is also where Gus first demonstrated his awareness of Mike Ehrmantraut's counter-surveillance operation, casually retrieving a watch Jimmy McGill had supposedly lost while actually casing the restaurant. The exchange confirmed that Gus was always several steps ahead of whoever was watching him.

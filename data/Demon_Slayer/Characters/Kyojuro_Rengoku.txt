@@ -1,0 +1,14 @@
+source_file: data/Demon_Slayer/Characters/Kyojuro_Rengoku.txt
+document_type: character
+primary_entity: Kyojuro Rengoku
+related_entities:
+- Tanjiro Kamado
+- Akaza
+- Demon Slayer Corps
+- Hashira
+- Flame Breathing
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+Kyojuro Rengoku was the Flame Hashira and a highly respected leader within the Demon Slayer Corps. Known for his unwavering optimism, booming voice, and distinct flame-patterned hair and haori, he followed a strict moral code instilled in him by his mother to protect the weak. Kyojuro Rengoku was a master of Flame Breathing, a combat style passed down through the Rengoku family for generations.
+
+## During the Mugen Train mission, Kyojuro Rengoku sacrificed his life to protect the passengers and his fellow slayers, Tanjiro Kamado, Zenitsu Agatsuma, and Inosuke Hashibira, during his desperate battle against the Upper Rank Three demon, Akaza. His death served as a profound turning point in the war against demons, motivating Tanjiro Kamado and his friends to grow stronger and continue the fight against Muzan Kibutsuji.

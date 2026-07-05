@@ -1,0 +1,26 @@
+document_type: event
+primary_entity: Hank Schrader Discovers That Walt Is Heisenberg
+related_entities:
+  - Hank Schrader
+  - Walter White
+  - Skyler White
+  - Marie Schrader
+  - Jesse Pinkman
+  - Gale Boetticher
+  - Walt Whitman
+  - White Residence
+  - Albuquerque
+timeline_range: Early 2010 (Hank's discovery); immediately follows "Gliding Over All"
+canonical_source: breakingbad.fandom.com
+
+The discovery of Walter White's identity as Heisenberg by his brother-in-law Hank Schrader was one of the most ironic and devastatingly constructed revelations in television history. For two seasons, Hank had been closing in on Heisenberg from every direction — linking the blue meth to a specific cook, tracing Gale Boetticher's murder, connecting Los Pollos Hermanos to the distribution network — while the answer sat at his own family dinner table, watching television and eating potato chips.
+
+The discovery occurred in the most mundane possible way. During a family barbecue at the White house, Hank excused himself to the bathroom. Bored, he reached for reading material and found a copy of Walt Whitman's Leaves of Grass sitting on the back of the toilet. He opened the front cover. There was an inscription in a familiar handwriting: "To my other favorite W.W. It's an honour working with you. Fondly, G.B."
+
+The handwriting was Gale Boetticher's. Hank had seen it on the lab notes from Gale's murder case. The "W.W." initials had been a question he had never resolved — Walt had jokingly suggested they stood for "Walt Whitman" months earlier, and Hank had moved on. Now, with the book in his hands, the pieces locked into place. W.W. was Walter White. The man Hank had been hunting for over a year had signed the lab notes in Gale's apartment as his colleague and inspiration.
+
+Hank's confrontation with Walt in his garage shortly afterward was one of the series' most electric scenes. Hank locked the garage door, told Walt he knew everything, and punched him in the face. Walt, seemingly defeated, revealed his cancer had returned and suggested that Hank should let it go — that a dying man would be dead within six months anyway. When Hank refused, Walt's demeanor transformed: "If that's true, if you don't know who I am, then maybe your best course would be to tread lightly."
+
+The confrontation set the final season's plot in motion: Hank and Jesse working together against Walt, the fabricated confession tape Walt produced to implicate Hank as Heisenberg, the trap at Tohajiilee, and ultimately Hank's death at Jack Welker's hands. Everything that followed was a consequence of Hank sitting on a toilet and reaching for reading material.
+
+The Leaves of Grass incident has become iconic as a symbol of how Walt's ego — his pride in his own genius, his unwillingness to be anonymous, his inability to resist a reference to his intellectual kinship with Gale — was his undoing. He kept the book. He left it where it could be found. It was, as so many of Walt's mistakes were, a cry to be known.

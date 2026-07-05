@@ -1,0 +1,25 @@
+document_type: location
+primary_entity: Tohajiilee Indian Reservation — Walt's Money Burial Site
+related_entities:
+  - Walter White
+  - Hank Schrader
+  - Steven Gomez
+  - Jesse Pinkman
+  - Jack Welker
+  - Todd Alquist
+  - Blue Sky
+  - White Residence
+timeline_range: 2009–2010
+canonical_source: breakingbad.fandom.com
+
+The Tohajiilee Indian Reservation desert in New Mexico was the site where Walter White buried approximately $80 million in drug proceeds in eight large barrels, and also the site of the most catastrophic convergence of Walt's lies and choices in the entire series. This vast, remote stretch of desert — chosen precisely because it was trackless, federal land difficult for law enforcement to surveil systematically — became both Walt's treasure vault and the location of Hank Schrader's death.
+
+Walt chose Tohajiilee as his burial site because the Reservation's federal status and remoteness offered maximum concealment. He navigated to the precise coordinates using a lottery ticket — a mundane domestic object — on which he had written the GPS coordinates. The lottery ticket became one of the series' most symbolic props: the mundane container for criminal geography.
+
+The confrontation at Tohajiilee followed Jesse and Hank's elaborate deception: they sent Walt a photograph of a barrel of cash in sand, then Jesse called Walt claiming to have found the burial site and threatening to burn the money unless Walt came immediately. Walt panicked, drove to the reservation while confessing on the phone to everything he had done — in what he believed was a final private communication — and arrived to find not Jesse but Hank and Gomez waiting for him with handcuffs.
+
+Hank placed Walt under arrest. For a brief moment, the law had won. Then Jack Welker's gang arrived, responding to a location Walt had phoned in during his panicked drive. Walt had tried to cancel the order, but Jack had been too close to stop. What followed was a gunfight that killed Gomez, left Hank executed on his knees, and left Walt on the ground sobbing in the dirt next to a man he had gotten killed through his own desperate phone call.
+
+The desert is also where Walt's first cook took place in the RV — a fact Jesse notes poignantly as Hank is placing Walt in handcuffs: "Yo, I remember this place. This is the very first place we cooked, like, ever." The geography of the series circles back on itself: where Blue Sky began is where the empire ended.
+
+Skyler later used the GPS coordinates Walt had given her — still on that lottery ticket — as leverage with federal prosecutors. The bodies of Hank and Gomez were exhumed. The coordinates served Walt's last attempt to provide for his family and atone for what he had done.
