@@ -23,6 +23,14 @@ async def test():
     )
     print(response)
 
+    # raw = await cognee.search(
+    #     query_type=SearchType.GRAPH_COMPLETION,
+    #     query_text="Tony Stark",
+    #     datasets=["MCU"],
+    #     only_context=True,
+    # )
+    # print(type(raw), raw)
+
     await shutdown_cognee()
 
 asyncio.run(test())
