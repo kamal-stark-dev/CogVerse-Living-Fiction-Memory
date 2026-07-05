@@ -2,6 +2,8 @@ import { useState, useRef, useEffect } from "react";
 import MemoryTrace from "./MemoryTrace";
 import Avatar from "./Avatar";
 import BridgePanel from "./BridgePanel";
+import RelationshipGraph from "./RelationshipGraph";
+import { suggestedQuestions } from "../utils/suggestions";
 
 export default function ChatThread({
   speaker,
@@ -19,7 +21,12 @@ export default function ChatThread({
   onReferenceQueryChange,
 }) {
   const [input, setInput] = useState("");
+  const [showGraph, setShowGraph] = useState(false);
   const bottomRef = useRef(null);
+
+  useEffect(() => {
+    setShowGraph(false);
+  }, [speaker, speakerUniverse]);
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: "smooth" });
@@ -45,6 +52,13 @@ export default function ChatThread({
                 {speakerUniverse?.replace(/_/g, " ")}
               </span>
             </div>
+            <button
+              type="button"
+              className="graph-toggle"
+              onClick={() => setShowGraph((v) => !v)}
+            >
+              🕸 {showGraph ? "Hide" : "View"} memory graph
+            </button>
           </div>
         ) : (
           <span className="chat-placeholder">
@@ -53,7 +67,29 @@ export default function ChatThread({
         )}
       </div>
 
+      {showGraph && speaker && (
+        <RelationshipGraph universe={speakerUniverse} character={speaker} />
+      )}
+
       <div className="chat-thread">
+        {speaker && messages.length === 0 && !loading && (
+          <div className="empty-state">
+            <Avatar universe={speakerUniverse} character={speaker} size={64} />
+            <p className="empty-state-title">Ask {speaker} anything, or try:</p>
+            <div className="empty-state-chips">
+              {suggestedQuestions(speaker).map((q) => (
+                <button
+                  key={q}
+                  type="button"
+                  className="empty-state-chip"
+                  onClick={() => onSend(q)}
+                >
+                  {q}
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
         {messages.map((m, i) => (
           <div key={i} className={`bubble ${m.role}`}>
             <div className="bubble-content">{m.content}</div>
