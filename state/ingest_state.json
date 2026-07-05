@@ -1,0 +1,1304 @@
+{
+    "Test_Universe": {
+        "Characters/Black_Widow.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T08:22:29",
+            "document_type": "Character",
+            "entity_name": "Black_Widow",
+            "relative_path": "Characters/Black_Widow.txt"
+        },
+        "Characters/Captain_America.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T08:22:47",
+            "document_type": "Character",
+            "entity_name": "Captain_America",
+            "relative_path": "Characters/Captain_America.txt"
+        },
+        "Characters/Hulk.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T08:23:05",
+            "document_type": "Character",
+            "entity_name": "Hulk",
+            "relative_path": "Characters/Hulk.txt"
+        },
+        "Characters/Iron_Man.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T08:23:22",
+            "document_type": "Character",
+            "entity_name": "Iron_Man",
+            "relative_path": "Characters/Iron_Man.txt"
+        },
+        "Characters/Spider_Man.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T08:23:42",
+            "document_type": "Character",
+            "entity_name": "Spider_Man",
+            "relative_path": "Characters/Spider_Man.txt"
+        },
+        "Events/Avengers_Civil_War.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T08:24:02",
+            "document_type": "Event",
+            "entity_name": "Avengers_Civil_War",
+            "relative_path": "Events/Avengers_Civil_War.txt"
+        },
+        "Events/Endgame_Final_Battle.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T08:24:20",
+            "document_type": "Event",
+            "entity_name": "Endgame_Final_Battle",
+            "relative_path": "Events/Endgame_Final_Battle.txt"
+        },
+        "Locations/Asgard.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T08:24:38",
+            "document_type": "Location",
+            "entity_name": "Asgard",
+            "relative_path": "Locations/Asgard.txt"
+        },
+        "Locations/Stark_Tower.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T08:24:54",
+            "document_type": "Location",
+            "entity_name": "Stark_Tower",
+            "relative_path": "Locations/Stark_Tower.txt"
+        },
+        "Locations/Wakanda.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T08:25:14",
+            "document_type": "Location",
+            "entity_name": "Wakanda",
+            "relative_path": "Locations/Wakanda.txt"
+        },
+        "MCU.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T08:25:33",
+            "document_type": "Test_Universe",
+            "entity_name": "MCU",
+            "relative_path": "MCU.txt"
+        },
+        "Objects/Arc_Reactor.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T08:25:52",
+            "document_type": "Object",
+            "entity_name": "Arc_Reactor",
+            "relative_path": "Objects/Arc_Reactor.txt"
+        },
+        "Objects/Infinity_Stones.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T08:26:11",
+            "document_type": "Object",
+            "entity_name": "Infinity_Stones",
+            "relative_path": "Objects/Infinity_Stones.txt"
+        },
+        "Characters\\Black_Widow.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T20:56:00",
+            "document_type": "Character",
+            "entity_name": "Black_Widow",
+            "relative_path": "Characters\\Black_Widow.txt"
+        },
+        "Characters\\Captain_America.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T20:56:19",
+            "document_type": "Character",
+            "entity_name": "Captain_America",
+            "relative_path": "Characters\\Captain_America.txt"
+        },
+        "Characters\\Hulk.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T20:56:46",
+            "document_type": "Character",
+            "entity_name": "Hulk",
+            "relative_path": "Characters\\Hulk.txt"
+        },
+        "Characters\\Iron_Man.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T20:57:12",
+            "document_type": "Character",
+            "entity_name": "Iron_Man",
+            "relative_path": "Characters\\Iron_Man.txt"
+        },
+        "Characters\\Spider_Man.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T20:57:34",
+            "document_type": "Character",
+            "entity_name": "Spider_Man",
+            "relative_path": "Characters\\Spider_Man.txt"
+        },
+        "Events\\Avengers_Civil_War.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T20:57:56",
+            "document_type": "Event",
+            "entity_name": "Avengers_Civil_War",
+            "relative_path": "Events\\Avengers_Civil_War.txt"
+        },
+        "Events\\Endgame_Final_Battle.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T20:58:35",
+            "document_type": "Event",
+            "entity_name": "Endgame_Final_Battle",
+            "relative_path": "Events\\Endgame_Final_Battle.txt"
+        },
+        "Locations\\Asgard.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T20:58:52",
+            "document_type": "Location",
+            "entity_name": "Asgard",
+            "relative_path": "Locations\\Asgard.txt"
+        },
+        "Locations\\Stark_Tower.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T20:59:07",
+            "document_type": "Location",
+            "entity_name": "Stark_Tower",
+            "relative_path": "Locations\\Stark_Tower.txt"
+        },
+        "Locations\\Wakanda.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T20:59:26",
+            "document_type": "Location",
+            "entity_name": "Wakanda",
+            "relative_path": "Locations\\Wakanda.txt"
+        },
+        "Objects\\Arc_Reactor.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T20:59:42",
+            "document_type": "Object",
+            "entity_name": "Arc_Reactor",
+            "relative_path": "Objects\\Arc_Reactor.txt"
+        },
+        "Objects\\Infinity_Stones.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:00:02",
+            "document_type": "Object",
+            "entity_name": "Infinity_Stones",
+            "relative_path": "Objects\\Infinity_Stones.txt"
+        }
+    },
+    "Harry_Potter": {
+        "Characters\\Albus_Dumbledore.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:04:43",
+            "document_type": "Character",
+            "entity_name": "Albus_Dumbledore",
+            "relative_path": "Characters\\Albus_Dumbledore.txt"
+        },
+        "Characters\\Dobby.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:05:25",
+            "document_type": "Character",
+            "entity_name": "Dobby",
+            "relative_path": "Characters\\Dobby.txt"
+        },
+        "Characters\\Draco_Malfoy.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:06:32",
+            "document_type": "Character",
+            "entity_name": "Draco_Malfoy",
+            "relative_path": "Characters\\Draco_Malfoy.txt"
+        },
+        "Characters\\Harry_Potter.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:07:23",
+            "document_type": "Character",
+            "entity_name": "Harry_Potter",
+            "relative_path": "Characters\\Harry_Potter.txt"
+        },
+        "Characters\\Hermione_Granger.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:08:55",
+            "document_type": "Character",
+            "entity_name": "Hermione_Granger",
+            "relative_path": "Characters\\Hermione_Granger.txt"
+        },
+        "Characters\\Luna_Lovegood.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:09:42",
+            "document_type": "Character",
+            "entity_name": "Luna_Lovegood",
+            "relative_path": "Characters\\Luna_Lovegood.txt"
+        },
+        "Characters\\Ronald_Weasley.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:10:43",
+            "document_type": "Character",
+            "entity_name": "Ronald_Weasley",
+            "relative_path": "Characters\\Ronald_Weasley.txt"
+        },
+        "Characters\\Severus_Snape.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:11:27",
+            "document_type": "Character",
+            "entity_name": "Severus_Snape",
+            "relative_path": "Characters\\Severus_Snape.txt"
+        },
+        "Characters\\Voldemort.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:12:17",
+            "document_type": "Character",
+            "entity_name": "Voldemort",
+            "relative_path": "Characters\\Voldemort.txt"
+        },
+        "Events_Movies\\1_Harry_Potter_and_the_Philosophers_Stone.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:13:22",
+            "document_type": "Events_Movie",
+            "entity_name": "1_Harry_Potter_and_the_Philosophers_Stone",
+            "relative_path": "Events_Movies\\1_Harry_Potter_and_the_Philosophers_Stone.txt"
+        },
+        "Events_Movies\\2_Harry_Potter_and_the_Chamber_of_Secrets.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:14:18",
+            "document_type": "Events_Movie",
+            "entity_name": "2_Harry_Potter_and_the_Chamber_of_Secrets",
+            "relative_path": "Events_Movies\\2_Harry_Potter_and_the_Chamber_of_Secrets.txt"
+        },
+        "Events_Movies\\3_Harry_Potter_and_the_Prisoner_of_Azkaban.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:15:11",
+            "document_type": "Events_Movie",
+            "entity_name": "3_Harry_Potter_and_the_Prisoner_of_Azkaban",
+            "relative_path": "Events_Movies\\3_Harry_Potter_and_the_Prisoner_of_Azkaban.txt"
+        },
+        "Events_Movies\\4_Harry_Potter_and_the_Goblet_of_Fire.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:16:04",
+            "document_type": "Events_Movie",
+            "entity_name": "4_Harry_Potter_and_the_Goblet_of_Fire",
+            "relative_path": "Events_Movies\\4_Harry_Potter_and_the_Goblet_of_Fire.txt"
+        },
+        "Events_Movies\\5_Harry_Potter_and_the_Order_of_the_Phoenix.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:17:12",
+            "document_type": "Events_Movie",
+            "entity_name": "5_Harry_Potter_and_the_Order_of_the_Phoenix",
+            "relative_path": "Events_Movies\\5_Harry_Potter_and_the_Order_of_the_Phoenix.txt"
+        },
+        "Events_Movies\\6_Harry_Potter_and_the_Half_Blood_Prince.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:17:58",
+            "document_type": "Events_Movie",
+            "entity_name": "6_Harry_Potter_and_the_Half_Blood_Prince",
+            "relative_path": "Events_Movies\\6_Harry_Potter_and_the_Half_Blood_Prince.txt"
+        },
+        "Events_Movies\\7_Harry_Potter_and_the_Deathly_Hallows_Part_1.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:19:46",
+            "document_type": "Events_Movie",
+            "entity_name": "7_Harry_Potter_and_the_Deathly_Hallows_Part_1",
+            "relative_path": "Events_Movies\\7_Harry_Potter_and_the_Deathly_Hallows_Part_1.txt"
+        },
+        "Events_Movies\\8_Harry_Potter_and_the_Deathly_Hallows_Part_2.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T21:20:55",
+            "document_type": "Events_Movie",
+            "entity_name": "8_Harry_Potter_and_the_Deathly_Hallows_Part_2",
+            "relative_path": "Events_Movies\\8_Harry_Potter_and_the_Deathly_Hallows_Part_2.txt"
+        }
+    },
+    "Kung_Fu_Panda": {
+        "Characters\\Kai.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:10:09",
+            "document_type": "Character",
+            "entity_name": "Kai",
+            "relative_path": "Characters\\Kai.txt"
+        },
+        "Characters\\Li_Shan.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:10:37",
+            "document_type": "Character",
+            "entity_name": "Li_Shan",
+            "relative_path": "Characters\\Li_Shan.txt"
+        },
+        "Characters\\Lord_Shen.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:11:06",
+            "document_type": "Character",
+            "entity_name": "Lord_Shen",
+            "relative_path": "Characters\\Lord_Shen.txt"
+        },
+        "Characters\\Master_Crane.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:11:44",
+            "document_type": "Character",
+            "entity_name": "Master_Crane",
+            "relative_path": "Characters\\Master_Crane.txt"
+        },
+        "Characters\\Master_Mantis.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:12:05",
+            "document_type": "Character",
+            "entity_name": "Master_Mantis",
+            "relative_path": "Characters\\Master_Mantis.txt"
+        },
+        "Characters\\Master_Monkey.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:12:29",
+            "document_type": "Character",
+            "entity_name": "Master_Monkey",
+            "relative_path": "Characters\\Master_Monkey.txt"
+        },
+        "Characters\\Master_Shifu.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:12:54",
+            "document_type": "Character",
+            "entity_name": "Master_Shifu",
+            "relative_path": "Characters\\Master_Shifu.txt"
+        },
+        "Characters\\Master_Tigress.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:13:33",
+            "document_type": "Character",
+            "entity_name": "Master_Tigress",
+            "relative_path": "Characters\\Master_Tigress.txt"
+        },
+        "Characters\\Master_Viper.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:14:12",
+            "document_type": "Character",
+            "entity_name": "Master_Viper",
+            "relative_path": "Characters\\Master_Viper.txt"
+        },
+        "Characters\\Mr_Ping.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:14:40",
+            "document_type": "Character",
+            "entity_name": "Mr_Ping",
+            "relative_path": "Characters\\Mr_Ping.txt"
+        },
+        "Characters\\Oogway.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:15:09",
+            "document_type": "Character",
+            "entity_name": "Oogway",
+            "relative_path": "Characters\\Oogway.txt"
+        },
+        "Characters\\Po.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:15:47",
+            "document_type": "Character",
+            "entity_name": "Po",
+            "relative_path": "Characters\\Po.txt"
+        },
+        "Characters\\Tai_Lung.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:16:09",
+            "document_type": "Character",
+            "entity_name": "Tai_Lung",
+            "relative_path": "Characters\\Tai_Lung.txt"
+        },
+        "Characters\\Zhen.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:16:42",
+            "document_type": "Character",
+            "entity_name": "Zhen",
+            "relative_path": "Characters\\Zhen.txt"
+        },
+        "Events\\Battle_between_Oogway_and_Kai.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:17:24",
+            "document_type": "Event",
+            "entity_name": "Battle_between_Oogway_and_Kai",
+            "relative_path": "Events\\Battle_between_Oogway_and_Kai.txt"
+        },
+        "Events\\Battle_between_Po_and_Tai_Lung.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:17:43",
+            "document_type": "Event",
+            "entity_name": "Battle_between_Po_and_Tai_Lung",
+            "relative_path": "Events\\Battle_between_Po_and_Tai_Lung.txt"
+        },
+        "Events\\Battle_between_Shifu_and_Tai_Lung.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:18:01",
+            "document_type": "Event",
+            "entity_name": "Battle_between_Shifu_and_Tai_Lung",
+            "relative_path": "Events\\Battle_between_Shifu_and_Tai_Lung.txt"
+        },
+        "Events\\Battle_of_Chorh_Gom_Prison.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:18:47",
+            "document_type": "Event",
+            "entity_name": "Battle_of_Chorh_Gom_Prison",
+            "relative_path": "Events\\Battle_of_Chorh_Gom_Prison.txt"
+        },
+        "Events\\Battle_of_the_Jade_Palace.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:19:14",
+            "document_type": "Event",
+            "entity_name": "Battle_of_the_Jade_Palace",
+            "relative_path": "Events\\Battle_of_the_Jade_Palace.txt"
+        },
+        "Events\\Destruction_of_the_Jade_Palace.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:19:38",
+            "document_type": "Event",
+            "entity_name": "Destruction_of_the_Jade_Palace",
+            "relative_path": "Events\\Destruction_of_the_Jade_Palace.txt"
+        },
+        "Events\\Kai_Conquest.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:20:06",
+            "document_type": "Event",
+            "entity_name": "Kai_Conquest",
+            "relative_path": "Events\\Kai_Conquest.txt"
+        },
+        "Events\\Massacre_of_the_Pandas.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:20:31",
+            "document_type": "Event",
+            "entity_name": "Massacre_of_the_Pandas",
+            "relative_path": "Events\\Massacre_of_the_Pandas.txt"
+        },
+        "Kung_Fu_Panda_Universe.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:21:14",
+            "document_type": "Kung_Fu_Panda",
+            "entity_name": "Kung_Fu_Panda_Universe",
+            "relative_path": "Kung_Fu_Panda_Universe.txt"
+        },
+        "Locations\\Chorh_Gom_Prison.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:21:36",
+            "document_type": "Location",
+            "entity_name": "Chorh_Gom_Prison",
+            "relative_path": "Locations\\Chorh_Gom_Prison.txt"
+        },
+        "Locations\\Gongmen_City.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:22:13",
+            "document_type": "Location",
+            "entity_name": "Gongmen_City",
+            "relative_path": "Locations\\Gongmen_City.txt"
+        },
+        "Locations\\Jade_Palace.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:22:49",
+            "document_type": "Location",
+            "entity_name": "Jade_Palace",
+            "relative_path": "Locations\\Jade_Palace.txt"
+        },
+        "Locations\\Juniper_City.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:23:31",
+            "document_type": "Location",
+            "entity_name": "Juniper_City",
+            "relative_path": "Locations\\Juniper_City.txt"
+        },
+        "Locations\\Noodles_Shop.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:24:07",
+            "document_type": "Location",
+            "entity_name": "Noodles_Shop",
+            "relative_path": "Locations\\Noodles_Shop.txt"
+        },
+        "Locations\\Old_Panda_Village.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:24:31",
+            "document_type": "Location",
+            "entity_name": "Old_Panda_Village",
+            "relative_path": "Locations\\Old_Panda_Village.txt"
+        },
+        "Locations\\Panda_Village.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:25:03",
+            "document_type": "Location",
+            "entity_name": "Panda_Village",
+            "relative_path": "Locations\\Panda_Village.txt"
+        },
+        "Locations\\Valley_of_Peace.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:25:32",
+            "document_type": "Location",
+            "entity_name": "Valley_of_Peace",
+            "relative_path": "Locations\\Valley_of_Peace.txt"
+        },
+        "Objects\\Kai_Jade_Swords.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:25:47",
+            "document_type": "Object",
+            "entity_name": "Kai_Jade_Swords",
+            "relative_path": "Objects\\Kai_Jade_Swords.txt"
+        },
+        "Objects\\Staff_of_Wisdom.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:26:07",
+            "document_type": "Object",
+            "entity_name": "Staff_of_Wisdom",
+            "relative_path": "Objects\\Staff_of_Wisdom.txt"
+        },
+        "Objects\\Urn_of_Whispering_Warriors.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:26:44",
+            "document_type": "Object",
+            "entity_name": "Urn_of_Whispering_Warriors",
+            "relative_path": "Objects\\Urn_of_Whispering_Warriors.txt"
+        }
+    },
+    "MCU": {
+        "Characters\\Black_Panther.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:31:39",
+            "document_type": "Character",
+            "entity_name": "Black_Panther",
+            "relative_path": "Characters\\Black_Panther.txt"
+        },
+        "Characters\\Black_Widow.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:31:57",
+            "document_type": "Character",
+            "entity_name": "Black_Widow",
+            "relative_path": "Characters\\Black_Widow.txt"
+        },
+        "Characters\\Captain_America.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:32:21",
+            "document_type": "Character",
+            "entity_name": "Captain_America",
+            "relative_path": "Characters\\Captain_America.txt"
+        },
+        "Characters\\Doctor_Strange.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:32:43",
+            "document_type": "Character",
+            "entity_name": "Doctor_Strange",
+            "relative_path": "Characters\\Doctor_Strange.txt"
+        },
+        "Characters\\Hawkeye.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:33:06",
+            "document_type": "Character",
+            "entity_name": "Hawkeye",
+            "relative_path": "Characters\\Hawkeye.txt"
+        },
+        "Characters\\Hulk.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:33:27",
+            "document_type": "Character",
+            "entity_name": "Hulk",
+            "relative_path": "Characters\\Hulk.txt"
+        },
+        "Characters\\Iron_Man.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:33:44",
+            "document_type": "Character",
+            "entity_name": "Iron_Man",
+            "relative_path": "Characters\\Iron_Man.txt"
+        },
+        "Characters\\Loki.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:34:09",
+            "document_type": "Character",
+            "entity_name": "Loki",
+            "relative_path": "Characters\\Loki.txt"
+        },
+        "Characters\\Nick_Fury.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:34:24",
+            "document_type": "Character",
+            "entity_name": "Nick_Fury",
+            "relative_path": "Characters\\Nick_Fury.txt"
+        },
+        "Characters\\Spider_Man.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:34:59",
+            "document_type": "Character",
+            "entity_name": "Spider_Man",
+            "relative_path": "Characters\\Spider_Man.txt"
+        },
+        "Characters\\Thanos.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:35:22",
+            "document_type": "Character",
+            "entity_name": "Thanos",
+            "relative_path": "Characters\\Thanos.txt"
+        },
+        "Characters\\Thor.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:35:41",
+            "document_type": "Character",
+            "entity_name": "Thor",
+            "relative_path": "Characters\\Thor.txt"
+        },
+        "Events\\Avengers_Civil_War.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:36:05",
+            "document_type": "Event",
+            "entity_name": "Avengers_Civil_War",
+            "relative_path": "Events\\Avengers_Civil_War.txt"
+        },
+        "Events\\Battle_of_Earth.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:36:25",
+            "document_type": "Event",
+            "entity_name": "Battle_of_Earth",
+            "relative_path": "Events\\Battle_of_Earth.txt"
+        },
+        "Events\\Battle_of_New_York.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:36:46",
+            "document_type": "Event",
+            "entity_name": "Battle_of_New_York",
+            "relative_path": "Events\\Battle_of_New_York.txt"
+        },
+        "Events\\Battle_of_Sokovia.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:37:11",
+            "document_type": "Event",
+            "entity_name": "Battle_of_Sokovia",
+            "relative_path": "Events\\Battle_of_Sokovia.txt"
+        },
+        "Events\\Battle_of_Wakanda.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:37:37",
+            "document_type": "Event",
+            "entity_name": "Battle_of_Wakanda",
+            "relative_path": "Events\\Battle_of_Wakanda.txt"
+        },
+        "Events\\Endgame_Final_Battle.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:38:06",
+            "document_type": "Event",
+            "entity_name": "Endgame_Final_Battle",
+            "relative_path": "Events\\Endgame_Final_Battle.txt"
+        },
+        "Events\\Hydra_Uprising.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:38:29",
+            "document_type": "Event",
+            "entity_name": "Hydra_Uprising",
+            "relative_path": "Events\\Hydra_Uprising.txt"
+        },
+        "Events\\Infinity_War.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:38:49",
+            "document_type": "Event",
+            "entity_name": "Infinity_War",
+            "relative_path": "Events\\Infinity_War.txt"
+        },
+        "Events\\Sokovia_Accords.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:39:05",
+            "document_type": "Event",
+            "entity_name": "Sokovia_Accords",
+            "relative_path": "Events\\Sokovia_Accords.txt"
+        },
+        "Events\\The_Blip.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:39:23",
+            "document_type": "Event",
+            "entity_name": "The_Blip",
+            "relative_path": "Events\\The_Blip.txt"
+        },
+        "Events\\The_Snap.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:39:42",
+            "document_type": "Event",
+            "entity_name": "The_Snap",
+            "relative_path": "Events\\The_Snap.txt"
+        },
+        "Locations\\Asgard.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:39:57",
+            "document_type": "Location",
+            "entity_name": "Asgard",
+            "relative_path": "Locations\\Asgard.txt"
+        },
+        "Locations\\Avengers_Compound.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:40:10",
+            "document_type": "Location",
+            "entity_name": "Avengers_Compound",
+            "relative_path": "Locations\\Avengers_Compound.txt"
+        },
+        "Locations\\New_York_City.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:40:27",
+            "document_type": "Location",
+            "entity_name": "New_York_City",
+            "relative_path": "Locations\\New_York_City.txt"
+        },
+        "Locations\\Sakaar.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:40:43",
+            "document_type": "Location",
+            "entity_name": "Sakaar",
+            "relative_path": "Locations\\Sakaar.txt"
+        },
+        "Locations\\Stark_Tower.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:41:02",
+            "document_type": "Location",
+            "entity_name": "Stark_Tower",
+            "relative_path": "Locations\\Stark_Tower.txt"
+        },
+        "Locations\\Titan.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:41:14",
+            "document_type": "Location",
+            "entity_name": "Titan",
+            "relative_path": "Locations\\Titan.txt"
+        },
+        "Locations\\Vormir.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:41:28",
+            "document_type": "Location",
+            "entity_name": "Vormir",
+            "relative_path": "Locations\\Vormir.txt"
+        },
+        "Locations\\Wakanda.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:41:44",
+            "document_type": "Location",
+            "entity_name": "Wakanda",
+            "relative_path": "Locations\\Wakanda.txt"
+        },
+        "MCU.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:42:00",
+            "document_type": "MCU",
+            "entity_name": "MCU",
+            "relative_path": "MCU.txt"
+        },
+        "Objects\\Arc_Reactor.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:42:14",
+            "document_type": "Object",
+            "entity_name": "Arc_Reactor",
+            "relative_path": "Objects\\Arc_Reactor.txt"
+        },
+        "Objects\\Captain_Americas_Shield.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:42:26",
+            "document_type": "Object",
+            "entity_name": "Captain_Americas_Shield",
+            "relative_path": "Objects\\Captain_Americas_Shield.txt"
+        },
+        "Objects\\Eye_of_Agamotto.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:42:40",
+            "document_type": "Object",
+            "entity_name": "Eye_of_Agamotto",
+            "relative_path": "Objects\\Eye_of_Agamotto.txt"
+        },
+        "Objects\\Infinity_Gauntlet.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:42:52",
+            "document_type": "Object",
+            "entity_name": "Infinity_Gauntlet",
+            "relative_path": "Objects\\Infinity_Gauntlet.txt"
+        },
+        "Objects\\Infinity_Stones.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:43:10",
+            "document_type": "Object",
+            "entity_name": "Infinity_Stones",
+            "relative_path": "Objects\\Infinity_Stones.txt"
+        },
+        "Objects\\Lokis_Scepter.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:43:24",
+            "document_type": "Object",
+            "entity_name": "Lokis_Scepter",
+            "relative_path": "Objects\\Lokis_Scepter.txt"
+        },
+        "Objects\\Mjolnir.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:43:36",
+            "document_type": "Object",
+            "entity_name": "Mjolnir",
+            "relative_path": "Objects\\Mjolnir.txt"
+        },
+        "Objects\\Nano_Gauntlet.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:43:49",
+            "document_type": "Object",
+            "entity_name": "Nano_Gauntlet",
+            "relative_path": "Objects\\Nano_Gauntlet.txt"
+        },
+        "Objects\\Stormbreaker.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:44:06",
+            "document_type": "Object",
+            "entity_name": "Stormbreaker",
+            "relative_path": "Objects\\Stormbreaker.txt"
+        },
+        "Objects\\Tesseract.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-04T22:44:19",
+            "document_type": "Object",
+            "entity_name": "Tesseract",
+            "relative_path": "Objects\\Tesseract.txt"
+        }
+    },
+    "Breaking_Bad": {
+        "Breaking_Bad_Universe.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:38:27",
+            "document_type": "Breaking_Bad",
+            "entity_name": "Breaking_Bad_Universe",
+            "relative_path": "Breaking_Bad_Universe.txt"
+        },
+        "Characters/Gustavo_Fring.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:39:00",
+            "document_type": "Character",
+            "entity_name": "Gustavo_Fring",
+            "relative_path": "Characters/Gustavo_Fring.txt"
+        },
+        "Characters/Hank_Schrader.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:39:19",
+            "document_type": "Character",
+            "entity_name": "Hank_Schrader",
+            "relative_path": "Characters/Hank_Schrader.txt"
+        },
+        "Characters/Jesse_Pinkman.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:39:48",
+            "document_type": "Character",
+            "entity_name": "Jesse_Pinkman",
+            "relative_path": "Characters/Jesse_Pinkman.txt"
+        },
+        "Characters/Mike_Ehrmantraut.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:40:09",
+            "document_type": "Character",
+            "entity_name": "Mike_Ehrmantraut",
+            "relative_path": "Characters/Mike_Ehrmantraut.txt"
+        },
+        "Characters/Saul_Goodman.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:40:30",
+            "document_type": "Character",
+            "entity_name": "Saul_Goodman",
+            "relative_path": "Characters/Saul_Goodman.txt"
+        },
+        "Characters/Skyler_White.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:40:44",
+            "document_type": "Character",
+            "entity_name": "Skyler_White",
+            "relative_path": "Characters/Skyler_White.txt"
+        },
+        "Characters/Todd_Alquist.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:41:06",
+            "document_type": "Character",
+            "entity_name": "Todd_Alquist",
+            "relative_path": "Characters/Todd_Alquist.txt"
+        },
+        "Characters/Tuco_Salamanca.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:41:28",
+            "document_type": "Character",
+            "entity_name": "Tuco_Salamanca",
+            "relative_path": "Characters/Tuco_Salamanca.txt"
+        },
+        "Characters/Walter_White.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:41:52",
+            "document_type": "Character",
+            "entity_name": "Walter_White",
+            "relative_path": "Characters/Walter_White.txt"
+        },
+        "Drugs/Blue_Sky.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:42:17",
+            "document_type": "Drug",
+            "entity_name": "Blue_Sky",
+            "relative_path": "Drugs/Blue_Sky.txt"
+        },
+        "Drugs/Methamphetamine.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:42:39",
+            "document_type": "Drug",
+            "entity_name": "Methamphetamine",
+            "relative_path": "Drugs/Methamphetamine.txt"
+        },
+        "Drugs/Ricin.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:42:54",
+            "document_type": "Drug",
+            "entity_name": "Ricin",
+            "relative_path": "Drugs/Ricin.txt"
+        },
+        "Events/Death_of_Gale_Boetticher.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:43:13",
+            "document_type": "Event",
+            "entity_name": "Death_of_Gale_Boetticher",
+            "relative_path": "Events/Death_of_Gale_Boetticher.txt"
+        },
+        "Events/Death_of_Gustavo_Fring.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:43:28",
+            "document_type": "Event",
+            "entity_name": "Death_of_Gustavo_Fring",
+            "relative_path": "Events/Death_of_Gustavo_Fring.txt"
+        },
+        "Events/Death_of_Tuco_Salamanca.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:43:46",
+            "document_type": "Event",
+            "entity_name": "Death_of_Tuco_Salamanca",
+            "relative_path": "Events/Death_of_Tuco_Salamanca.txt"
+        },
+        "Events/Hank_Discovers_Heisenberg.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:44:01",
+            "document_type": "Event",
+            "entity_name": "Hank_Discovers_Heisenberg",
+            "relative_path": "Events/Hank_Discovers_Heisenberg.txt"
+        },
+        "Events/Ozymandias_The_Fall_of_Heisenberg.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:44:25",
+            "document_type": "Event",
+            "entity_name": "Ozymandias_The_Fall_of_Heisenberg",
+            "relative_path": "Events/Ozymandias_The_Fall_of_Heisenberg.txt"
+        },
+        "Events/Walters_Cancer_Diagnosis_and_First_Cook.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:44:44",
+            "document_type": "Event",
+            "entity_name": "Walters_Cancer_Diagnosis_and_First_Cook",
+            "relative_path": "Events/Walters_Cancer_Diagnosis_and_First_Cook.txt"
+        },
+        "Events/Walters_Final_Stand_Felina.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:45:19",
+            "document_type": "Event",
+            "entity_name": "Walters_Final_Stand_Felina",
+            "relative_path": "Events/Walters_Final_Stand_Felina.txt"
+        },
+        "Events/Wayfarer_515_Plane_Crash.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:45:41",
+            "document_type": "Event",
+            "entity_name": "Wayfarer_515_Plane_Crash",
+            "relative_path": "Events/Wayfarer_515_Plane_Crash.txt"
+        },
+        "Locations/Jacks_Compound.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:45:58",
+            "document_type": "Location",
+            "entity_name": "Jacks_Compound",
+            "relative_path": "Locations/Jacks_Compound.txt"
+        },
+        "Locations/Los_Pollos_Hermanos.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:46:21",
+            "document_type": "Location",
+            "entity_name": "Los_Pollos_Hermanos",
+            "relative_path": "Locations/Los_Pollos_Hermanos.txt"
+        },
+        "Locations/Saul_Goodmans_Office.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:46:45",
+            "document_type": "Location",
+            "entity_name": "Saul_Goodmans_Office",
+            "relative_path": "Locations/Saul_Goodmans_Office.txt"
+        },
+        "Locations/The_Superlab.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:47:07",
+            "document_type": "Location",
+            "entity_name": "The_Superlab",
+            "relative_path": "Locations/The_Superlab.txt"
+        },
+        "Locations/Tohajiilee_Desert.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:47:25",
+            "document_type": "Location",
+            "entity_name": "Tohajiilee_Desert",
+            "relative_path": "Locations/Tohajiilee_Desert.txt"
+        },
+        "Locations/White_Residence.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:47:44",
+            "document_type": "Location",
+            "entity_name": "White_Residence",
+            "relative_path": "Locations/White_Residence.txt"
+        }
+    },
+    "The_Hangover": {
+        "Characters/Alan_Garner.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:49:54",
+            "document_type": "Character",
+            "entity_name": "Alan_Garner",
+            "relative_path": "Characters/Alan_Garner.txt"
+        },
+        "Characters/Doug_Billings.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:50:18",
+            "document_type": "Character",
+            "entity_name": "Doug_Billings",
+            "relative_path": "Characters/Doug_Billings.txt"
+        },
+        "Characters/Jade.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:50:34",
+            "document_type": "Character",
+            "entity_name": "Jade",
+            "relative_path": "Characters/Jade.txt"
+        },
+        "Characters/Leslie_Chow.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:50:54",
+            "document_type": "Character",
+            "entity_name": "Leslie_Chow",
+            "relative_path": "Characters/Leslie_Chow.txt"
+        },
+        "Characters/Phil_Wenneck.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:51:13",
+            "document_type": "Character",
+            "entity_name": "Phil_Wenneck",
+            "relative_path": "Characters/Phil_Wenneck.txt"
+        },
+        "Characters/Sid_Garner.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:51:36",
+            "document_type": "Character",
+            "entity_name": "Sid_Garner",
+            "relative_path": "Characters/Sid_Garner.txt"
+        },
+        "Characters/Stu_Price.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:52:00",
+            "document_type": "Character",
+            "entity_name": "Stu_Price",
+            "relative_path": "Characters/Stu_Price.txt"
+        },
+        "Events/The_Hangover_Part_III_Final_Ride.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:52:23",
+            "document_type": "Event",
+            "entity_name": "The_Hangover_Part_III_Final_Ride",
+            "relative_path": "Events/The_Hangover_Part_III_Final_Ride.txt"
+        },
+        "Events/The_Hangover_Part_II_Bangkok.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:52:46",
+            "document_type": "Event",
+            "entity_name": "The_Hangover_Part_II_Bangkok",
+            "relative_path": "Events/The_Hangover_Part_II_Bangkok.txt"
+        },
+        "Events/The_Hangover_Part_I_Las_Vegas.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:53:03",
+            "document_type": "Event",
+            "entity_name": "The_Hangover_Part_I_Las_Vegas",
+            "relative_path": "Events/The_Hangover_Part_I_Las_Vegas.txt"
+        },
+        "Locations/Bangkok_Thailand.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:53:24",
+            "document_type": "Location",
+            "entity_name": "Bangkok_Thailand",
+            "relative_path": "Locations/Bangkok_Thailand.txt"
+        },
+        "Locations/Caesars_Palace_Las_Vegas.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:53:45",
+            "document_type": "Location",
+            "entity_name": "Caesars_Palace_Las_Vegas",
+            "relative_path": "Locations/Caesars_Palace_Las_Vegas.txt"
+        },
+        "Locations/The_Wolf_Pack.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:54:01",
+            "document_type": "Location",
+            "entity_name": "The_Wolf_Pack",
+            "relative_path": "Locations/The_Wolf_Pack.txt"
+        },
+        "The_Hangover_Universe.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:54:26",
+            "document_type": "The_Hangover",
+            "entity_name": "The_Hangover_Universe",
+            "relative_path": "The_Hangover_Universe.txt"
+        }
+    },
+    "Demon_Slayer": {
+        "Breathing_Style/Beast_Breathing.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:51:33",
+            "document_type": "Breathing_Style",
+            "entity_name": "Beast_Breathing",
+            "relative_path": "Breathing_Style/Beast_Breathing.txt"
+        },
+        "Breathing_Style/Flame_Breathing.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:51:46",
+            "document_type": "Breathing_Style",
+            "entity_name": "Flame_Breathing",
+            "relative_path": "Breathing_Style/Flame_Breathing.txt"
+        },
+        "Breathing_Style/Love_Breathing.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:52:01",
+            "document_type": "Breathing_Style",
+            "entity_name": "Love_Breathing",
+            "relative_path": "Breathing_Style/Love_Breathing.txt"
+        },
+        "Breathing_Style/Moon_Breathing.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:52:34",
+            "document_type": "Breathing_Style",
+            "entity_name": "Moon_Breathing",
+            "relative_path": "Breathing_Style/Moon_Breathing.txt"
+        },
+        "Breathing_Style/Sun_Breathing_Hinokami_Kagura.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:52:51",
+            "document_type": "Breathing_Style",
+            "entity_name": "Sun_Breathing_Hinokami_Kagura",
+            "relative_path": "Breathing_Style/Sun_Breathing_Hinokami_Kagura.txt"
+        },
+        "Breathing_Style/Thunder_Breathing.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:53:04",
+            "document_type": "Breathing_Style",
+            "entity_name": "Thunder_Breathing",
+            "relative_path": "Breathing_Style/Thunder_Breathing.txt"
+        },
+        "Breathing_Style/Water_Breathing.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:53:23",
+            "document_type": "Breathing_Style",
+            "entity_name": "Water_Breathing",
+            "relative_path": "Breathing_Style/Water_Breathing.txt"
+        },
+        "Characters/Akaza.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:53:34",
+            "document_type": "Character",
+            "entity_name": "Akaza",
+            "relative_path": "Characters/Akaza.txt"
+        },
+        "Characters/Giyu_Tomioka.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:53:52",
+            "document_type": "Character",
+            "entity_name": "Giyu_Tomioka",
+            "relative_path": "Characters/Giyu_Tomioka.txt"
+        },
+        "Characters/Inosuke_Hashibira.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:54:04",
+            "document_type": "Character",
+            "entity_name": "Inosuke_Hashibira",
+            "relative_path": "Characters/Inosuke_Hashibira.txt"
+        },
+        "Characters/Kyojuro_Rengoku.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:54:28",
+            "document_type": "Character",
+            "entity_name": "Kyojuro_Rengoku",
+            "relative_path": "Characters/Kyojuro_Rengoku.txt"
+        },
+        "Characters/Mitsuri_Kanroji.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:54:42",
+            "document_type": "Character",
+            "entity_name": "Mitsuri_Kanroji",
+            "relative_path": "Characters/Mitsuri_Kanroji.txt"
+        },
+        "Characters/Muzan_Kibutsuji.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:54:58",
+            "document_type": "Character",
+            "entity_name": "Muzan_Kibutsuji",
+            "relative_path": "Characters/Muzan_Kibutsuji.txt"
+        },
+        "Characters/Nezuko_Kamado.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:55:10",
+            "document_type": "Character",
+            "entity_name": "Nezuko_Kamado",
+            "relative_path": "Characters/Nezuko_Kamado.txt"
+        },
+        "Characters/Tanjiro_Kamado.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:55:32",
+            "document_type": "Character",
+            "entity_name": "Tanjiro_Kamado",
+            "relative_path": "Characters/Tanjiro_Kamado.txt"
+        },
+        "Characters/Zenitsu_Agatsuma.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:55:45",
+            "document_type": "Character",
+            "entity_name": "Zenitsu_Agatsuma",
+            "relative_path": "Characters/Zenitsu_Agatsuma.txt"
+        },
+        "Demon_Slayer_Universe.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:56:11",
+            "document_type": "Demon_Slayer",
+            "entity_name": "Demon_Slayer_Universe",
+            "relative_path": "Demon_Slayer_Universe.txt"
+        },
+        "Events/Arcs/Entertainment_District_Arc.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:56:30",
+            "document_type": "Arc",
+            "entity_name": "Entertainment_District_Arc",
+            "relative_path": "Events/Arcs/Entertainment_District_Arc.txt"
+        },
+        "Events/Arcs/Final_Confrontation_Events.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:56:45",
+            "document_type": "Arc",
+            "entity_name": "Final_Confrontation_Events",
+            "relative_path": "Events/Arcs/Final_Confrontation_Events.txt"
+        },
+        "Events/Arcs/Final_Selection.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:57:03",
+            "document_type": "Arc",
+            "entity_name": "Final_Selection",
+            "relative_path": "Events/Arcs/Final_Selection.txt"
+        },
+        "Events/Arcs/Hashira_Training.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:57:19",
+            "document_type": "Arc",
+            "entity_name": "Hashira_Training",
+            "relative_path": "Events/Arcs/Hashira_Training.txt"
+        },
+        "Events/Arcs/Infinity_Castle_Developments.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:57:38",
+            "document_type": "Arc",
+            "entity_name": "Infinity_Castle_Developments",
+            "relative_path": "Events/Arcs/Infinity_Castle_Developments.txt"
+        },
+        "Events/Arcs/Mugen_Train_Mission.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:57:57",
+            "document_type": "Arc",
+            "entity_name": "Mugen_Train_Mission",
+            "relative_path": "Events/Arcs/Mugen_Train_Mission.txt"
+        },
+        "Events/Arcs/Natagumo_Mountain_Conflict.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:58:13",
+            "document_type": "Arc",
+            "entity_name": "Natagumo_Mountain_Conflict",
+            "relative_path": "Events/Arcs/Natagumo_Mountain_Conflict.txt"
+        },
+        "Events/Arcs/Swordsmith_Village_Arc.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:58:31",
+            "document_type": "Arc",
+            "entity_name": "Swordsmith_Village_Arc",
+            "relative_path": "Events/Arcs/Swordsmith_Village_Arc.txt"
+        }
+    }
+}
