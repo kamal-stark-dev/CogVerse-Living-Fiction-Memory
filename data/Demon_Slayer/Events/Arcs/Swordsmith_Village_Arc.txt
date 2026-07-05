@@ -1,0 +1,13 @@
+source_file: data/Demon_Slayer/Events/Swordsmith_Village_Arc.txt
+document_type: event
+primary_entity: Swordsmith Village Arc
+related_entities:
+- Tanjiro Kamado
+- Mitsuri Kanroji
+- Muichiro Tokito
+- Hantengu
+- Gyokko
+- Demon Slayer Corps
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+## The Swordsmith Village Arc began when Tanjiro Kamado traveled to the secret village where Nichirin blades are forged to repair his sword after the battles in the Entertainment District. The village was attacked by two Upper Rank demons: Upper Rank Five, Gyokko, and Upper Rank Four, Hantengu. Gyokko sought to destroy the village's infrastructure and massacre the smiths, while Hantengu utilized his complex Blood Demon Art to manifest multiple personalities, each representing different emotions and combat styles. The battle involved Mist Hashira Muichiro Tokito, who successfully eliminated Gyokko, and Love Hashira Mitsuri Kanroji, who held off Hantengu's manifestations. Tanjiro Kamado played a vital role in tracking down the main body of Hantengu. The conflict resulted in the successful defense of the village and the discovery that Nezuko Kamado had gained the ability to survive in direct sunlight, a revelation that shifted the entire war, as Muzan Kibutsuji became singularly focused on consuming her to achieve his own immunity.

@@ -1,0 +1,11 @@
+source_file: data/Demon_Slayer/Events/Final_Confrontation_Events.txt
+document_type: event
+primary_entity: Final Confrontation with Muzan Kibutsuji
+related_entities:
+- Muzan Kibutsuji
+- Tanjiro Kamado
+- Demon Slayer Corps
+- Hashira
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+## The Final Confrontation was the climactic battle between the combined forces of the Demon Slayer Corps and Muzan Kibutsuji. After surviving the dangers of the Infinity Castle, the remaining Hashira and elite slayers faced Muzan Kibutsuji on the surface of the human world as dawn approached. The battle was a war of attrition, with the Demon Slayers attempting to hold out until sunrise while Muzan Kibutsuji utilized his full biological arsenal to prevent their escape. Tanjiro Kamado, pushed to the absolute edge of his abilities, utilized the final form of the Sun Breathing to coordinate with the remaining Hashira. The conflict concluded with the destruction of Muzan Kibutsuji by the rising sun, effectively ending the existence of demons and the long-standing mission of the Demon Slayer Corps.

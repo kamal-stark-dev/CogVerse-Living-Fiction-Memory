@@ -1,0 +1,9 @@
+source_file: data/Demon_Slayer/Breathing_Techniques/Sun_Breathing_Hinokami_Kagura.txt
+document_type: other
+primary_entity: Sun Breathing / Hinokami Kagura
+related_entities:
+- Tanjiro Kamado
+- Muzan Kibutsuji
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+## Sun Breathing, also known as Hinokami Kagura, is the original breathing style from which all other functional combat styles were derived. It was passed down through the Kamado family in the form of a ritual dance, intended to be performed from dusk until dawn to honor the Fire God. Tanjiro Kamado eventually realized that the dance was, in fact, a series of powerful combat techniques. Sun Breathing is the most effective style for fighting demons, as it produces movements that mimic the sun itself, placing immense strain on demons and their regenerative abilities. It is the central threat to Muzan Kibutsuji, who views the style with extreme fear due to its historical connection to his near-defeat in the past.

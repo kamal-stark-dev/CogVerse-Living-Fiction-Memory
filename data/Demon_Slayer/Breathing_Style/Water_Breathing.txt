@@ -1,0 +1,10 @@
+source_file: data/Demon_Slayer/Breathing_Techniques/Water_Breathing.txt
+document_type: other
+primary_entity: Water Breathing
+related_entities:
+- Giyu Tomioka
+- Tanjiro Kamado
+- Sakonji Urokodaki
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+## Water Breathing is one of the five primary combat styles derived from the original Sun Breathing. Developed by the Demon Slayer Corps, it is characterized by fluid, adaptable movements that mimic the flow and form of water. Practitioners use their swords to execute strikes that range from defensive parries to sweeping, circular attacks. The style is highly versatile, making it the most commonly practiced breathing style among members of the Demon Slayer Corps. Giyu Tomioka, the Water Hashira, has mastered the style to the point of creating an original technique, the Eleventh Form: Dead Calm, which allows him to neutralize all incoming attacks within his range.

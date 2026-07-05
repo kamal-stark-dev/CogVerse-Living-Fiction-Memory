@@ -1,0 +1,12 @@
+source_file: data/Demon_Slayer/Characters/Nezuko_Kamado.txt
+document_type: character
+primary_entity: Nezuko Kamado
+related_entities:
+- Tanjiro Kamado
+- Muzan Kibutsuji
+- Demon Slayer Corps
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+Nezuko Kamado is the younger sister of Tanjiro Kamado and the sole survivor of her family after the attack by Muzan Kibutsuji. During the incident, she is exposed to Muzan Kibutsuji's blood, transforming her into a demon. Despite her transformation, Nezuko Kamado retains human emotions and a protective instinct toward her brother, often fighting alongside him instead of devouring humans.
+
+## Nezuko Kamado restores her energy through sleep rather than consuming human flesh, a trait that makes her unique among demons. She is often seen carrying a bamboo muzzle to prevent her from harming others. Her Blood Demon Art allows her to manipulate flames, which specifically burn demons without harming humans. Nezuko Kamado serves as a constant motivation for Tanjiro Kamado's quest and is a symbol of the possibility that demons can still possess humanity.

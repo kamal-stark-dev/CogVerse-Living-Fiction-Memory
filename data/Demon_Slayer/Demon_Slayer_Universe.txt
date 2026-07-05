@@ -1,0 +1,28 @@
+source_file: data/Demon_Slayer/Demon_Slayer_Universe.txt
+document_type: universe
+primary_entity: Demon Slayer: Kimetsu no Yaiba Universe
+related_entities:
+- Tanjiro Kamado
+- Nezuko Kamado
+- Zenitsu Agatsuma
+- Inosuke Hashibira
+- Muzan Kibutsuji
+- Giyu Tomioka
+- Akaza
+- Kyojuro Rengoku
+- Mitsuri Kanroji
+- Demon Slayer Corps
+- Hashira
+- Twelve Kizuki
+- Nichirin Blade
+- Breathing Styles
+- Blood Demon Arts
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+The setting of Demon Slayer: Kimetsu no Yaiba is Taisho-era Japan, a period marked by rapid modernization and lingering tradition. In this world, man-eating creatures known as demons exist, which are the primary threat to humanity. Demons are created when a human consumes the blood of Muzan Kibutsuji, the progenitor of all demons. Once transformed, they gain superhuman strength, regenerative capabilities, and unique supernatural abilities called Blood Demon Arts.
+
+To combat this threat, an organization known as the Demon Slayer Corps has operated for centuries. The Corps is a private, government-unrecognized group dedicated to hunting demons and protecting the innocent. At the pinnacle of the Corps' combat strength are the Hashira, an elite group of nine swordsmen who represent the strongest fighters in the organization. The Hashira serve as the commanders and mentors for other slayers, possessing mastery over diverse breathing styles.
+
+Breathing Styles are specialized swordsmanship techniques that increase a practitioner's physical abilities, such as speed and strength, to levels capable of matching demons. These techniques are rooted in rhythmic, focused breathing patterns. Demon Slayers use Nichirin blades, which are unique swords forged from sun-absorbing steel. Because demons are vulnerable only to sunlight or these specialized blades, Nichirin steel is essential to the Corps' mission.
+
+## Opposing the Demon Slayer Corps is Muzan Kibutsuji and his elite subordinates, the Twelve Kizuki. These demons are divided into Upper Ranks and Lower Ranks based on their power level. They serve as Muzan Kibutsuji's personal enforcement arm, tasked with finding the Blue Spider Lily and eliminating the Hashira. This perpetual conflict between the human slayers and the demon progenitors forms the core struggle of the era, leading to major conflicts across various locations, including Natagumo Mountain, the Mugen Train, and the ultimate battlefield, the Infinity Castle.

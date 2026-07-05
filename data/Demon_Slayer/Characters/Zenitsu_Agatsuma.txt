@@ -1,0 +1,13 @@
+source_file: data/Demon_Slayer/Characters/Zenitsu_Agatsuma.txt
+document_type: character
+primary_entity: Zenitsu Agatsuma
+related_entities:
+- Tanjiro Kamado
+- Inosuke Hashibira
+- Thunder Breathing
+- Demon Slayer Corps
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+Zenitsu Agatsuma is a member of the Demon Slayer Corps and a traveling companion to Tanjiro Kamado and Inosuke Hashibira. He is defined by his extreme cowardice and low self-esteem, frequently fearing death and complaining about his dangerous missions. However, Zenitsu Agatsuma possesses a latent, immense power that manifests when he falls unconscious, typically due to extreme fear.
+
+## In his unconscious state, Zenitsu Agatsuma becomes a master of Thunder Breathing, specifically utilizing the First Form: Thunderclap and Flash with superhuman speed and precision. He was trained by the former Thunder Hashira, Jigoro Kuwajima. Despite his personality, Zenitsu Agatsuma is intensely loyal to his friends. His heightened sense of hearing allows him to detect the true nature of people, which is how he initially recognizes that Tanjiro Kamado is kind and trustworthy.

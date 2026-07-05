@@ -1,0 +1,13 @@
+source_file: data/Demon_Slayer/Characters/Giyu_Tomioka.txt
+document_type: character
+primary_entity: Giyu Tomioka
+related_entities:
+- Tanjiro Kamado
+- Demon Slayer Corps
+- Hashira
+- Water Breathing
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+Giyu Tomioka is the Water Hashira of the Demon Slayer Corps and the first slayer encountered by Tanjiro Kamado. Stoic and reserved, Giyu Tomioka carries the weight of a troubled past and often doubts his own worthiness to be a Hashira. He wears a unique haori split into two different patterns, one of which belonged to his late friend, Sabito.
+
+## Giyu Tomioka is a master of Water Breathing, having developed the Eleventh Form: Dead Calm, a technique that allows him to neutralize all incoming attacks. He is the first person to show mercy to Tanjiro Kamado and Nezuko Kamado, choosing to spare them and stake his own life on the belief that Nezuko Kamado will not kill humans. Giyu Tomioka serves as a critical ally and mentor figure to Tanjiro Kamado throughout the series.

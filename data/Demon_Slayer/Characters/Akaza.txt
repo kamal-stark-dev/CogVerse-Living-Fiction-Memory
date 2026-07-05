@@ -1,0 +1,13 @@
+source_file: data/Demon_Slayer/Characters/Akaza.txt
+document_type: character
+primary_entity: Akaza
+related_entities:
+- Muzan Kibutsuji
+- Kyojuro Rengoku
+- Twelve Kizuki
+- Demon Slayer Corps
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+Akaza is a high-ranking demon holding the position of Upper Rank Three within the Twelve Kizuki. He is a martial arts prodigy who values strength above all else, often inviting worthy opponents to become demons so they can continue to hone their skills eternally. Akaza is defined by his intense combat spirit and his signature Blood Demon Art, Destructive Death, which utilizes shockwaves and physical strikes to overwhelm his adversaries.
+
+## Unlike many other demons, Akaza possesses a strong personal code and refuses to consume women, a trait rooted in his tragic human past. He is responsible for the death of Kyojuro Rengoku during the Mugen Train mission, a victory that highlights his status as a formidable threat to the Hashira. Akaza is fiercely loyal to Muzan Kibutsuji and remains one of the most persistent obstacles for the Demon Slayer Corps as they advance toward the final confrontation.

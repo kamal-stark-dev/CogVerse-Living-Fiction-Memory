@@ -1,0 +1,9 @@
+source_file: data/Demon_Slayer/Breathing_Techniques/Thunder_Breathing.txt
+document_type: other
+primary_entity: Thunder Breathing
+related_entities:
+- Zenitsu Agatsuma
+- Jigoro Kuwajima
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+## Thunder Breathing is a combat style focused on explosive speed and singular, high-velocity strikes. Practitioners emphasize lower-body strength to generate massive bursts of acceleration, allowing them to close the distance between themselves and a demon in a fraction of a second. The style is derived from the five primary breathing techniques. Zenitsu Agatsuma is a prominent practitioner who utilizes the First Form: Thunderclap and Flash to decapitate demons before they can even perceive his movement. The technique is notoriously difficult to master, requiring immense focus and physical conditioning.
