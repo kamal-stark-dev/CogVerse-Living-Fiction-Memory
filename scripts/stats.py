@@ -48,7 +48,7 @@ def count_documents(universe_path):
 def print_stats():
 
     print("=" * 80)
-    print("CogRealm Dataset Statistics")
+    print("CogVerse Dataset Statistics")
     print("=" * 80)
 
     grand_total = 0
@@ -84,7 +84,7 @@ if __name__ == "__main__":
 Output Looks Like:
 
 ================================================================================
-CogRealm Dataset Statistics
+CogVerse Dataset Statistics
 ================================================================================
 
 Harry_Potter

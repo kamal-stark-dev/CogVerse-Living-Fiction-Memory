@@ -78,7 +78,7 @@ export default function Sidebar({
       <div className="archive-scroll">
         <div className="archive-header">
           <span className="archive-eyebrow">The Archive</span>
-          <Logo universe={logoUniverse} fallbackText="CogRealm" />
+          <Logo universe={logoUniverse} fallbackText="CogVerse" />
         </div>
 
         {error && (

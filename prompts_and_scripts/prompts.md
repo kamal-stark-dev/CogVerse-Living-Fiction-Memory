@@ -770,7 +770,7 @@ The document should introduce someone to the universe from scratch.
 
 ## The Difference
 
-Now when you'll ask a complex question like **Why did Itachi kill his clan?**, **CogRealm** has information about:
+Now when you'll ask a complex question like **Why did Itachi kill his clan?**, **CogVerse** has information about:
 
 1. Itachi's document (character)
 2. Relationship document (relationship)

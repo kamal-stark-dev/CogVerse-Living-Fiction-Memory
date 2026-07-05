@@ -8,7 +8,7 @@ SYSTEM = PROJECT / ".cognee_system"
 DATA = PROJECT / ".cognee_data"
 
 print("=" * 70)
-print("CogRealm Graph Statistics")
+print("CogVerse Graph Statistics")
 print("=" * 70)
 
 print("\nStorage")

@@ -62,7 +62,7 @@ async def main():
     await configure_cognee()
 
     print("=" * 80)
-    print("CogRealm Search Console")
+    print("CogVerse Search Console")
     print("=" * 80)
 
     search_name, search_type = await choose_search_type()

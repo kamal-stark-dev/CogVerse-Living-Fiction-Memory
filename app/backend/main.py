@@ -24,7 +24,7 @@ from graph_utils import parse_graph_context
 # Adjust the default if you run uvicorn from a different working directory.
 DATA_DIR = Path(os.getenv("REPO_DATA_DIR", "../../data")).resolve()
 
-app = FastAPI(title="CogRealm API")
+app = FastAPI(title="CogVerse API")
 
 @app.on_event("startup")
 async def startup():
