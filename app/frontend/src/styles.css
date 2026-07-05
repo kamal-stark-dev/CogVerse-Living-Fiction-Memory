@@ -7,9 +7,9 @@
   --text-dim: #9098ac;
   --accent: #7c5cfc;
   --accent-soft: rgba(124, 92, 252, 0.15);
-  --font-display: 'Fraunces', serif;
-  --font-body: 'Inter', sans-serif;
-  --font-mono: 'IBM Plex Mono', monospace;
+  --font-display: "Fraunces", serif;
+  --font-body: "Inter", sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
 }
 
 * {
@@ -104,6 +104,9 @@ body {
 }
 
 .character-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
   background: none;
   border: none;
   text-align: left;
@@ -151,7 +154,7 @@ body {
   font-family: var(--font-mono);
 }
 
-.cross-universe-bar input:not([type='checkbox']) {
+.cross-universe-bar input:not([type="checkbox"]) {
   background: var(--surface);
   border: 1px solid var(--border);
   color: var(--text);
@@ -172,6 +175,33 @@ body {
 .chat-header {
   padding: 20px 32px;
   border-bottom: 1px solid var(--border);
+}
+
+.chat-header-inner {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.chat-header-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.avatar {
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.avatar-fallback {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--surface-raised);
+  border: 1.5px solid;
+  font-family: var(--font-display);
+  font-weight: 600;
 }
 
 .chat-eyebrow {
