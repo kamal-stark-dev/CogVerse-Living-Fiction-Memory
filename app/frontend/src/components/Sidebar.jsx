@@ -8,6 +8,7 @@ export default function Sidebar({
   selectedUniverse,
   selectedCharacter,
   onSelectCharacter,
+  onExpandedChange,
 }) {
   const [universes, setUniverses] = useState([]);
   const [charactersByUniverse, setCharactersByUniverse] = useState({});
@@ -20,9 +21,30 @@ export default function Sidebar({
       .catch((e) => setError(e.message));
   }, []);
 
+  // On page load, if a conversation was restored from localStorage, expand
+  // that universe's accordion so the active character is visibly selected
+  // rather than just working invisibly in the background.
+  useEffect(() => {
+    if (selectedUniverse && !expanded) {
+      setExpanded(selectedUniverse);
+      if (!charactersByUniverse[selectedUniverse]) {
+        fetchCharacters(selectedUniverse)
+          .then((chars) =>
+            setCharactersByUniverse((prev) => ({
+              ...prev,
+              [selectedUniverse]: chars,
+            })),
+          )
+          .catch((e) => setError(e.message));
+      }
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [selectedUniverse]);
+
   const toggleUniverse = async (universe) => {
     const next = expanded === universe ? null : universe;
     setExpanded(next);
+    onExpandedChange?.(next);
     if (next && !charactersByUniverse[universe]) {
       try {
         const chars = await fetchCharacters(universe);
@@ -33,11 +55,16 @@ export default function Sidebar({
     }
   };
 
+  // Whichever universe's accordion is open takes priority for the logo;
+  // once collapsed, falls back to whatever universe you're actively
+  // chatting in, so the branding doesn't revert to plain text mid-conversation.
+  const logoUniverse = expanded || selectedUniverse;
+
   return (
     <aside className="archive">
       <div className="archive-header">
         <span className="archive-eyebrow">The Archive</span>
-        <Logo universe={selectedUniverse} fallbackText="CogRealm" />
+        <Logo universe={logoUniverse} fallbackText="CogRealm" />
       </div>
 
       {error && (
