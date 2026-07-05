@@ -1,0 +1,8 @@
+source_file: data/Demon_Slayer/Breathing_Techniques/Beast_Breathing.txt
+document_type: other
+primary_entity: Beast Breathing
+related_entities:
+- Inosuke Hashibira
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+## Beast Breathing is a unique, self-taught combat style created by Inosuke Hashibira, derived from his life in the mountains. It is an offshoot of Wind Breathing, characterized by wild, unpredictable, and jagged movements that resemble the behavior of savage animals. Rather than following a formal structure, the style relies on Inosuke Hashibira's raw physical prowess, dual-wielding serrated Nichirin blades, and heightened tactile senses. It is designed to inflict maximum laceration and damage through erratic swings that are difficult for demons to predict or counter.

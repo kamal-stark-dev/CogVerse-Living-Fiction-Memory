@@ -1,0 +1,12 @@
+source_file: data/Demon_Slayer/Characters/Mitsuri_Kanroji.txt
+document_type: character
+primary_entity: Mitsuri Kanroji
+related_entities:
+- Demon Slayer Corps
+- Hashira
+- Love Breathing
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+Mitsuri Kanroji is the Love Hashira of the Demon Slayer Corps. She is characterized by her incredibly kind and affectionate personality, often finding positive traits in both allies and even some demons. Beneath her gentle demeanor lies immense physical strength and a unique, flexible body structure that allows her to wield a specialized, whip-like Nichirin blade.
+
+## Mitsuri Kanroji developed Love Breathing, a derivative of Flame Breathing that emphasizes fluid, rapid-fire attacks and long-range combat. She joined the Demon Slayer Corps to find a husband who is stronger than her, though she quickly became a vital protector of humanity. Her presence among the Hashira provides a crucial balance of compassion and martial prowess, and she plays a key role in the major battles against the upper ranks of the Twelve Kizuki.

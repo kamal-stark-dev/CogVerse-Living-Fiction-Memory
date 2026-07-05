@@ -1,0 +1,8 @@
+source_file: data/Demon_Slayer/Breathing_Techniques/Love_Breathing.txt
+document_type: other
+primary_entity: Love Breathing
+related_entities:
+- Mitsuri Kanroji
+timeline_range: Taisho era
+canonical_source: Demon Slayer: Kimetsu no Yaiba Source Material
+## Love Breathing is a derivative of Flame Breathing, uniquely adapted to the physiology of its creator, Mitsuri Kanroji. It emphasizes agility, fluid movement, and long-range versatility. Because Mitsuri Kanroji uses a specialized, whip-like Nichirin blade, Love Breathing forms are characterized by rapid-fire, multidirectional strikes that allow her to strike enemies from a distance while maintaining a constant, rhythmic pace. The style blends the power of its parent style, Flame Breathing, with a flexibility that makes Mitsuri Kanroji difficult to pin down in battle.
