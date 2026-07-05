@@ -49,7 +49,7 @@ export default function ChatThread({
                   background: 'linear-gradient(135deg, var(--text) 0%, rgba(236, 231, 218, 0.75) 100%)',
                   WebkitBackgroundClip: 'text',
                   WebkitTextFillColor: 'transparent',
-                  textShadow: '0 2px 14px rgba(124, 92, 252, 0.18)',
+                  textShadow: '0 2px 14px var(--accent-soft)',
                   letterSpacing: '-0.02em',
                   margin: '4px 0'
                 }}>
