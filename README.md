@@ -2,7 +2,7 @@
 
 Where Fiction Remembers🧠.
 
-Build living knowledge graphs of your favorite fictional universes🧙‍♀️. Explore *relationships*, *timelines*, and *characters* through **AI-powered memory**.
+Build living knowledge graphs of your favorite fictional universes🧙‍♀️. Explore _relationships_, _timelines_, and _characters_ through **AI-powered memory**.
 
 ## The Idea
 
@@ -19,10 +19,11 @@ Instead of storing documents and using RAG, we store an entire fictional univers
 Everthing gets stored in memory.
 
 ## Working Example
+
 ```
-One Piece Wiki 
+One Piece Wiki
       |
-Cognee Memory 
+Cognee Memory
 (
     Characters,
     Events,
@@ -39,69 +40,75 @@ Interesting
   answers
 ```
 
-## The Killer Feature 
+## The Killer Feature
 
 Don't just answer factual questions. It answers hypothetical ones.
 
 Example: `What advice would Naruto give to Harry Potter after Sirius died?` not just something simple like `Who is Naruto's father?`
 
 The system should do the following:
+
 ```
-    Naruto 
+    Naruto
       |
    Retrieve
       +
     Harry
       |
-   Retrieve 
+   Retrieve
       +
- Losses Naruto 
+ Losses Naruto
   experienced
       +
-Retrieve Harry's 
+Retrieve Harry's
    situation
       |
-  Generate an 
-  answer that 
+  Generate an
+  answer that
  actually sounds
   like Naruto
 ```
 
-Users can ask 
+Users can ask
+
 > Roast me like Dr. House
-or 
+> or
 > Give tech startup advice as Tony Stark
-or 
+> or
 > How would Sherlock Holmes investigate this murder?
 
 ## Worlds to support
+
 A dropdown for varies universes:
 
-- Naruto 
-- One Piece 
-- Harry Potter 
-- Marvel 
-- DC 
-- Game of Thrones 
-- Star Wars 
-- Lord of the Rings 
-- Breaking Bad 
-- Attack on Titan 
+- Naruto
+- One Piece
+- Harry Potter
+- Marvel
+- DC
+- Game of Thrones
+- Star Wars
+- Lord of the Rings
+- Breaking Bad
+- Attack on Titan
 
 Then adding multi-universe conversations.
 Example: `(characters) Naruto + Batman + Sherlock Holmes + Tony Stark -> (prompt) How would these four stop Light Yagami?`, each character speaks independently.
 
 ## Relationship Explorer
 
-Ask 
+Ask
+
 > Explain why Snape hated James Potter.
 
 Instead of paragraph, it shows:
+
 ```
-James -> Bullied -> Snape 
+James -> Bullied -> Snape
 Snape -> Loved -> Lily
-Lily -> Married -> James 
+Lily -> Married -> James
 ```
+
 This immediately showcases Cognee.
 
 ## Time Line Queries
@@ -138,21 +145,21 @@ This can be incredibly fun and useful in creating alternate universes, what ifs 
         |
       Chunk
         |
-      Cognee 
+      Cognee
         |
- Knowledge Graph 
+ Knowledge Graph
 ```
 
 ## Query Pipeline
 
 ```
-User Question 
+User Question
       |
-Cognee Search 
+Cognee Search
       |
-  Retrieve 
- Characters 
-   Events 
+  Retrieve
+ Characters
+   Events
 Relationships
       |
  LLM Prompt
@@ -160,7 +167,7 @@ Relationships
    Response
 ```
 
-## Example Questions 
+## Example Questions
 
 1. Normal - `Who killed Ace?`
 2. Relationship - `Why does Zoro repect Luffy?`
@@ -173,5 +180,3 @@ Relationships
 ## Why Cognee?
 
 Instead of **Vector Search**, we do **Entity Graph > Memory > Relationships > Reasoning > Context Retrieval**. Which allows for way better responses as relevant memory is provided to the LLM for generating a response.
-
-
