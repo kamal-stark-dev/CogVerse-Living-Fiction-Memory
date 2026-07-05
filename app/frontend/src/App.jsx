@@ -55,6 +55,7 @@ export default function App() {
 
   const [crossUniverse, setCrossUniverse] = useState(false);
   const [referenceUniverse, setReferenceUniverse] = useState("");
+  const [referenceCharacter, setReferenceCharacter] = useState("");
   const [referenceQuery, setReferenceQuery] = useState("");
 
   const activeKey = selectedCharacter
@@ -111,14 +112,18 @@ export default function App() {
     setLoading(true);
 
     try {
+      const combinedReferenceQuery =
+        crossUniverse && referenceUniverse
+          ? [referenceCharacter, referenceQuery].filter(Boolean).join(": ")
+          : null;
+
       const payload = {
         speaker: selectedCharacter,
         speaker_universe: selectedUniverse,
         question,
         reference_universe:
           crossUniverse && referenceUniverse ? referenceUniverse : null,
-        reference_query:
-          crossUniverse && referenceQuery ? referenceQuery : null,
+        reference_query: combinedReferenceQuery,
       };
       const { answer, memory_trace } = await sendChat(payload);
       setConversations((prev) => ({
@@ -150,36 +155,20 @@ export default function App() {
         onExpandedChange={setExpandedUniverse}
       />
       <div className="main-column">
-        <div className="cross-universe-bar">
-          <label>
-            <input
-              type="checkbox"
-              checked={crossUniverse}
-              onChange={(e) => setCrossUniverse(e.target.checked)}
-            />{" "}
-            Cross-universe question
-          </label>
-          {crossUniverse && (
-            <>
-              <input
-                placeholder="Referenced universe folder name (e.g. Harry_Potter)"
-                value={referenceUniverse}
-                onChange={(e) => setReferenceUniverse(e.target.value)}
-              />
-              <input
-                placeholder="What happened? (e.g. Sirius Black's death)"
-                value={referenceQuery}
-                onChange={(e) => setReferenceQuery(e.target.value)}
-              />
-            </>
-          )}
-        </div>
         <ChatThread
           speaker={selectedCharacter}
           speakerUniverse={selectedUniverse}
           onSend={handleSend}
           messages={messages}
           loading={loading}
+          crossUniverse={crossUniverse}
+          onToggleCrossUniverse={setCrossUniverse}
+          referenceUniverse={referenceUniverse}
+          referenceCharacter={referenceCharacter}
+          referenceQuery={referenceQuery}
+          onReferenceUniverseChange={setReferenceUniverse}
+          onReferenceCharacterChange={setReferenceCharacter}
+          onReferenceQueryChange={setReferenceQuery}
         />
       </div>
     </div>
