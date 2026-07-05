@@ -35,11 +35,38 @@ export default function ChatThread({
             <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
               <Avatar universe={speakerUniverse} character={speaker} size={56} />
               <div className="chat-header-text">
-                <span className="chat-eyebrow">Summoning</span>
-                <h2 style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                <span className="chat-eyebrow" style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '11px', letterSpacing: '0.15em', fontWeight: '600', textTransform: 'uppercase', color: 'var(--accent)', textShadow: '0 0 8px var(--accent-soft)' }}>
+                  <span style={{ width: '4px', height: '4px', borderRadius: '50%', background: 'var(--accent)', boxShadow: '0 0 6px var(--accent)' }}></span>
+                  Summoning
+                </span>
+                <h2 style={{ 
+                  display: 'flex', 
+                  alignItems: 'center', 
+                  gap: '8px',
+                  fontSize: '32px',
+                  fontWeight: '700',
+                  fontFamily: 'var(--font-display)',
+                  background: 'linear-gradient(135deg, var(--text) 0%, rgba(236, 231, 218, 0.75) 100%)',
+                  WebkitBackgroundClip: 'text',
+                  WebkitTextFillColor: 'transparent',
+                  textShadow: '0 2px 14px rgba(124, 92, 252, 0.18)',
+                  letterSpacing: '-0.02em',
+                  margin: '4px 0'
+                }}>
                   {speaker}
                 </h2>
-                <span className="chat-sub">{speakerUniverse?.replace(/_/g, ' ')}</span>
+                <span className="chat-sub" style={{ 
+                  fontSize: '14px', 
+                  color: 'var(--text-dim)', 
+                  fontFamily: 'var(--font-mono)', 
+                  letterSpacing: '0.02em',
+                  opacity: 0.85,
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '4px'
+                }}>
+                  <span style={{ color: 'var(--accent)' }}>//</span> {speakerUniverse?.replace(/_/g, ' ')}
+                </span>
               </div>
             </div>
             
