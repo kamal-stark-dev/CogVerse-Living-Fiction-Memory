@@ -20,10 +20,36 @@ function hexToRgba(hex, alpha) {
   return `rgba(${r}, ${g}, ${b}, ${alpha})`;
 }
 
+function getContrastColor(hex) {
+  const bigint = parseInt(hex.replace("#", ""), 16);
+  const r = (bigint >> 16) & 255;
+  const g = (bigint >> 8) & 255;
+  const b = bigint & 255;
+  // Calculate luminance
+  const yiq = (r * 299 + g * 587 + b * 114) / 1000;
+  return yiq >= 128 ? "#0b0e1a" : "#ffffff";
+}
+
+function getDarkGlowColor(hex) {
+  const bigint = parseInt(hex.replace("#", ""), 16);
+  const r = (bigint >> 16) & 255;
+  const g = (bigint >> 8) & 255;
+  const b = bigint & 255;
+  // Scale down RGB values to 8% to create a rich, very dark, ambient glow
+  const scale = 0.08;
+  const darkR = Math.round(r * scale);
+  const darkG = Math.round(g * scale);
+  const darkB = Math.round(b * scale);
+  return `rgb(${darkR}, ${darkG}, ${darkB})`;
+}
+
 export function getTheme(universe) {
   const accent = THEMES[universe]?.accent ?? accentForUniverse(universe);
   return {
     accent,
-    soft: hexToRgba(accent, 0.18),
+    soft: hexToRgba(accent, 0.06), // Use a lower alpha to keep the background glow subtle and dark
+    glow: getDarkGlowColor(accent),
+    contrast: getContrastColor(accent),
   };
 }
+

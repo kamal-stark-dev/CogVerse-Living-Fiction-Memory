@@ -1,12 +1,14 @@
 :root {
-  --bg: #0b0e1a;
+  --bg: #060814;
   --surface: rgba(20, 27, 46, 0.45);
   --surface-raised: rgba(30, 40, 75, 0.6);
   --border: rgba(255, 255, 255, 0.08);
   --text: #f3f0e8;
   --text-dim: #8e99b5;
   --accent: #7c5cfc;
-  --accent-soft: rgba(124, 92, 252, 0.12);
+  --accent-soft: rgba(124, 92, 252, 0.05);
+  --bg-glow: rgb(15, 11, 30);
+  --accent-contrast: #ffffff;
   --font-display: "Fraunces", serif;
   --font-body: "Inter", sans-serif;
   --font-mono: "IBM Plex Mono", monospace;
@@ -14,6 +16,35 @@
 
 * {
   box-sizing: border-box;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.15) rgba(0, 0, 0, 0.1);
+}
+
+/* Custom scrollbar for Chrome, Safari, and Edge */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 4px;
+  border: 1px solid transparent;
+  background-clip: padding-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.25);
+  background-clip: padding-box;
+}
+
+::-webkit-scrollbar-corner {
+  background: transparent;
 }
 
 html,
@@ -24,7 +55,7 @@ body,
 }
 
 body {
-  background: radial-gradient(circle at 50% 0%, var(--accent-soft) 0%, var(--bg) 100%);
+  background: radial-gradient(circle at 50% 0%, var(--bg-glow) 0%, var(--bg) 80%);
   color: var(--text);
   font-family: var(--font-body);
   font-size: 16px;
@@ -389,7 +420,7 @@ body {
 .chat-header {
   padding: 20px 32px;
   border-bottom: 1px solid var(--border);
-  background: linear-gradient(180deg, var(--accent-soft) 0%, rgba(11, 14, 26, 0.15) 100%);
+  background: linear-gradient(180deg, var(--bg-glow) 0%, rgba(6, 8, 20, 0.45) 100%);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
@@ -479,7 +510,7 @@ body {
 
 .bubble.user .bubble-content {
   background: var(--accent);
-  color: #0b0e1a;
+  color: var(--accent-contrast);
   border: 1px solid rgba(255, 255, 255, 0.15);
   box-shadow: 0 8px 24px var(--accent-soft), inset 0 1px 1px rgba(255, 255, 255, 0.25);
   transition: background-color 0.4s ease, box-shadow 0.4s ease;
@@ -587,7 +618,7 @@ body {
 
 .chat-input-row button {
   background: var(--accent);
-  color: #0b0e1a;
+  color: var(--accent-contrast);
   border: 1px solid rgba(255, 255, 255, 0.1);
   padding: 0 22px;
   border-radius: 8px;
@@ -978,27 +1009,39 @@ body {
 }
 
 /* Custom Scrollbar Styles */
+.archive::-webkit-scrollbar,
+.memory-trace-body::-webkit-scrollbar,
 .lore-ledger-content::-webkit-scrollbar,
 .fact-viewer-modal .modal-body::-webkit-scrollbar,
 .chat-thread::-webkit-scrollbar {
   width: 6px;
+  height: 6px;
 }
 
+.archive::-webkit-scrollbar-track,
+.memory-trace-body::-webkit-scrollbar-track,
 .lore-ledger-content::-webkit-scrollbar-track,
 .fact-viewer-modal .modal-body::-webkit-scrollbar-track,
 .chat-thread::-webkit-scrollbar-track {
-  background: transparent;
+  background: rgba(0, 0, 0, 0.15);
 }
 
+.archive::-webkit-scrollbar-thumb,
+.memory-trace-body::-webkit-scrollbar-thumb,
 .lore-ledger-content::-webkit-scrollbar-thumb,
 .fact-viewer-modal .modal-body::-webkit-scrollbar-thumb,
 .chat-thread::-webkit-scrollbar-thumb {
-  background: var(--border);
-  border-radius: 4px;
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 9999px;
+  border: 1px solid transparent;
+  background-clip: padding-box;
 }
 
+.archive::-webkit-scrollbar-thumb:hover,
+.memory-trace-body::-webkit-scrollbar-thumb:hover,
 .lore-ledger-content::-webkit-scrollbar-thumb:hover,
 .fact-viewer-modal .modal-body::-webkit-scrollbar-thumb:hover,
 .chat-thread::-webkit-scrollbar-thumb:hover {
-  background: var(--text-dim);
+  background: rgba(255, 255, 255, 0.25);
+  background-clip: padding-box;
 }

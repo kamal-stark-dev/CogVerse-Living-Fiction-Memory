@@ -7,7 +7,8 @@ import { sendChat, fetchUniverses } from "./api";
 import { getTheme } from "./utils/themes";
 
 const DEFAULT_ACCENT = "#7C5CFC";
-const DEFAULT_ACCENT_SOFT = "rgba(124, 92, 252, 0.15)";
+const DEFAULT_ACCENT_SOFT = "rgba(124, 92, 252, 0.05)";
+const DEFAULT_ACCENT_CONTRAST = "#ffffff";
 
 const CONVERSATIONS_KEY = "cogrealm_conversations_v1";
 const LAST_ACTIVE_KEY = "cogrealm_last_active_v1";
@@ -105,9 +106,13 @@ export default function App() {
       const theme = getTheme(themeUniverse);
       root.style.setProperty("--accent", theme.accent);
       root.style.setProperty("--accent-soft", theme.soft);
+      root.style.setProperty("--bg-glow", theme.glow);
+      root.style.setProperty("--accent-contrast", theme.contrast);
     } else {
       root.style.setProperty("--accent", DEFAULT_ACCENT);
       root.style.setProperty("--accent-soft", DEFAULT_ACCENT_SOFT);
+      root.style.setProperty("--bg-glow", "rgb(15, 11, 30)");
+      root.style.setProperty("--accent-contrast", DEFAULT_ACCENT_CONTRAST);
     }
   }, [expandedUniverse, selectedUniverse]);
 
