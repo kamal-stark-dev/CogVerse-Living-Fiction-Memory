@@ -832,5 +832,296 @@
             "entity_name": "Tesseract",
             "relative_path": "Objects\\Tesseract.txt"
         }
+    },
+    "Breaking_Bad": {
+        "Breaking_Bad_Universe.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:38:27",
+            "document_type": "Breaking_Bad",
+            "entity_name": "Breaking_Bad_Universe",
+            "relative_path": "Breaking_Bad_Universe.txt"
+        },
+        "Characters/Gustavo_Fring.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:39:00",
+            "document_type": "Character",
+            "entity_name": "Gustavo_Fring",
+            "relative_path": "Characters/Gustavo_Fring.txt"
+        },
+        "Characters/Hank_Schrader.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:39:19",
+            "document_type": "Character",
+            "entity_name": "Hank_Schrader",
+            "relative_path": "Characters/Hank_Schrader.txt"
+        },
+        "Characters/Jesse_Pinkman.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:39:48",
+            "document_type": "Character",
+            "entity_name": "Jesse_Pinkman",
+            "relative_path": "Characters/Jesse_Pinkman.txt"
+        },
+        "Characters/Mike_Ehrmantraut.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:40:09",
+            "document_type": "Character",
+            "entity_name": "Mike_Ehrmantraut",
+            "relative_path": "Characters/Mike_Ehrmantraut.txt"
+        },
+        "Characters/Saul_Goodman.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:40:30",
+            "document_type": "Character",
+            "entity_name": "Saul_Goodman",
+            "relative_path": "Characters/Saul_Goodman.txt"
+        },
+        "Characters/Skyler_White.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:40:44",
+            "document_type": "Character",
+            "entity_name": "Skyler_White",
+            "relative_path": "Characters/Skyler_White.txt"
+        },
+        "Characters/Todd_Alquist.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:41:06",
+            "document_type": "Character",
+            "entity_name": "Todd_Alquist",
+            "relative_path": "Characters/Todd_Alquist.txt"
+        },
+        "Characters/Tuco_Salamanca.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:41:28",
+            "document_type": "Character",
+            "entity_name": "Tuco_Salamanca",
+            "relative_path": "Characters/Tuco_Salamanca.txt"
+        },
+        "Characters/Walter_White.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:41:52",
+            "document_type": "Character",
+            "entity_name": "Walter_White",
+            "relative_path": "Characters/Walter_White.txt"
+        },
+        "Drugs/Blue_Sky.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:42:17",
+            "document_type": "Drug",
+            "entity_name": "Blue_Sky",
+            "relative_path": "Drugs/Blue_Sky.txt"
+        },
+        "Drugs/Methamphetamine.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:42:39",
+            "document_type": "Drug",
+            "entity_name": "Methamphetamine",
+            "relative_path": "Drugs/Methamphetamine.txt"
+        },
+        "Drugs/Ricin.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:42:54",
+            "document_type": "Drug",
+            "entity_name": "Ricin",
+            "relative_path": "Drugs/Ricin.txt"
+        },
+        "Events/Death_of_Gale_Boetticher.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:43:13",
+            "document_type": "Event",
+            "entity_name": "Death_of_Gale_Boetticher",
+            "relative_path": "Events/Death_of_Gale_Boetticher.txt"
+        },
+        "Events/Death_of_Gustavo_Fring.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:43:28",
+            "document_type": "Event",
+            "entity_name": "Death_of_Gustavo_Fring",
+            "relative_path": "Events/Death_of_Gustavo_Fring.txt"
+        },
+        "Events/Death_of_Tuco_Salamanca.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:43:46",
+            "document_type": "Event",
+            "entity_name": "Death_of_Tuco_Salamanca",
+            "relative_path": "Events/Death_of_Tuco_Salamanca.txt"
+        },
+        "Events/Hank_Discovers_Heisenberg.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:44:01",
+            "document_type": "Event",
+            "entity_name": "Hank_Discovers_Heisenberg",
+            "relative_path": "Events/Hank_Discovers_Heisenberg.txt"
+        },
+        "Events/Ozymandias_The_Fall_of_Heisenberg.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:44:25",
+            "document_type": "Event",
+            "entity_name": "Ozymandias_The_Fall_of_Heisenberg",
+            "relative_path": "Events/Ozymandias_The_Fall_of_Heisenberg.txt"
+        },
+        "Events/Walters_Cancer_Diagnosis_and_First_Cook.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:44:44",
+            "document_type": "Event",
+            "entity_name": "Walters_Cancer_Diagnosis_and_First_Cook",
+            "relative_path": "Events/Walters_Cancer_Diagnosis_and_First_Cook.txt"
+        },
+        "Events/Walters_Final_Stand_Felina.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:45:19",
+            "document_type": "Event",
+            "entity_name": "Walters_Final_Stand_Felina",
+            "relative_path": "Events/Walters_Final_Stand_Felina.txt"
+        },
+        "Events/Wayfarer_515_Plane_Crash.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:45:41",
+            "document_type": "Event",
+            "entity_name": "Wayfarer_515_Plane_Crash",
+            "relative_path": "Events/Wayfarer_515_Plane_Crash.txt"
+        },
+        "Locations/Jacks_Compound.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:45:58",
+            "document_type": "Location",
+            "entity_name": "Jacks_Compound",
+            "relative_path": "Locations/Jacks_Compound.txt"
+        },
+        "Locations/Los_Pollos_Hermanos.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:46:21",
+            "document_type": "Location",
+            "entity_name": "Los_Pollos_Hermanos",
+            "relative_path": "Locations/Los_Pollos_Hermanos.txt"
+        },
+        "Locations/Saul_Goodmans_Office.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:46:45",
+            "document_type": "Location",
+            "entity_name": "Saul_Goodmans_Office",
+            "relative_path": "Locations/Saul_Goodmans_Office.txt"
+        },
+        "Locations/The_Superlab.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:47:07",
+            "document_type": "Location",
+            "entity_name": "The_Superlab",
+            "relative_path": "Locations/The_Superlab.txt"
+        },
+        "Locations/Tohajiilee_Desert.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:47:25",
+            "document_type": "Location",
+            "entity_name": "Tohajiilee_Desert",
+            "relative_path": "Locations/Tohajiilee_Desert.txt"
+        },
+        "Locations/White_Residence.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:47:44",
+            "document_type": "Location",
+            "entity_name": "White_Residence",
+            "relative_path": "Locations/White_Residence.txt"
+        }
+    },
+    "The_Hangover": {
+        "Characters/Alan_Garner.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:49:54",
+            "document_type": "Character",
+            "entity_name": "Alan_Garner",
+            "relative_path": "Characters/Alan_Garner.txt"
+        },
+        "Characters/Doug_Billings.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:50:18",
+            "document_type": "Character",
+            "entity_name": "Doug_Billings",
+            "relative_path": "Characters/Doug_Billings.txt"
+        },
+        "Characters/Jade.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:50:34",
+            "document_type": "Character",
+            "entity_name": "Jade",
+            "relative_path": "Characters/Jade.txt"
+        },
+        "Characters/Leslie_Chow.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:50:54",
+            "document_type": "Character",
+            "entity_name": "Leslie_Chow",
+            "relative_path": "Characters/Leslie_Chow.txt"
+        },
+        "Characters/Phil_Wenneck.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:51:13",
+            "document_type": "Character",
+            "entity_name": "Phil_Wenneck",
+            "relative_path": "Characters/Phil_Wenneck.txt"
+        },
+        "Characters/Sid_Garner.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:51:36",
+            "document_type": "Character",
+            "entity_name": "Sid_Garner",
+            "relative_path": "Characters/Sid_Garner.txt"
+        },
+        "Characters/Stu_Price.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:52:00",
+            "document_type": "Character",
+            "entity_name": "Stu_Price",
+            "relative_path": "Characters/Stu_Price.txt"
+        },
+        "Events/The_Hangover_Part_III_Final_Ride.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:52:23",
+            "document_type": "Event",
+            "entity_name": "The_Hangover_Part_III_Final_Ride",
+            "relative_path": "Events/The_Hangover_Part_III_Final_Ride.txt"
+        },
+        "Events/The_Hangover_Part_II_Bangkok.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:52:46",
+            "document_type": "Event",
+            "entity_name": "The_Hangover_Part_II_Bangkok",
+            "relative_path": "Events/The_Hangover_Part_II_Bangkok.txt"
+        },
+        "Events/The_Hangover_Part_I_Las_Vegas.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:53:03",
+            "document_type": "Event",
+            "entity_name": "The_Hangover_Part_I_Las_Vegas",
+            "relative_path": "Events/The_Hangover_Part_I_Las_Vegas.txt"
+        },
+        "Locations/Bangkok_Thailand.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:53:24",
+            "document_type": "Location",
+            "entity_name": "Bangkok_Thailand",
+            "relative_path": "Locations/Bangkok_Thailand.txt"
+        },
+        "Locations/Caesars_Palace_Las_Vegas.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:53:45",
+            "document_type": "Location",
+            "entity_name": "Caesars_Palace_Las_Vegas",
+            "relative_path": "Locations/Caesars_Palace_Las_Vegas.txt"
+        },
+        "Locations/The_Wolf_Pack.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:54:01",
+            "document_type": "Location",
+            "entity_name": "The_Wolf_Pack",
+            "relative_path": "Locations/The_Wolf_Pack.txt"
+        },
+        "The_Hangover_Universe.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T03:54:26",
+            "document_type": "The_Hangover",
+            "entity_name": "The_Hangover_Universe",
+            "relative_path": "The_Hangover_Universe.txt"
+        }
     }
 }
