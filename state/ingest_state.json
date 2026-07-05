@@ -1123,5 +1123,182 @@
             "entity_name": "The_Hangover_Universe",
             "relative_path": "The_Hangover_Universe.txt"
         }
+    },
+    "Demon_Slayer": {
+        "Breathing_Style/Beast_Breathing.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:51:33",
+            "document_type": "Breathing_Style",
+            "entity_name": "Beast_Breathing",
+            "relative_path": "Breathing_Style/Beast_Breathing.txt"
+        },
+        "Breathing_Style/Flame_Breathing.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:51:46",
+            "document_type": "Breathing_Style",
+            "entity_name": "Flame_Breathing",
+            "relative_path": "Breathing_Style/Flame_Breathing.txt"
+        },
+        "Breathing_Style/Love_Breathing.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:52:01",
+            "document_type": "Breathing_Style",
+            "entity_name": "Love_Breathing",
+            "relative_path": "Breathing_Style/Love_Breathing.txt"
+        },
+        "Breathing_Style/Moon_Breathing.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:52:34",
+            "document_type": "Breathing_Style",
+            "entity_name": "Moon_Breathing",
+            "relative_path": "Breathing_Style/Moon_Breathing.txt"
+        },
+        "Breathing_Style/Sun_Breathing_Hinokami_Kagura.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:52:51",
+            "document_type": "Breathing_Style",
+            "entity_name": "Sun_Breathing_Hinokami_Kagura",
+            "relative_path": "Breathing_Style/Sun_Breathing_Hinokami_Kagura.txt"
+        },
+        "Breathing_Style/Thunder_Breathing.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:53:04",
+            "document_type": "Breathing_Style",
+            "entity_name": "Thunder_Breathing",
+            "relative_path": "Breathing_Style/Thunder_Breathing.txt"
+        },
+        "Breathing_Style/Water_Breathing.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:53:23",
+            "document_type": "Breathing_Style",
+            "entity_name": "Water_Breathing",
+            "relative_path": "Breathing_Style/Water_Breathing.txt"
+        },
+        "Characters/Akaza.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:53:34",
+            "document_type": "Character",
+            "entity_name": "Akaza",
+            "relative_path": "Characters/Akaza.txt"
+        },
+        "Characters/Giyu_Tomioka.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:53:52",
+            "document_type": "Character",
+            "entity_name": "Giyu_Tomioka",
+            "relative_path": "Characters/Giyu_Tomioka.txt"
+        },
+        "Characters/Inosuke_Hashibira.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:54:04",
+            "document_type": "Character",
+            "entity_name": "Inosuke_Hashibira",
+            "relative_path": "Characters/Inosuke_Hashibira.txt"
+        },
+        "Characters/Kyojuro_Rengoku.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:54:28",
+            "document_type": "Character",
+            "entity_name": "Kyojuro_Rengoku",
+            "relative_path": "Characters/Kyojuro_Rengoku.txt"
+        },
+        "Characters/Mitsuri_Kanroji.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:54:42",
+            "document_type": "Character",
+            "entity_name": "Mitsuri_Kanroji",
+            "relative_path": "Characters/Mitsuri_Kanroji.txt"
+        },
+        "Characters/Muzan_Kibutsuji.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:54:58",
+            "document_type": "Character",
+            "entity_name": "Muzan_Kibutsuji",
+            "relative_path": "Characters/Muzan_Kibutsuji.txt"
+        },
+        "Characters/Nezuko_Kamado.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:55:10",
+            "document_type": "Character",
+            "entity_name": "Nezuko_Kamado",
+            "relative_path": "Characters/Nezuko_Kamado.txt"
+        },
+        "Characters/Tanjiro_Kamado.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:55:32",
+            "document_type": "Character",
+            "entity_name": "Tanjiro_Kamado",
+            "relative_path": "Characters/Tanjiro_Kamado.txt"
+        },
+        "Characters/Zenitsu_Agatsuma.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:55:45",
+            "document_type": "Character",
+            "entity_name": "Zenitsu_Agatsuma",
+            "relative_path": "Characters/Zenitsu_Agatsuma.txt"
+        },
+        "Demon_Slayer_Universe.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:56:11",
+            "document_type": "Demon_Slayer",
+            "entity_name": "Demon_Slayer_Universe",
+            "relative_path": "Demon_Slayer_Universe.txt"
+        },
+        "Events/Arcs/Entertainment_District_Arc.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:56:30",
+            "document_type": "Arc",
+            "entity_name": "Entertainment_District_Arc",
+            "relative_path": "Events/Arcs/Entertainment_District_Arc.txt"
+        },
+        "Events/Arcs/Final_Confrontation_Events.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:56:45",
+            "document_type": "Arc",
+            "entity_name": "Final_Confrontation_Events",
+            "relative_path": "Events/Arcs/Final_Confrontation_Events.txt"
+        },
+        "Events/Arcs/Final_Selection.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:57:03",
+            "document_type": "Arc",
+            "entity_name": "Final_Selection",
+            "relative_path": "Events/Arcs/Final_Selection.txt"
+        },
+        "Events/Arcs/Hashira_Training.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:57:19",
+            "document_type": "Arc",
+            "entity_name": "Hashira_Training",
+            "relative_path": "Events/Arcs/Hashira_Training.txt"
+        },
+        "Events/Arcs/Infinity_Castle_Developments.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:57:38",
+            "document_type": "Arc",
+            "entity_name": "Infinity_Castle_Developments",
+            "relative_path": "Events/Arcs/Infinity_Castle_Developments.txt"
+        },
+        "Events/Arcs/Mugen_Train_Mission.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:57:57",
+            "document_type": "Arc",
+            "entity_name": "Mugen_Train_Mission",
+            "relative_path": "Events/Arcs/Mugen_Train_Mission.txt"
+        },
+        "Events/Arcs/Natagumo_Mountain_Conflict.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:58:13",
+            "document_type": "Arc",
+            "entity_name": "Natagumo_Mountain_Conflict",
+            "relative_path": "Events/Arcs/Natagumo_Mountain_Conflict.txt"
+        },
+        "Events/Arcs/Swordsmith_Village_Arc.txt": {
+            "status": "completed",
+            "timestamp": "2026-07-05T07:58:31",
+            "document_type": "Arc",
+            "entity_name": "Swordsmith_Village_Arc",
+            "relative_path": "Events/Arcs/Swordsmith_Village_Arc.txt"
+        }
     }
 }
