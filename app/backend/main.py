@@ -24,6 +24,12 @@ from graph_utils import parse_graph_context
 # Adjust the default if you run uvicorn from a different working directory.
 DATA_DIR = Path(os.getenv("REPO_DATA_DIR", "../../data")).resolve()
 
+# Allowed CORS origins: always include localhost for dev; add FRONTEND_URL for prod.
+_frontend_url = os.getenv("FRONTEND_URL", "").strip()
+_allowed_origins = ["http://localhost:5173", "http://localhost:3000"]
+if _frontend_url:
+    _allowed_origins.append(_frontend_url)
+
 app = FastAPI(title="CogRealm API")
 
 @app.on_event("startup")
@@ -37,7 +43,7 @@ async def shutdown():
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=_allowed_origins,
     allow_methods=["*"],
     allow_headers=["*"],
 )
