@@ -450,6 +450,250 @@ body {
 }
 
 /* --- Graph --- */
+.graph-panel {
+  padding: 16px 32px 20px;
+  border-bottom: 1px solid var(--border);
+  animation: bridge-fade-in 0.2s ease;
+}
+
+.graph-panel-empty {
+  padding: 16px 32px;
+  color: var(--text-dim);
+  font-family: var(--font-mono);
+  font-size: 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.graph-controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--text-dim);
+}
+
+.graph-count-badge {
+  white-space: nowrap;
+  padding: 3px 8px;
+  background: var(--surface-raised);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 10px;
+  color: var(--text-dim);
+  font-family: var(--font-mono);
+}
+
+.graph-controls input[type="range"] {
+  flex: 1;
+  accent-color: var(--accent);
+}
+
+/* Canvas wrapper holds both SVG and the inspection card side-by-side */
+.graph-canvas-wrap {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.graph-svg {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  display: block;
+  flex-shrink: 0;
+}
+
+/* Base SVG text */
+.graph-svg text {
+  font-family: var(--font-body);
+  font-size: 10px;
+  fill: var(--text);
+  pointer-events: none;
+  user-select: none;
+}
+
+/* Center node labels */
+.graph-center-label {
+  font-family: var(--font-display) !important;
+  font-size: 12px !important;
+  font-weight: 700;
+  fill: #0b0e1a !important;
+}
+.graph-center-sublabel {
+  font-family: var(--font-mono) !important;
+  font-size: 8px !important;
+  fill: rgba(11,14,26,0.55) !important;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+/* Edge labels on curves */
+.graph-relation-label {
+  fill: var(--text-dim) !important;
+  font-family: var(--font-mono) !important;
+  font-size: 8.5px !important;
+  letter-spacing: 0.02em;
+  transition: opacity 0.2s;
+}
+
+/* Outer node initial letter */
+.graph-node-initial {
+  font-family: var(--font-display) !important;
+  font-size: 14px !important;
+  font-weight: 600;
+  transition: fill 0.2s;
+}
+
+/* Intelligent outer labels */
+.graph-outer-label {
+  font-family: var(--font-body) !important;
+  font-size: 10.5px !important;
+  fill: var(--text) !important;
+  transition: fill 0.15s;
+}
+
+/* Outer node group hover — make label brighter on hover */
+.graph-node-group:hover .graph-outer-label {
+  fill: var(--accent) !important;
+}
+.graph-node-group:hover .graph-outer-circle {
+  stroke-opacity: 0.9;
+}
+
+/* Animated edge path */
+.graph-edge {
+  transition: stroke-opacity 0.2s, stroke-width 0.2s;
+}
+
+/* Inspection Card */
+.graph-inspect-card {
+  min-width: 200px;
+  max-width: 240px;
+  background: var(--surface-raised);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px 16px 10px;
+  flex-shrink: 0;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+  animation: inspect-slide-in 0.18s ease;
+  align-self: center;
+}
+
+@keyframes inspect-slide-in {
+  from { opacity: 0; transform: translateX(10px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+.graph-inspect-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.graph-inspect-initial {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: var(--accent-soft);
+  border: 1.5px solid var(--accent);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display);
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--accent);
+  flex-shrink: 0;
+}
+
+.graph-inspect-meta {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-width: 0;
+}
+
+.graph-inspect-name {
+  font-family: var(--font-display);
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.graph-inspect-universe {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.graph-inspect-close {
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 13px;
+  cursor: pointer;
+  padding: 2px 4px;
+  border-radius: 4px;
+  line-height: 1;
+  flex-shrink: 0;
+  transition: color 0.15s;
+}
+.graph-inspect-close:hover { color: var(--text); }
+
+.graph-inspect-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  border-top: 1px solid var(--border);
+  padding-top: 10px;
+}
+
+.graph-inspect-row {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.graph-inspect-lbl {
+  font-family: var(--font-mono);
+  font-size: 9.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-dim);
+}
+
+.graph-inspect-val {
+  font-size: 13px;
+  color: var(--text);
+  font-weight: 500;
+}
+
+.graph-inspect-dir {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--accent);
+}
+
+.graph-inspect-footer {
+  margin-top: 10px;
+  font-family: var(--font-mono);
+  font-size: 9px;
+  color: var(--text-dim);
+  text-align: center;
+  opacity: 0.6;
+}
+
+
 .empty-state {
   margin: auto;
   display: flex;
@@ -465,6 +709,7 @@ body {
   font-size: 14px;
   margin: 0;
 }
+
 
 .empty-state-chips {
   display: flex;
@@ -508,61 +753,7 @@ body {
   color: var(--text);
 }
 
-.graph-panel {
-  padding: 16px 32px;
-  border-bottom: 1px solid var(--border);
-  animation: bridge-fade-in 0.2s ease;
-}
 
-.graph-panel-empty {
-  padding: 16px 32px;
-  color: var(--text-dim);
-  font-family: var(--font-mono);
-  font-size: 12px;
-  border-bottom: 1px solid var(--border);
-}
-
-.graph-controls {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  margin-bottom: 10px;
-  font-family: var(--font-mono);
-  font-size: 11px;
-  color: var(--text-dim);
-}
-
-.graph-controls input[type="range"] {
-  flex: 1;
-  accent-color: var(--accent);
-}
-
-.graph-svg {
-  width: 100%;
-  max-width: 420px;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
-
-.graph-svg text {
-  font-family: var(--font-body);
-  font-size: 10px;
-  fill: var(--text);
-}
-
-.graph-center-label {
-  font-family: var(--font-display) !important;
-  font-size: 11px !important;
-  font-weight: 600;
-  fill: #0b0e1a !important;
-}
-
-.graph-relation-label {
-  fill: var(--text-dim) !important;
-  font-family: var(--font-mono) !important;
-  font-size: 9px !important;
-}
 
 .bubble {
   max-width: 640px;
