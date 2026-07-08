@@ -1,4 +1,6 @@
-const BASE_URL = "http://localhost:8000";
+// In production, set VITE_API_URL to your deployed backend URL (e.g. https://cogrealm-api.vercel.app).
+// In local dev, it falls back to localhost:8000.
+const BASE_URL = import.meta.env.VITE_API_URL ?? "http://localhost:8000";
 
 export async function fetchUniverses() {
   const res = await fetch(`${BASE_URL}/universes`);
