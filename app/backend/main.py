@@ -26,9 +26,14 @@ DATA_DIR = Path(os.getenv("REPO_DATA_DIR", "../../data")).resolve()
 
 # Allowed CORS origins: always include localhost for dev; add FRONTEND_URL for prod.
 _frontend_url = os.getenv("FRONTEND_URL", "").strip()
-_allowed_origins = ["http://localhost:5173", "http://localhost:3000"]
+_allowed_origins = [
+    "http://localhost:5173",
+    "http://localhost:3000",
+    "https://cog-verse-living-fiction-memory.vercel.app"
+]
 if _frontend_url:
     _allowed_origins.append(_frontend_url)
+
 
 app = FastAPI(title="CogRealm API")
 
@@ -51,10 +56,22 @@ app.add_middleware(
 
 @app.exception_handler(Exception)
 async def unhandled_exception_handler(request: Request, exc: Exception):
+    # Ensure CORS headers are attached even on unhandled exceptions (like Cognee issues)
+    # so the frontend browser gets the actual error details instead of a generic CORS block.
+    headers = {}
+    origin = request.headers.get("origin")
+    if origin in _allowed_origins or "*" in _allowed_origins:
+        headers["Access-Control-Allow-Origin"] = origin or "*"
+        headers["Access-Control-Allow-Credentials"] = "true"
+        headers["Access-Control-Allow-Methods"] = "*"
+        headers["Access-Control-Allow-Headers"] = "*"
+    
     return JSONResponse(
         status_code=500,
         content={"error": str(exc), "error_type": type(exc).__name__},
+        headers=headers
     )
+
 
 
 def _list_universes():
