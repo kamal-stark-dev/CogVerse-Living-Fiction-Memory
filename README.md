@@ -4,7 +4,7 @@
 
 **CogVerse** turns wikis for fictional universes (_MCU, Harry Potter, Naruto, Kung Fu Panda, Breaking Bad, The Hangover, ..._) into queryable knowledge graphs using _Cognee_, then lets you have in-character conversations grounded in that graph — including conversations that reach across universes.
 
-![Iron Man Chat Demo](./assets_for_readme/main_demo.png)
+![CogVerse Thumbnail](./assets_for_readme/thumbnail.png)
 
 Examples of questions you can ask _CogVerse_:
 
@@ -309,6 +309,8 @@ Set `COGNEE_MODE=cloud` in `.env`, add your `COGNEE_API_KEY`, and re-run `ingest
 - The relationship graph caps at 12 visible nodes for readability; very well-connected characters will have more relationships than shown.
 - `graph_utils.py`'s parser is built against Cognee's current raw-context text format (`Connections:` block with `source --[relation]--> target` lines) — if a future Cognee version changes this format, the parser will need a small update.
 - No streaming responses — Groq is fast enough that this is rarely noticeable, but answers arrive all at once rather than token-by-token.
+
+![Iron Man Chat Demo](./assets_for_readme/main_demo.png)
 
 ## Credits
 
