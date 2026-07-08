@@ -5,9 +5,6 @@ from groq import Groq
 # Falls back gracefully to the server-side GROQ_API_KEY env var.
 _default_client = Groq(api_key=os.environ["GROQ_API_KEY"])
 
-# llama-3.3-70b-versatile was deprecated by Groq on June 17, 2026.
-# openai/gpt-oss-120b is the current recommended general-purpose replacement.
-# Verify against https://console.groq.com/docs/models before your demo.
 MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 
 

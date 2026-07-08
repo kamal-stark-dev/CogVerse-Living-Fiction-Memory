@@ -700,7 +700,7 @@ body {
   }
 }
 
-/* ── API Key Button (sidebar footer) ──────────────────────────── */
+/* --- API Key Button (sidebar footer) --- */
 
 .api-key-button {
   display: flex;
@@ -715,7 +715,10 @@ body {
   font-family: var(--font-body);
   font-size: 12px;
   cursor: pointer;
-  transition: border-color 0.2s, color 0.2s, background 0.2s;
+  transition:
+    border-color 0.2s,
+    color 0.2s,
+    background 0.2s;
   margin-bottom: 6px;
 }
 
@@ -736,7 +739,7 @@ body {
   background: rgba(76, 175, 114, 0.15);
 }
 
-/* ── API Key Modal ─────────────────────────────────────────────── */
+/* --- API Key Modal --- */
 
 .key-modal-overlay {
   position: fixed;
@@ -751,8 +754,12 @@ body {
 }
 
 @keyframes fadeIn {
-  from { opacity: 0; }
-  to   { opacity: 1; }
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 .key-modal {
@@ -769,8 +776,14 @@ body {
 }
 
 @keyframes slideUp {
-  from { transform: translateY(14px); opacity: 0; }
-  to   { transform: translateY(0);    opacity: 1; }
+  from {
+    transform: translateY(14px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
 }
 
 .key-modal-header {
@@ -802,7 +815,9 @@ body {
   padding: 4px 6px;
   border-radius: 6px;
   line-height: 1;
-  transition: color 0.15s, background 0.15s;
+  transition:
+    color 0.15s,
+    background 0.15s;
 }
 
 .key-modal-close:hover {
@@ -857,7 +872,9 @@ body {
   cursor: pointer;
   font-size: 15px;
   line-height: 1;
-  transition: color 0.15s, border-color 0.15s;
+  transition:
+    color 0.15s,
+    border-color 0.15s;
   flex-shrink: 0;
 }
 
@@ -883,7 +900,9 @@ body {
   font-family: var(--font-body);
   font-size: 14px;
   cursor: pointer;
-  transition: opacity 0.2s, transform 0.1s;
+  transition:
+    opacity 0.2s,
+    transform 0.1s;
 }
 
 .key-modal-save:hover:not(:disabled) {
@@ -905,7 +924,9 @@ body {
   font-family: var(--font-body);
   font-size: 14px;
   cursor: pointer;
-  transition: background 0.2s, border-color 0.2s;
+  transition:
+    background 0.2s,
+    border-color 0.2s;
 }
 
 .key-modal-remove:hover {
@@ -930,7 +951,7 @@ body {
 /* Footer link */
 .key-modal-footer {
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
   border-top: 1px solid var(--border);
   padding-top: 14px;
   margin-top: 2px;
@@ -944,7 +965,6 @@ body {
 }
 
 .key-modal-link:hover {
-  opacity: 0.75;
+  opacity: 0.9;
   text-decoration: underline;
 }
-
