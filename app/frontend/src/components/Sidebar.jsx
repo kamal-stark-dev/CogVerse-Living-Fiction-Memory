@@ -1,9 +1,10 @@
 import { useEffect, useState } from "react";
 import { fetchUniverses, fetchCharacters } from "../api";
 import { getTheme } from "../utils/themes";
-import { CONVERSATIONS_KEY, LAST_ACTIVE_KEY } from "../utils/storageKeys";
+import { CONVERSATIONS_KEY, LAST_ACTIVE_KEY, GROQ_KEY_KEY } from "../utils/storageKeys";
 import Avatar from "./Avatar";
 import Logo from "./Logo";
+import ApiKeyModal from "./ApiKeyModal";
 
 export default function Sidebar({
   selectedUniverse,
@@ -15,6 +16,23 @@ export default function Sidebar({
   const [charactersByUniverse, setCharactersByUniverse] = useState({});
   const [expanded, setExpanded] = useState(null);
   const [error, setError] = useState(null);
+  const [showKeyModal, setShowKeyModal] = useState(false);
+  // Track whether a key is currently saved so the badge updates live.
+  const [hasGroqKey, setHasGroqKey] = useState(
+    () => !!localStorage.getItem(GROQ_KEY_KEY),
+  );
+
+  // Keep the badge in sync when the modal saves/removes a key.
+  useEffect(() => {
+    const sync = () => setHasGroqKey(!!localStorage.getItem(GROQ_KEY_KEY));
+    window.addEventListener("storage", sync);
+    // Also poll on focus so changes made in the same tab (modal) are caught.
+    window.addEventListener("focus", sync);
+    return () => {
+      window.removeEventListener("storage", sync);
+      window.removeEventListener("focus", sync);
+    };
+  }, []);
 
   useEffect(() => {
     fetchUniverses()
@@ -141,10 +159,31 @@ export default function Sidebar({
       </div>
 
       <div className="archive-footer">
+        <button
+          type="button"
+          className={`api-key-button ${hasGroqKey ? "key-active" : ""}`}
+          onClick={() => {
+            setShowKeyModal(true);
+            // Re-check key presence every time the modal is opened
+            setHasGroqKey(!!localStorage.getItem(GROQ_KEY_KEY));
+          }}
+        >
+          🔑 {hasGroqKey ? "Key connected ✅" : "Add API Key"}
+        </button>
         <button type="button" className="reset-button" onClick={handleReset}>
           🔄 Reset demo data
         </button>
       </div>
+
+      {showKeyModal && (
+        <ApiKeyModal
+          onClose={() => {
+            setShowKeyModal(false);
+            // Sync badge immediately when modal closes
+            setHasGroqKey(!!localStorage.getItem(GROQ_KEY_KEY));
+          }}
+        />
+      )}
     </aside>
   );
 }

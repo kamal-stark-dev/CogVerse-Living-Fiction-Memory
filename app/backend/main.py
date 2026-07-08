@@ -128,6 +128,9 @@ class ChatRequest(BaseModel):
     question: str
     reference_universe: Optional[str] = None
     reference_query: Optional[str] = None
+    # User-supplied Groq API key from the frontend. When present, overrides the
+    # server-side GROQ_API_KEY for this request only — allows users to BYOK.
+    groq_api_key: Optional[str] = None
 
 
 @app.post("/chat")
@@ -160,7 +163,11 @@ async def chat(req: ChatRequest):
         reference_context=reference_context,
     )
 
-    answer = generate_reply(system_prompt, req.question)
+    answer = generate_reply(
+        system_prompt,
+        req.question,
+        api_key=req.groq_api_key or None,
+    )
 
     return {
         "answer": answer,

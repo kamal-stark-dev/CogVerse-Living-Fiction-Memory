@@ -1,2 +1,3 @@
-export const CONVERSATIONS_KEY = "cogrealm_conversations_v1";
-export const LAST_ACTIVE_KEY = "cogrealm_last_active_v1";
+export const CONVERSATIONS_KEY = "cogrealm:conversations";
+export const LAST_ACTIVE_KEY = "cogrealm:last_active";
+export const GROQ_KEY_KEY = "cogrealm:groq_api_key";
