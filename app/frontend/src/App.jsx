@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import Sidebar from "./components/Sidebar";
 import ChatThread from "./components/ChatThread";
+import NoticeBanner from "./components/NoticeBanner";
 import { sendChat } from "./api";
 import { getTheme } from "./utils/themes";
 import { CONVERSATIONS_KEY, LAST_ACTIVE_KEY } from "./utils/storageKeys";
@@ -145,29 +146,32 @@ export default function App() {
   };
 
   return (
-    <div className="app-shell">
-      <Sidebar
-        selectedUniverse={selectedUniverse}
-        selectedCharacter={selectedCharacter}
-        onSelectCharacter={handleSelectCharacter}
-        onExpandedChange={setExpandedUniverse}
-      />
-      <div className="main-column">
-        <ChatThread
-          speaker={selectedCharacter}
-          speakerUniverse={selectedUniverse}
-          onSend={handleSend}
-          messages={messages}
-          loading={loading}
-          crossUniverse={crossUniverse}
-          onToggleCrossUniverse={setCrossUniverse}
-          referenceUniverse={referenceUniverse}
-          referenceCharacter={referenceCharacter}
-          referenceQuery={referenceQuery}
-          onReferenceUniverseChange={setReferenceUniverse}
-          onReferenceCharacterChange={setReferenceCharacter}
-          onReferenceQueryChange={setReferenceQuery}
+    <div className="app-root">
+      <NoticeBanner />
+      <div className="app-shell">
+        <Sidebar
+          selectedUniverse={selectedUniverse}
+          selectedCharacter={selectedCharacter}
+          onSelectCharacter={handleSelectCharacter}
+          onExpandedChange={setExpandedUniverse}
         />
+        <div className="main-column">
+          <ChatThread
+            speaker={selectedCharacter}
+            speakerUniverse={selectedUniverse}
+            onSend={handleSend}
+            messages={messages}
+            loading={loading}
+            crossUniverse={crossUniverse}
+            onToggleCrossUniverse={setCrossUniverse}
+            referenceUniverse={referenceUniverse}
+            referenceCharacter={referenceCharacter}
+            referenceQuery={referenceQuery}
+            onReferenceUniverseChange={setReferenceUniverse}
+            onReferenceCharacterChange={setReferenceCharacter}
+            onReferenceQueryChange={setReferenceQuery}
+          />
+        </div>
       </div>
     </div>
   );
