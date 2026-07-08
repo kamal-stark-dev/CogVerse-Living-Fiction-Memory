@@ -17,16 +17,16 @@ export default function Sidebar({
   const [expanded, setExpanded] = useState(null);
   const [error, setError] = useState(null);
   const [showKeyModal, setShowKeyModal] = useState(false);
-  // Track whether a key is currently saved so the badge updates live.
+  // track whether a key is currently saved so the badge updates live.
   const [hasGroqKey, setHasGroqKey] = useState(
     () => !!localStorage.getItem(GROQ_KEY_KEY),
   );
 
-  // Keep the badge in sync when the modal saves/removes a key.
+  // keep the badge in sync when the modal saves/removes a key.
   useEffect(() => {
     const sync = () => setHasGroqKey(!!localStorage.getItem(GROQ_KEY_KEY));
     window.addEventListener("storage", sync);
-    // Also poll on focus so changes made in the same tab (modal) are caught.
+    // poll on focus so changes made in the same tab (modal) are caught.
     window.addEventListener("focus", sync);
     return () => {
       window.removeEventListener("storage", sync);
@@ -42,7 +42,6 @@ export default function Sidebar({
 
   // On page load, if a conversation was restored from localStorage, expand
   // that universe's accordion so the active character is visibly selected
-  // rather than just working invisibly in the background.
   useEffect(() => {
     if (selectedUniverse && !expanded) {
       setExpanded(selectedUniverse);
@@ -179,7 +178,7 @@ export default function Sidebar({
         <ApiKeyModal
           onClose={() => {
             setShowKeyModal(false);
-            // Sync badge immediately when modal closes
+            // sync badge immediately when modal closes
             setHasGroqKey(!!localStorage.getItem(GROQ_KEY_KEY));
           }}
         />
