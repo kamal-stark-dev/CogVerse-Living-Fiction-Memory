@@ -81,7 +81,11 @@ Instead of building another standard chatbot, we deployed **Cognee** as our prim
 
 6. **Persistent conversations** — chat history is kept per character and survives both switching characters and full page refreshes (via localStorage).
 
-7. **Local ↔ Cloud toggle** — a single COGNEE_MODE environment variable switches the entire pipeline between a local self-hosted Cognee instance and Cognee
+7. **Adding your own Groq key** - you can add your own Groq API Key if the limit of the current LLM is reached or if you want to your own key, it's completely safe and there is no need to have any safety concerns.
+
+![Example of adding your own API key](./assets_for_readme/adding_own_api_key.png)
+
+8. **Local ↔ Cloud toggle** — a single COGNEE_MODE environment variable switches the entire pipeline between a local self-hosted Cognee instance and Cognee
    Cloud, with zero code changes.
 
 ## Tech Stack
