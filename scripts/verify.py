@@ -40,15 +40,6 @@ VERIFY_QUESTIONS = {
         "Who trained Po?",
         "Who is Tai Lung?",
         "What is the Dragon Scroll?"
-    ],
-    "Test_Universe": [
-        # "Who is Iron Man?",
-        # "Who is Spider-Man?",
-        # "Where is Stark Tower?",
-        # "What is Arc Reactor?",
-        # "Who possesses the Infinity Stones?",
-        # "What happened during Civil War?"
-        "Who is Iron Man and Spider Man?"
     ]
 }
 
